@@ -150,22 +150,22 @@ const App: React.FC = () => {
                 </ul>
               </div>
             </div>
-          </div>
 
-          <div className="footer-bottom">
-            <div className="footer-copyright">
-              &copy; 2026 <strong>VetNexus</strong>. All rights preserved by <strong>OrbitSaaS</strong>.
-            </div>
-
-            {/* Developer Badge */}
-            <div className="developer-badge" onClick={() => window.open('https://orbitsaas.cloud', '_blank')}>
-              <div className="dev-photo-wrapper">
-                <img src="/adnan.png" alt="Md Adnan Shahria" className="dev-photo" />
+            {/* Column 3: Right Section (Badge + Copyright) */}
+            <div className="footer-right-column">
+              <div className="developer-badge" onClick={() => window.open('https://web.facebook.com/mohammed.adnan.shahria', '_blank')}>
+                <div className="dev-photo-wrapper">
+                  <img src="/adnan.png" alt="Md Adnan Shahria" className="dev-photo" />
+                </div>
+                <div className="dev-info">
+                  <span className="dev-label">Developed by</span>
+                  <span className="dev-name">Md Adnan Shahria</span>
+                  <span className="orbitsaas-mention">CEO, <a href="https://orbitsaas.cloud" target="_blank" rel="noreferrer" className="glow-link">OrbitSaaS</a></span>
+                </div>
               </div>
-              <div className="dev-info">
-                <span className="dev-label">Developed by</span>
-                <span className="dev-name">Md Adnan Shahria</span>
-                <span className="orbitsaas-mention">CEO, <a href="https://orbitsaas.cloud" target="_blank" rel="noreferrer">OrbitSaaS</a></span>
+              
+              <div className="footer-copyright">
+                &copy; 2026 <strong>VetNexus</strong>. All rights preserved by <a href="https://orbitsaas.cloud" target="_blank" rel="noreferrer" className="glow-link"><strong>OrbitSaaS</strong></a>.
               </div>
             </div>
           </div>
@@ -528,7 +528,7 @@ const SubjectMatrix: React.FC<{ universities: UniversityData[] }> = ({ universit
                   </div>
                   
                   {/* Mobile-only: chevron indicator */}
-                  <div className="premium-chevron-wrapper">
+                  <div className="premium-chevron-wrapper matrix-row-chevron">
                     <ChevronDown 
                       size={14} 
                       className={`accordion-chevron ${isExpanded ? 'expanded' : ''}`}
