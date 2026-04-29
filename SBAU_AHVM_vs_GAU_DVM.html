@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SBAU AHVM vs GAU DVM — কোর্স তুলনা</title>
+<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Tiro+Bangla&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --sbau: #1a4d8f;
+    --sbau-light: #e8f0fb;
+    --sbau-accent: #2563eb;
+    --gau: #7c2d12;
+    --gau-light: #fef3ee;
+    --gau-accent: #c2410c;
+    --bg: #f8f7f4;
+    --card: #ffffff;
+    --border: #e2e0db;
+    --text: #1c1917;
+    --text-muted: #78716c;
+    --shared: #065f46;
+    --shared-light: #ecfdf5;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Hind Siliguri', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  /* HERO */
+  .hero {
+    background: linear-gradient(135deg, var(--sbau) 0%, #1e3a5f 45%, var(--gau) 100%);
+    color: white;
+    padding: 48px 32px 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  }
+  .hero h1 {
+    font-family: 'Tiro Bangla', serif;
+    font-size: 2rem;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    position: relative;
+  }
+  .hero p {
+    margin-top: 10px;
+    opacity: 0.85;
+    font-size: 0.95rem;
+    position: relative;
+  }
+  .badges {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    position: relative;
+  }
+  .badge {
+    padding: 6px 18px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+  .badge-sbau { background: rgba(255,255,255,0.2); border: 1.5px solid rgba(255,255,255,0.4); }
+  .badge-gau  { background: rgba(255,255,255,0.15); border: 1.5px solid rgba(255,255,255,0.3); }
+
+  /* LEGEND */
+  .legend {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 14px 24px;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    flex-wrap: wrap;
+    font-size: 0.82rem;
+  }
+  .legend-item { display: flex; align-items: center; gap: 7px; }
+  .dot { width: 11px; height: 11px; border-radius: 3px; flex-shrink: 0; }
+  .dot-sbau { background: var(--sbau); }
+  .dot-gau  { background: var(--gau); }
+  .dot-shared { background: var(--shared); }
+
+  /* INFO BAR */
+  .info-bar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+    background: var(--card);
+    border-bottom: 2px solid var(--border);
+  }
+  .info-block {
+    padding: 18px 28px;
+    border-right: 1px solid var(--border);
+  }
+  .info-block:last-child { border-right: none; }
+  .info-block h3 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    margin-bottom: 6px;
+  }
+  .info-sbau h3 { color: var(--sbau-accent); }
+  .info-gau  h3 { color: var(--gau-accent); }
+  .info-block ul { list-style: none; font-size: 0.85rem; color: var(--text-muted); }
+  .info-block ul li { margin: 2px 0; }
+  .info-block ul li span { color: var(--text); font-weight: 500; }
+
+  /* MAIN */
+  main { max-width: 1400px; margin: 0 auto; padding: 28px 20px 60px; }
+
+  /* YEAR BLOCK */
+  .year-block { margin-bottom: 36px; }
+  .year-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    border-left: 4px solid var(--border);
+    padding-left: 12px;
+    margin-bottom: 16px;
+    letter-spacing: 0.3px;
+  }
+
+  /* SEMESTER ROW */
+  .semester-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 14px;
+  }
+  @media (max-width: 768px) { .semester-row { grid-template-columns: 1fr; } }
+
+  /* SEMESTER CARD */
+  .sem-card {
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  }
+  .sem-header {
+    padding: 10px 16px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .sem-header-sbau {
+    background: var(--sbau);
+    color: white;
+  }
+  .sem-header-gau {
+    background: var(--gau);
+    color: white;
+  }
+  .credit-badge {
+    background: rgba(255,255,255,0.2);
+    padding: 2px 9px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+  }
+
+  .course-list { list-style: none; background: var(--card); }
+  .course-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 9px 16px;
+    border-bottom: 1px solid #f3f2ef;
+    font-size: 0.84rem;
+    transition: background 0.15s;
+  }
+  .course-item:last-child { border-bottom: none; }
+  .course-item:hover { background: #fafaf8; }
+
+  .code {
+    font-family: 'Courier New', monospace;
+    font-size: 0.75rem;
+    font-weight: 700;
+    white-space: nowrap;
+    padding: 1px 6px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    margin-top: 1px;
+  }
+  .code-sbau { background: var(--sbau-light); color: var(--sbau); }
+  .code-gau  { background: var(--gau-light); color: var(--gau); }
+
+  .course-name { flex: 1; color: var(--text); font-weight: 400; }
+  .credit {
+    font-size: 0.73rem;
+    color: var(--text-muted);
+    white-space: nowrap;
+    font-weight: 500;
+    margin-top: 2px;
+  }
+
+  /* INTERNSHIP */
+  .internship-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--sbau);
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin-top: 6px;
+    font-size: 0.85rem;
+  }
+  .internship-card h4 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--sbau);
+    margin-bottom: 10px;
+  }
+  .intern-item {
+    display: flex;
+    gap: 10px;
+    padding: 5px 0;
+    border-bottom: 1px solid #f0f0ec;
+    align-items: center;
+  }
+  .intern-item:last-child { border-bottom: none; }
+
+  /* DIFF SECTION */
+  .diff-section {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 24px;
+    margin-top: 32px;
+  }
+  .diff-section h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 18px;
+    color: var(--text);
+  }
+  .diff-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  @media (max-width: 640px) { .diff-grid { grid-template-columns: 1fr; } }
+  .diff-col h3 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+  }
+  .diff-col-sbau h3 { background: var(--sbau-light); color: var(--sbau); }
+  .diff-col-gau  h3 { background: var(--gau-light); color: var(--gau); }
+  .diff-col ul { list-style: none; font-size: 0.83rem; }
+  .diff-col ul li {
+    padding: 5px 0 5px 14px;
+    border-bottom: 1px solid #f3f2ef;
+    position: relative;
+    color: var(--text-muted);
+  }
+  .diff-col ul li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--border);
+  }
+
+  /* GAU NOTE */
+  .gau-note {
+    background: #fffbeb;
+    border: 1px solid #fcd34d;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 0.82rem;
+    color: #92400e;
+    margin-bottom: 16px;
+  }
+  .gau-note strong { font-weight: 600; }
+
+  /* SUMMARY TABLE */
+  .summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+  }
+  .summary-table th {
+    padding: 10px 16px;
+    text-align: left;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    background: #f3f2ef;
+    color: var(--text-muted);
+  }
+  .summary-table td {
+    padding: 10px 16px;
+    border-top: 1px solid var(--border);
+    vertical-align: top;
+  }
+  .summary-table tr:hover td { background: #fafaf8; }
+  .tag-sbau {
+    display: inline-block;
+    background: var(--sbau-light);
+    color: var(--sbau);
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 1px 8px;
+    border-radius: 999px;
+    margin-right: 4px;
+  }
+  .tag-gau {
+    display: inline-block;
+    background: var(--gau-light);
+    color: var(--gau);
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 1px 8px;
+    border-radius: 999px;
+    margin-right: 4px;
+  }
+  .tag-both {
+    display: inline-block;
+    background: var(--shared-light);
+    color: var(--shared);
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 1px 8px;
+    border-radius: 999px;
+    margin-right: 4px;
+  }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>SBAU AHVM বনাম GAU DVM</h1>
+  <p>সম্পূর্ণ কোর্স কারিকুলাম তুলনা — সকল সেমিস্টার / টার্ম</p>
+  <div class="badges">
+    <div class="badge badge-sbau">শেরেবাংলা কৃষি বিশ্ববিদ্যালয় · B.Sc. Vet. Sci. & A.H.</div>
+    <div class="badge badge-gau">গাজীপুর কৃষি বিশ্ববিদ্যালয় · DVM</div>
+  </div>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="dot dot-sbau"></div> SBAU AHVM কোর্স</div>
+  <div class="legend-item"><div class="dot dot-gau"></div> GAU DVM কোর্স</div>
+</div>
+
+<div class="info-bar">
+  <div class="info-block info-sbau">
+    <h3>SBAU · Animal Science &amp; Veterinary Medicine</h3>
+    <ul>
+      <li>ডিগ্রি: <span>B.Sc. Vet. Sci. &amp; A.H.</span></li>
+      <li>মেয়াদ: <span>৫ বছর → ১০ সেমিস্টার</span></li>
+      <li>ক্রেডিট পদ্ধতি: <span>Semester System (Jan &amp; Jul)</span></li>
+      <li>মোট ক্রেডিট: <span>২২৮ ক্রেডিট</span></li>
+      <li>ইন্টার্নশিপ: <span>৫ম বর্ষের ২য় সেমিস্টার (২১ ক্রেডিট)</span></li>
+    </ul>
+  </div>
+  <div class="info-block info-gau">
+    <h3>GAU · Faculty of Veterinary Medicine &amp; Animal Science</h3>
+    <ul>
+      <li>ডিগ্রি: <span>DVM (Doctor of Veterinary Medicine)</span></li>
+      <li>মেয়াদ: <span>৫.৫ বছর → ট্রাইমেস্টার পদ্ধতি</span></li>
+      <li>ক্রেডিট পদ্ধতি: <span>Term System (Summer/Autumn/Winter)</span></li>
+      <li>প্রতি টার্ম: <span>১২ সপ্তাহ কার্যকর</span></li>
+      <li>বিভাগ: <span>১০টি একাডেমিক ডিপার্টমেন্ট</span></li>
+    </ul>
+  </div>
+</div>
+
+<main>
+
+<!-- ============================= SBAU LEVEL 1 ============================= -->
+<div class="year-block">
+  <div class="year-title">🎓 প্রথম বর্ষ (Level-1) — SBAU AHVM</div>
+
+  <div class="semester-row">
+    <!-- L1 S1 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-1, Semester-I</span>
+        <span class="credit-badge">২২ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item">
+          <span class="code code-sbau">APMA 111/112</span>
+          <span class="course-name">Animal Science &amp; Ecology</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">POSC 113/114</span>
+          <span class="course-name">Fundamental Poultry Science</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ANGB 115/116</span>
+          <span class="course-name">Fundamental Nutrition</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">MIPA 117/118</span>
+          <span class="course-name">General Microbiology</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">AGRO 119/120</span>
+          <span class="course-name">Fodder Production &amp; Management</span>
+          <span class="credit">1+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">DEPS 121</span>
+          <span class="course-name">Rural Sociology</span>
+          <span class="credit">2+0</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ENGL 123/124</span>
+          <span class="course-name">Advanced English Language Skills</span>
+          <span class="credit">1+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ANHP 125/126</span>
+          <span class="course-name">General Anatomy</span>
+          <span class="credit">2+1</span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- L1 S2 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-1, Semester-II</span>
+        <span class="credit-badge">২৪ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item">
+          <span class="code code-sbau">DASC 151/152</span>
+          <span class="course-name">Fundamental Dairy Science &amp; Market Milk</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ANGB 153/154</span>
+          <span class="course-name">Fundamental Genetics</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ANHP 155/156</span>
+          <span class="course-name">Systematic Anatomy</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ANHP 157/158</span>
+          <span class="course-name">Histology</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">ANHP 159/160</span>
+          <span class="course-name">General Physiology</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-sbau">BIOC 161/162</span>
+          <span class="course-name">Chemistry of Biomolecules</span>
+          <span class="credit">3+2</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================= GAU YEAR 1 ============================= -->
+<div class="year-block">
+  <div class="year-title">🎓 প্রথম বর্ষ (Year-1) — GAU DVM (ট্রাইমেস্টার পদ্ধতি)</div>
+  <div class="gau-note">
+    <strong>GAU নোট:</strong> GAU-তে বছরে ৩টি টার্ম থাকে — Summer, Autumn, Winter। কোর্স কোডের প্রথম সংখ্যা = বর্ষ; পরের দুটি সংখ্যা ০১–৩০ = ১ম টার্ম, ৩১–৬০ = ২য় টার্ম, ৬১–৯৯ = ৩য় টার্ম।
+  </div>
+
+  <div class="semester-row">
+    <!-- GAU Y1 T1 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-1, Term-1 (Summer)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item">
+          <span class="code code-gau">ANH 101</span>
+          <span class="course-name">Gross Anatomy I</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">ANH 102</span>
+          <span class="course-name">General Histology &amp; Embryology</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">ASN 101</span>
+          <span class="course-name">General Animal Science</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">MPH 101</span>
+          <span class="course-name">Animal Hygiene &amp; Bio-security</span>
+          <span class="credit">2+1</span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- GAU Y1 T2 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-1, Term-2 (Autumn)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item">
+          <span class="code code-gau">ANH 131</span>
+          <span class="course-name">Gross Anatomy II</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">ANH 132</span>
+          <span class="course-name">Systemic Histology</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">BMB 131</span>
+          <span class="course-name">Biophysics &amp; Chemistry of Biomolecules</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">DPS 131</span>
+          <span class="course-name">General Poultry Science</span>
+          <span class="credit">2+1</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="semester-row">
+    <!-- GAU Y1 T3 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-1, Term-3 (Winter)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item">
+          <span class="code code-gau">ASN 161</span>
+          <span class="course-name">Draught &amp; Meat Animal Production &amp; Management</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">DPS 161</span>
+          <span class="course-name">General Dairy Science</span>
+          <span class="credit">2+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">MPH 161</span>
+          <span class="course-name">General Microbiology</span>
+          <span class="credit">3+1</span>
+        </li>
+        <li class="course-item">
+          <span class="code code-gau">PHP 161</span>
+          <span class="course-name">General Physiology</span>
+          <span class="credit">3+1</span>
+        </li>
+      </ul>
+    </div>
+    <div></div>
+  </div>
+</div>
+
+<!-- ============================= SBAU LEVEL 2 ============================= -->
+<div class="year-block">
+  <div class="year-title">📚 দ্বিতীয় বর্ষ (Level-2) — SBAU AHVM</div>
+  <div class="semester-row">
+    <!-- L2 S1 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-2, Semester-I</span>
+        <span class="credit-badge">২২ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">APMA 211/212</span><span class="course-name">Beef Cattle, Draught &amp; Large Animal Production</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">DASC 213/214</span><span class="course-name">Dairy Chemistry &amp; Microbiology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANHP 215</span><span class="course-name">Endocrine Physiology</span><span class="credit">1+0</span></li>
+        <li class="course-item"><span class="code code-sbau">ANHP 217/218</span><span class="course-name">Embryology</span><span class="credit">1+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 219/220</span><span class="course-name">Bacteriology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 221/222</span><span class="course-name">General Parasitology &amp; Malacology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PATH 223/224</span><span class="course-name">General &amp; Nutritional Pathology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">AGEC 225</span><span class="course-name">Livestock Economics</span><span class="credit">2+0</span></li>
+        <li class="course-item"><span class="code code-sbau">ANHP 227</span><span class="course-name">Neuro-Physiology</span><span class="credit">1+0</span></li>
+      </ul>
+    </div>
+
+    <!-- L2 S2 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-2, Semester-II</span>
+        <span class="credit-badge">২৪ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">POSC 251/252</span><span class="course-name">Broiler &amp; Layer Production</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANGB 253/254</span><span class="course-name">Poultry Nutrition</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANHP 255/256</span><span class="course-name">Systemic Physiology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 257/258</span><span class="course-name">Virology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 259/260</span><span class="course-name">Nemathelminthes &amp; Platihelminthes</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PATH 261/262</span><span class="course-name">Systemic &amp; Aquatic Pathology &amp; Oncology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PTOX 263/264</span><span class="course-name">General Pharmacology</span><span class="credit">2+1</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================= GAU YEAR 2 ============================= -->
+<div class="year-block">
+  <div class="year-title">📚 দ্বিতীয় বর্ষ (Year-2) — GAU DVM</div>
+  <div class="semester-row">
+    <!-- GAU Y2 T1 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-2, Term-1 (Summer)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">ABG 201</span><span class="course-name">Animal Genetics</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">ASN 201</span><span class="course-name">Fodder Production</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">AEC 201</span><span class="course-name">Livestock Production Economics</span><span class="credit">3+0</span></li>
+        <li class="course-item"><span class="code code-gau">DPS 201</span><span class="course-name">Poultry Production &amp; Management</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PHP 201</span><span class="course-name">Systemic Physiology</span><span class="credit">3+1</span></li>
+      </ul>
+    </div>
+
+    <!-- GAU Y2 T2 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-2, Term-2 (Autumn)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">MPH 231</span><span class="course-name">Systemic Bacteriology &amp; Mycology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">ASN 231</span><span class="course-name">Wildlife, Zoo, Aquatic &amp; Companion Animal Management</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-231</span><span class="course-name">General &amp; Nutritional Pathology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-232</span><span class="course-name">General Parasitology &amp; Entomology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PHP 231</span><span class="course-name">Nutritional Physiology</span><span class="credit">2+0</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="semester-row">
+    <!-- GAU Y2 T3 -->
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-2, Term-3 (Winter)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">ASN 261</span><span class="course-name">Non-Ruminant Nutrition, Feeds &amp; Feeding</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">ANH 261</span><span class="course-name">Comparative Anatomy &amp; Neuro-anatomy</span><span class="credit">0+1</span></li>
+        <li class="course-item"><span class="code code-gau">DPS 261</span><span class="course-name">Dairy Animal Production &amp; Management</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">MPH 261</span><span class="course-name">Virology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-261</span><span class="course-name">Helminthology &amp; Malacology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PHP 261</span><span class="course-name">General Pharmacology &amp; Therapeutics</span><span class="credit">3+1</span></li>
+      </ul>
+    </div>
+    <div></div>
+  </div>
+</div>
+
+<!-- ============================= SBAU LEVEL 3 ============================= -->
+<div class="year-block">
+  <div class="year-title">🔬 তৃতীয় বর্ষ (Level-3) — SBAU AHVM</div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-3, Semester-I</span>
+        <span class="credit-badge">২৩ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">POSC 311/312</span><span class="course-name">Duck &amp; Specialized Fowl Production</span><span class="credit">1+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANGB 313/314</span><span class="course-name">Livestock &amp; Poultry Breeding</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANHP 316</span><span class="course-name">Comparative &amp; Neuro-Anatomy (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 319</span><span class="course-name">Mycology, Mycoplasmology, Rickettsiology &amp; Chlamydiology</span><span class="credit">1+0</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 321/322</span><span class="course-name">Veterinary Entomology &amp; Aquatic Parasitology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PTOX 325/326</span><span class="course-name">Systemic &amp; Aquatic Pharmacology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">AGST 327/328</span><span class="course-name">Biostatistics</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 329/330</span><span class="course-name">General &amp; Systemic Medicine</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 331/332</span><span class="course-name">General Surgery</span><span class="credit">2+1</span></li>
+      </ul>
+    </div>
+
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-3, Semester-II</span>
+        <span class="credit-badge">২৫ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">APMA 351/352</span><span class="course-name">Goat, Sheep &amp; Small Animal Production</span><span class="credit">1+1</span></li>
+        <li class="course-item"><span class="code code-sbau">DASC 353/354</span><span class="course-name">Dairy Cattle and Buffalo Production</span><span class="credit">1+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANGB 355/356</span><span class="course-name">Livestock Nutrition</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 357/358</span><span class="course-name">Immunology &amp; Serology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 359/360</span><span class="course-name">Protozoology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PTOX 361/362</span><span class="course-name">Toxicology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PATH 363/364</span><span class="course-name">Pathology of Infectious Diseases &amp; Avian Pathology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 365/366</span><span class="course-name">Farm Animal Medicine</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 367/368</span><span class="course-name">Anaesthesiology</span><span class="credit">1+1</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================= GAU YEAR 3 ============================= -->
+<div class="year-block">
+  <div class="year-title">🔬 তৃতীয় বর্ষ (Year-3) — GAU DVM</div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-3, Term-1 (Summer)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">MPH 301</span><span class="course-name">Immunology, Serology &amp; Molecular Technique</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-301</span><span class="course-name">Protozoology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-302</span><span class="course-name">Systemic Pathology &amp; Oncology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PHP 301</span><span class="course-name">Systemic Pharmacology</span><span class="credit">3+0</span></li>
+      </ul>
+    </div>
+
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-3, Term-2 (Autumn)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">ASN 331</span><span class="course-name">Meat Science, Wool Technology &amp; Byproduct Management</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">DPS 331</span><span class="course-name">Dairy &amp; Poultry Product Technology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-331</span><span class="course-name">Pathology of Infectious Diseases</span><span class="credit">3+0</span></li>
+        <li class="course-item"><span class="code code-gau">PHP 331</span><span class="course-name">Toxicology</span><span class="credit">3+1</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-3, Term-3 (Winter)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">ANH 361</span><span class="course-name">Topographic &amp; Surgical Anatomy</span><span class="credit">0+1</span></li>
+        <li class="course-item"><span class="code code-gau">ABG 361</span><span class="course-name">Animal Breeding</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">ASN 361</span><span class="course-name">Ruminant Nutrition, Feeds &amp; Feeding</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">MED 361</span><span class="course-name">General Medicine</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-361</span><span class="course-name">Avian Pathology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">SRA 361</span><span class="course-name">General Surgery</span><span class="credit">3+1</span></li>
+      </ul>
+    </div>
+    <div></div>
+  </div>
+</div>
+
+<!-- ============================= SBAU LEVEL 4 ============================= -->
+<div class="year-block">
+  <div class="year-title">🏥 চতুর্থ বর্ষ (Level-4) — SBAU AHVM</div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-4, Semester-I</span>
+        <span class="credit-badge">২৩ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">DASC 411/412</span><span class="course-name">Dairy Food Technology</span><span class="credit">1+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANGB 413/414</span><span class="course-name">Feed Processing, Conservation &amp; Feed Industry</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 417</span><span class="course-name">Animal Hygiene, Biosafety &amp; Biosecurity</span><span class="credit">2+0</span></li>
+        <li class="course-item"><span class="code code-sbau">PTOX 420</span><span class="course-name">Pharmacy &amp; Therapeutics (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 423/424</span><span class="course-name">Pet Animal Medicine</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 427/428</span><span class="course-name">Gynaecology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 429</span><span class="course-name">Molecular Microbiology</span><span class="credit">1+0</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 431/432</span><span class="course-name">Avian Medicine</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 433/434</span><span class="course-name">Farm Animal Surgery</span><span class="credit">2+1</span></li>
+      </ul>
+    </div>
+
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-4, Semester-II</span>
+        <span class="credit-badge">২২ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">APMA 451/452</span><span class="course-name">Wildlife, Zoo, Pet, Lab &amp; Aquatic Animal Management &amp; Conservation</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">POSC 453/454</span><span class="course-name">Breeder Farm &amp; Hatchery Management</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANGB 455/456</span><span class="course-name">Reproduction of Farm Animals &amp; Biotechnology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 457</span><span class="course-name">Zoonotic Microbiology</span><span class="credit">2+0</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 461/462</span><span class="course-name">Zoo, Lab, Wild &amp; Aquatic Animal Medicine</span><span class="credit">1+1</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 465/466</span><span class="course-name">Obstetrics</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">ANHP 470</span><span class="course-name">Clinical Anatomy (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 471</span><span class="course-name">Forensic Medicine, Jurisprudence &amp; Ethics</span><span class="credit">1+0</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 474</span><span class="course-name">Radiology, Clinics Surgery &amp; Theriogenology (Practical)</span><span class="credit">0+2</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================= GAU YEAR 4 ============================= -->
+<div class="year-block">
+  <div class="year-title">🏥 চতুর্থ বর্ষ (Year-4) — GAU DVM</div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-4, Term-1 (Summer)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">DPS 401</span><span class="course-name">Breeder Farm Management &amp; Hatchery Operation</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">GOR 401</span><span class="course-name">Gynecology &amp; Reproductive Biotechnology</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">MED 401</span><span class="course-name">Farm Animal Medicine</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">SRA 401</span><span class="course-name">Anesthesiology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">SRA 402</span><span class="course-name">Radiology &amp; Imaging</span><span class="credit">2+1</span></li>
+      </ul>
+    </div>
+
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-4, Term-2 (Autumn)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">GOR 431</span><span class="course-name">Andrology &amp; Artificial Insemination</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">MED 431</span><span class="course-name">Epidemiology &amp; Preventive Medicine</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">MED 432</span><span class="course-name">Avian Medicine</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">MPH 431</span><span class="course-name">Dairy Microbiology &amp; Food Hygiene</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">SRA 431</span><span class="course-name">Farm Animal Surgery</span><span class="credit">3+1</span></li>
+      </ul>
+    </div>
+  </div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-4, Term-3 (Winter)</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">GOR 461</span><span class="course-name">Reproductive Immunology &amp; Obstetrics</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">GOR 462</span><span class="course-name">Theriogenology of Wildlife, Zoo, Aquatic &amp; Companion Animals</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-gau">MED 461</span><span class="course-name">Metabolic &amp; Nutritional Diseases of Farm Animals</span><span class="credit">2+0</span></li>
+        <li class="course-item"><span class="code code-gau">MED 462</span><span class="course-name">Wildlife, Zoo, Aquatic &amp; Companion Animal Medicine</span><span class="credit">3+1</span></li>
+        <li class="course-item"><span class="code code-gau">SRA 461</span><span class="course-name">Wildlife, Zoo, Aquatic &amp; Companion Animal Surgery</span><span class="credit">2+1</span></li>
+      </ul>
+    </div>
+    <div></div>
+  </div>
+</div>
+
+<!-- ============================= SBAU LEVEL 5 ============================= -->
+<div class="year-block">
+  <div class="year-title">🩺 পঞ্চম বর্ষ (Level-5) — SBAU AHVM</div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-5, Semester-I</span>
+        <span class="credit-badge">২২ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">APMA 511/512</span><span class="course-name">Meat Technology &amp; Animal By-product Management</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MIPA 513/514</span><span class="course-name">Food Microbiology, Hygiene &amp; Safety</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">PATH 516</span><span class="course-name">Clinical Pathology &amp; Necropsy (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 520</span><span class="course-name">Clinical Medicine (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 521</span><span class="course-name">Epidemiology &amp; Preventive Medicine</span><span class="credit">1+0</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 523/524</span><span class="course-name">Pet, Zoo &amp; Aquatic Animal Surgery</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">SUTH 527/528</span><span class="course-name">Andrology &amp; Clinical Reproductive Technology</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">AEIS 529/530</span><span class="course-name">Livestock Extension &amp; Information System</span><span class="credit">2+1</span></li>
+        <li class="course-item"><span class="code code-sbau">MEPH 531/532</span><span class="course-name">Zoonoses &amp; Public Health</span><span class="credit">1+1</span></li>
+      </ul>
+    </div>
+
+    <div class="sem-card">
+      <div class="sem-header sem-header-sbau">
+        <span>Level-5, Semester-II — ইন্টার্নশিপ</span>
+        <span class="credit-badge">২১ ক্রেডিট</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-sbau">INCP 552</span><span class="course-name">Veterinary Clinical Practices</span><span class="credit">0+7</span></li>
+        <li class="course-item"><span class="code code-sbau">INFP 554</span><span class="course-name">Farm Management Practices</span><span class="credit">0+6</span></li>
+        <li class="course-item"><span class="code code-sbau">INLP 556</span><span class="course-name">Laboratory, Development &amp; Extension Practices</span><span class="credit">0+5</span></li>
+        <li class="course-item"><span class="code code-sbau">INSR 558</span><span class="course-name">Seminar &amp; Report Writing</span><span class="credit">0+3</span></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- ============================= GAU YEAR 5 ============================= -->
+<div class="year-block">
+  <div class="year-title">🩺 পঞ্চম বর্ষ (Year-5) — GAU DVM</div>
+  <div class="semester-row">
+    <div class="sem-card">
+      <div class="sem-header sem-header-gau">
+        <span>Year-5, Term-1 — Clinical &amp; Final Courses</span>
+      </div>
+      <ul class="course-list">
+        <li class="course-item"><span class="code code-gau">GOR 501</span><span class="course-name">Theriogenology (Clinics) (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-gau">MED 501</span><span class="course-name">Forensic Medicine, Jurisprudence &amp; Animal Welfare</span><span class="credit">3+0</span></li>
+        <li class="course-item"><span class="code code-gau">MED 502</span><span class="course-name">Medicine (Clinics) (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-gau">MPH 501</span><span class="course-name">Public Health &amp; Zoonoses</span><span class="credit">2+0</span></li>
+        <li class="course-item"><span class="code code-gau">PBL-501</span><span class="course-name">Clinical Pathology &amp; Necropsy (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-gau">PHP 501</span><span class="course-name">Clinical Pharmacology &amp; Pharmacy (Practical)</span><span class="credit">0+2</span></li>
+        <li class="course-item"><span class="code code-gau">SRA 501</span><span class="course-name">Surgery (Clinics) (Practical)</span><span class="credit">0+2</span></li>
+      </ul>
+    </div>
+    <div></div>
+  </div>
+  <p style="font-size:0.82rem; color:var(--text-muted); padding: 8px 4px;">
+    ℹ️ GAU DVM মোট সময়কাল ৫.৫ বছর — ৫ম বর্ষের পর ৬ মাস বাধ্যতামূলক ক্লিনিক্যাল ইন্টার্নশিপ অন্তর্ভুক্ত।
+  </p>
+</div>
+
+<!-- ============================= DIFF TABLE ============================= -->
+<div class="diff-section">
+  <h2>🔍 মূল পার্থক্য সারাংশ</h2>
+  <table class="summary-table">
+    <thead>
+      <tr>
+        <th>বিষয়</th>
+        <th><span class="tag-sbau">SBAU AHVM</span></th>
+        <th><span class="tag-gau">GAU DVM</span></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>ডিগ্রির নাম</strong></td>
+        <td>B.Sc. Vet. Sci. &amp; A.H.</td>
+        <td>DVM (Doctor of Veterinary Medicine)</td>
+      </tr>
+      <tr>
+        <td><strong>মেয়াদ</strong></td>
+        <td>৫ বছর (১০ সেমিস্টার)</td>
+        <td>৫.৫ বছর (ট্রাইমেস্টার + ইন্টার্নশিপ)</td>
+      </tr>
+      <tr>
+        <td><strong>কোর্স পদ্ধতি</strong></td>
+        <td>Semester System — বছরে ২টি (জানু ও জুলাই)</td>
+        <td>Term System — বছরে ৩টি (Summer/Autumn/Winter)</td>
+      </tr>
+      <tr>
+        <td><strong>মোট ক্রেডিট</strong></td>
+        <td>২২৮ ক্রেডিট</td>
+        <td>নির্দিষ্ট সংখ্যা উল্লেখিত নয় (প্রতিটি কোর্স পৃথক)</td>
+      </tr>
+      <tr>
+        <td><strong>ইন্টার্নশিপ</strong></td>
+        <td>L5S-II তে ২১ ক্রেডিট (Clinical + Farm + Lab + Seminar)</td>
+        <td>৫ম বর্ষ শেষে ৬ মাস ক্লিনিক্যাল ইন্টার্নশিপ</td>
+      </tr>
+      <tr>
+        <td><strong>SBAU-এ আছে, GAU-তে নেই</strong></td>
+        <td>Rural Sociology, Biostatistics, Livestock Extension, Agronomy (Fodder), Biochemistry (পৃথক), English Language</td>
+        <td>—</td>
+      </tr>
+      <tr>
+        <td><strong>GAU-তে আছে, SBAU-তে নেই</strong></td>
+        <td>—</td>
+        <td>Topographic &amp; Surgical Anatomy (পৃথক), Reproductive Immunology (পৃথক), Andrology (পৃথক কোর্স Y4), Nutritional Physiology (পৃথক), Biophysics</td>
+      </tr>
+      <tr>
+        <td><strong>উভয়তে আছে (মূল বিষয়)</strong></td>
+        <td colspan="2">
+          <span class="tag-both">Anatomy</span>
+          <span class="tag-both">Histology</span>
+          <span class="tag-both">Physiology</span>
+          <span class="tag-both">Pharmacology</span>
+          <span class="tag-both">Microbiology</span>
+          <span class="tag-both">Parasitology</span>
+          <span class="tag-both">Pathology</span>
+          <span class="tag-both">Surgery</span>
+          <span class="tag-both">Medicine</span>
+          <span class="tag-both">Obstetrics/Theriogenology</span>
+          <span class="tag-both">Poultry Science</span>
+          <span class="tag-both">Dairy Science</span>
+          <span class="tag-both">Epidemiology</span>
+          <span class="tag-both">Public Health &amp; Zoonoses</span>
+          <span class="tag-both">Avian Medicine</span>
+          <span class="tag-both">Clinical Pathology &amp; Necropsy</span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="diff-grid" style="margin-top:20px;">
+    <div class="diff-col diff-col-sbau">
+      <h3>SBAU AHVM — বিশেষ বৈশিষ্ট্য</h3>
+      <ul>
+        <li>Aquatic/Wildlife পশু ব্যবস্থাপনা ও মেডিসিন একই সাথে</li>
+        <li>Animal By-product ম্যানেজমেন্ট আলাদা কোর্স</li>
+        <li>Livestock Extension &amp; Information System</li>
+        <li>Rural Sociology ও Agricultural Statistics বাধ্যতামূলক</li>
+        <li>Biochemistry পৃথক বিষয় হিসেবে ১ম বর্ষেই</li>
+        <li>Molecular Microbiology ও Zoonotic Microbiology পৃথক</li>
+        <li>ইন্টার্নশিপে ৪ভাগে বিভক্ত (Clinical + Farm + Lab + Seminar)</li>
+      </ul>
+    </div>
+    <div class="diff-col diff-col-gau">
+      <h3>GAU DVM — বিশেষ বৈশিষ্ট্য</h3>
+      <ul>
+        <li>পূর্ণ DVM ডিগ্রি — অধিক ক্লিনিক্যাল ফোকাস</li>
+        <li>Radiology &amp; Imaging পৃথক কোর্স (Y4)</li>
+        <li>Reproductive Immunology আলাদা বিষয়</li>
+        <li>Andrology &amp; AI পৃথক কোর্স</li>
+        <li>Gynecology, Obstetrics, Theriogenology তিনটি পৃথক কোর্স</li>
+        <li>Wildlife/Zoo-র জন্য আলাদা Surgery ও Medicine কোর্স (Y4)</li>
+        <li>Forensic Medicine + Animal Welfare একত্রে (Y5)</li>
+        <li>Biophysics আলাদাভাবে শেখানো হয়</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<p style="text-align:center; margin-top:32px; font-size:0.78rem; color:var(--text-muted);">
+  তথ্যসূত্র: SBAU AHVM Outcome Based Curriculum (2018) | GAU FVMAS Combined Course Content (2026) · adnan-এর জন্য তৈরি
+</p>
+
+</main>
+</body>
+</html>

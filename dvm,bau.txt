@@ -1,0 +1,3977 @@
+ 
+ 
+1
+CURRICULAR LAYOUT FOR THE DEGREE OF DVM
+CURRICULAR LAYOUT FOR THE DEGREE OF DVM
+CURRICULAR LAYOUT FOR THE DEGREE OF DVM
+CURRICULAR LAYOUT FOR THE DEGREE OF DVM 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-1, SEMESTER
+1, SEMESTER
+1, SEMESTER
+1, SEMESTER-1 
+ 
+Course No.  
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VAH 111, 112 
+Anatomy (Osteology, Arthrology, Myology and 
+Angiology) 
+3+1 
+5 
+2 
+VAH 114 
+General Histology and Embryology 
+0+1 
+2 
+1 
+VPHY 111, 112 
+Basic and Circulatory Physiology 
+2+1 
+4 
+2 
+BCHEM 111, 112 
+Biophysics and Chemistry of Biomolecules 
+3+1 
+5 
+2 
+AS115, 116 
+Animal Science 
+3+1 
+5 
+2 
+LAN 111 
+English Language 
+2+0 
+2 
+1 
+CSM 112 
+Computer Application 
+0+1 
+2 
+1 
+ 
+Total : 
+13+6=19 
+25 
+11 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-1, SEMESTER
+1, SEMESTER
+1, SEMESTER
+1, SEMESTER-2 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VAH 121, 122 
+Anatomy (Splanchnology, Neurology and 
+Aesthesiology) 
+3+1 
+5 
+2 
+VAH 123, 124 
+Systemic Histology 
+3+1 
+5 
+2 
+VPHY 121, 122 
+Integral Physiology 
+1+1 
+3 
+2 
+VMH 121, 122 
+Bacteriology 
+3+1 
+5 
+2 
+BCHEM 123, 124 
+Metabolism of Biomolecules 
+3+1 
+5 
+2 
+PS 123,124 
+Elementary Poultry Science 
+3+1 
+5 
+2 
+ 
+Total : 
+16+6=22 
+28 
+12 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-2, SEMESTER
+2, SEMESTER
+2, SEMESTER
+2, SEMESTER-1 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VAH 216 
+Comparative Anatomy and Neuroanatomy 
+0+1 
+2 
+1 
+VPHY 211 
+Nutritional Physiology 
+2+0 
+2 
+1 
+VMH 211, 212 
+Virology 
+3+1 
+5 
+2 
+VPAR 211, 212 
+General Parasitology, Helminthology and 
+Malacolog 
+3+1 
+5 
+2 
+AGRON 211, 212 
+Forage Agronomy 
+2+1 
+4 
+2 
+STAT 215, 216 
+Biostatistics 
+2+1 
+4 
+2 
+DS 213, 214 
+Elementary Dairy Science 
+3+1 
+5 
+2 
+ 
+Total : 
+15+6=21 
+27 
+12 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-2, SEMESTER
+2, SEMESTER
+2, SEMESTER
+2, SEMESTER-2 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VPHY 221 
+Endocrine and Reproductive Physiology 
+2+0 
+2 
+1 
+VMH 222 
+Mycology, Rickettsiology, Mycoplasmology and 
+Chlamydiology 
+0+1 
+2 
+1 
+VMH 223, 224 
+Immunology and Serology 
+2+1 
+4 
+2 
+VPAR 221, 222 
+Entomology 
+2+1 
+4 
+2 
+VPATH 221, 222 
+General Pathology 
+3+1 
+5 
+2 
+VPHA 221, 222 
+General Pharmacology and Chemotherapeutics 
+3+1 
+5 
+2 
+AN 223, 224 
+Animal Nutrition 
+3+1 
+5 
+2 
+ 
+Total : 
+15+6=21 
+27 
+12 
+ 
+ 
+ 
+2
+LEVEL
+LEVEL
+LEVEL
+LEVEL-3, SEMESTER
+3, SEMESTER
+3, SEMESTER
+3, SEMESTER-1 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VAH 318 
+Applied Anatomy (Topographic and surgical anatomy) 
+0+1 
+2 
+1 
+VMH 311, 312 
+Animal and Poultry Hygiene and Management 
+3+1 
+5 
+2 
+VPAR 311, 312 
+Protozoology 
+2+1 
+4 
+2 
+VPHA 311 
+Systemic Pharmacology 
+3+0 
+3 
+1 
+VPATH 311, 312 
+Systemic Pathology and Oncology 
+3+1 
+5 
+2 
+VM 311, 312 
+Clinical Methodology 
+2+1 
+4 
+2 
+AS 311, 312 
+Animal Waste Management 
+2+1 
+4 
+2 
+ 
+Total : 
+15+6=21 
+27 
+12 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-3, SEMESTER
+3, SEMESTER
+3, SEMESTER
+3, SEMESTER-2 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VPATH 321 
+Pathology of  Infectious and Non-Infectious Diseases 
+2+0 
+2 
+1 
+VPHA 321, 322 
+Toxicology 
+3+1 
+5 
+2 
+VM 321, 322 
+Epidemiology and Preventive Medicine 
+3+1 
+5 
+2 
+VM 323, 324 
+Systemic Diseases of Farm Animals 
+3+1 
+5 
+2 
+VSO 321, 322 
+General Surgery 
+3+1 
+5 
+2 
+ABG 329, 330 
+Genetics and Animal Breeding 
+3+1 
+5 
+2 
+ 
+Total : 
+17+5=22 
+27 
+11 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-4, SEMESTER
+4, SEMESTER
+4, SEMESTER
+4, SEMESTER-1 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VPATH 411, 412 
+Poultry Pathology 
+2+1 
+4 
+2 
+VM 411, 412 
+Small, Zoo and Laboratory Animal Medicine 
+3+1 
+5 
+2 
+VM 413 
+Metabolic and Nutritional Diseases of Farm Animals 
+2+0 
+2 
+1 
+VSO 411 
+Anesthesiology 
+3+0 
+3 
+1 
+VSO 413, 414 
+Obstetrics and Gynaecology 
+3+1 
+5 
+2 
+FS 413, 414 
+Livestock Farm Design and Environment 
+3+1 
+5 
+2 
+FPM 4101, 4102 
+Farm Operation and Management 
+3+1 
+5 
+2 
+ 
+Total : 
+19+5=24 
+29 
+12 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-4, SEMESTER
+4, SEMESTER
+4, SEMESTER
+4, SEMESTER-2 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VM 421, 422 
+Infectious Diseases of Farm Animals 
+3+1 
+5 
+2 
+VM 423, 424 
+Poultry Medicine 
+2+1 
+4 
+2 
+VSO 423, 424 
+Radiology and Soundness 
+2+1 
+4 
+2 
+VMH 421, 422 
+Food Hygiene, Microbiology and Safety 
+2+1 
+4 
+2 
+VSO 425, 426 
+Andrology and Artificial Insemination 
+2+1 
+4 
+2 
+AGEXT 423, 424 
+Agricultural Extension Education 
+3+1 
+5 
+2 
+ 
+Total : 
+14+6=20 
+26 
+12 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-5, SEMESTER
+5, SEMESTER
+5, SEMESTER
+5, SEMESTER-1 
+ 
+Course No. 
+Course Title 
+Credit hrs 
+Contact hrs. 
+No. of courses 
+VPHA 512 
+Clinical Pharmacology and Pharmacy 
+0+1 
+2 
+1 
+VPATH 512 
+Clinical Pathology and Necropsy 
+0+1 
+2 
+1 
+VM 512 
+Clinics (Medicine) 
+0+1 
+2 
+1 
+VSO 512 
+Clinics (Theriogenology) 
+0+1 
+2 
+1 
+VSO 514 
+Clinics (Surgery) 
+0+1 
+2 
+1 
+VMH 511 
+Veterinary Public Health 
+2+0 
+2 
+1 
+VM 511 
+Forensic Medicine, Jurisprudence and Animal Welfare 
+2+0 
+2 
+1 
+VSO 517, 518 
+Operative Surgery 
+3+1 
+5 
+2 
+AE 511, 512 
+Livestock Production Economics 
+3+1 
+5 
+2 
+ 
+Total : 
+10+7=17 
+24 
+11 
+ 
+Grand Total : 
+187 
+ 
+ 
+ 
+LEVEL
+LEVEL
+LEVEL
+LEVEL-5, SEMESTER
+5, SEMESTER
+5, SEMESTER
+5, SEMESTER-2 
+ 
+  Internship  
+12 credits 
+ 
+ 
+ 
+3
+SYLLABUS FOR DVM DEGREE
+SYLLABUS FOR DVM DEGREE
+SYLLABUS FOR DVM DEGREE
+SYLLABUS FOR DVM DEGREE 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester I 
+COURSE NO.: VAH 111 
+Course Title: Anatomy (Osteology, Arthrology, Myology and Angiology) 
+Credit hour: 3 
+1. Introduction: Definition, importance, classification of anatomy, topographic and descriptive terms.  
+2. Osteology: Skeleton, structure, composition and classification of bones of domestic animals and birds. 
+3. Arthrology: Definition and classification of joints, characteristics of a typical joint and its associated structures of 
+domestic animals and birds. 
+4. Myology: Muscles of the different regions of the body of domestic animals and birds. 
+5. Angiology: Organs of circulation of domestic animals and birds. 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester I 
+COURSE NO.: VAH 112 
+Course Title: Anatomy (Osteology, Arthrology, Myology and Angiology) 
+Credit hour: 1 
+Morphological characters of the bones, joints, muscles and organs of circulation as per theory courses.  
+ 
+Books Recommended (VAH 111 & 112) 
+1. Sisson and Grossman’s The Anatomy of the Domestic Animals, Robert Getty, (1975). Vol. 1 & 2, 5th edition, W.B. 
+Saunders Company Philadelphia, London, Toronto.  
+2. Bovine Anatomy, McLeod, W.M. (1964). 2nd edition, Burger publishing Company.  
+3. The Anatomy of Sheep, Neil D.S. May. (1977). 3rd edition, University of Queensland Press, Sydney.  
+4. A guide to Regional Ruminant Anatomy Based on the Dissection of the Goat Gheorgh M. Constantinescu, Iowa State 
+University Press/Ames.  
+5. Anatomy and Physiology of Farm Animals, R.D. Frandson, T.L. Spurgeon, (1992). 5th edition, Lippincott Williams and 
+Wilkins Company, Philadelphia, London.  
+6. Form and function in birds, King, A.S. and McLelland, J., Academic Press, London.  
+7. Sturkie’s Avian Physiology, Whittow, G.G. (2000). 5th edition, Academic Press, London. 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester II 
+COURSE NO.: VAH 121 
+Course Title: Anatomy (Splanchnology, Neurology and Aesthesiology) 
+Credit hour: 3  
+1. 
+Splanchnology: The digestive, respiratory, urogenital and endocrine system of domestic animals and birds. 
+2. 
+Aesthesiology: Special sense organs (eye, ear, olfactory and gustatory apparatus) and common integument of domestic 
+animals and birds. 
+3. 
+Neurology: Definition and classification of nervous system, neuron, structures/organs of the nervous system (brain, 
+spinal card, nerve, nerve trunk and nerve plexuses) of domestic animals and birds. 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester II 
+COURSE NO.: VAH 122 
+Course Title: Anatomy (Splanchnology, Neurology and Aesthesiology) 
+Credit hour: 1  
+Morphological characters of all the visceral organs, sense organs, endocrine organs and organs of circulation of domestic 
+animals and birds. 
+ 
+Books Recommended (VAH 121 & 122) :  
+1. 
+Sisson and Grossman’s The Anatomy of the Domestic Animals, Robert Getty, (1975). Vol. 1 & 2, 5th edition, W.B. 
+Saunders Company Philadelphia, London, Toronto.  
+2. 
+Bovine Anatomy, McLeod, W.M. (1964). 2nd edition, Burger publishing Company.  
+3. 
+Anatomy and Physiology of Farm Animals, R.D. Frandson, T.L. Spurgeon, (1992). 5th edition, Lippincott Williams and 
+Wilkins Company, Philadelphia, London.  
+4. 
+A guide to Regional Ruminant Anatomy Based on the Dissection of the Goat Gheorgh M. Constantinescu, Iowa State 
+University Press/Ames.  
+5. 
+Form and function in birds, King, A.S. and McLelland, J., Academic Press, London. 
+ 
+ 
+4
+6. 
+Sturkie’s Avian Physiology, Whittow, G.G. (2000). 5th edition, Academic Press, London. 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level II, Semester I 
+COURSE NO.: VAH 216 
+Course Title: Comparative Anatomy and Neuroanatomy 
+Credit hour: 1 
+Comparative Anatomy:  
+Comparative study of the bones and visceral organs (digestive, respiratory, urogenital, cardiovascular and nervous 
+system) of horse, cattle, goat, sheep, dog, cat and birds.  
+ 
+Neuroanatomy:  
+1. 
+Introduction to Neuroanatomy  
+2. 
+Structures of the central nervous system (CNS) and its coverings.  
+3. 
+Blood and CSF circulation of brain. 
+4. 
+Origin, course and distribution of cranial and spinal nerves.  
+5. 
+Autonomic nervous system (ANS)   
+ 
+Books Recommended  
+1. Sisson and Grossman’s The Anatomy of the Domestic Animals, Robert Getty, (1975). Vol. 1 & 2, 5th edition, W.B. 
+Saunders Company Philadelphia, London, Toronto.  
+2. Bovine Anatomy, McLeod, W.M. (1964). 2nd edition, Burger publishing Company.  
+3. The Anatomy of Sheep, Neil D.S. May, (1977). 3rd edition, University of Queensland Press, Sydney.  
+4. Anatomy of the Dog, Miller, M.E. (1964). 1st edition, W.B. Saunders Company Philadelphia, London.  
+5. A Functional approach to neuroanatomy, Earl Lawrence House and Ben Pansky, (1967). 2nd edition, McGraw-hill Book 
+Company, New York, Toronto, Sydney, London.  
+6. The Anatomy of the Nervous system by Ranson and Clark, 10th edition, W.B. Saunders Company, Philadelphia.   
+7. Anatomy and Physiology of Farm Animals, R.D. Frandson, T.L. Spurgeon, (1992). 5th edition, Lippincott Williams and 
+Wilkins Company, Philadelphia, London.  
+8. Form and function in birds, King, A.S. and McLelland, J., Academic Press, London. 
+9. Sturkie’s Avian Physiology, Whittow, G.G. (2000). 5th edition, Academic Press, London. 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level III, Semester I 
+COURSE NO.: VAH 318  
+Course Title: Applied Anatomy (Topographic and Surgical Anatomy) 
+Credit hour: 1 
+1. Introduction to topographic and surgical anatomy  
+2. Surface anatomy of the head, neck, thorax, abdomen, pelvis and limbs of domestic animals and surgical intervention.   
+3. 
+Topographic location of the organs of different systems of the body of domestic animals and birds in relation to surgery.  
+4. Cranial and spinal nerves with reference to their surgical intervention of domestic animals and birds.  
+ 
+Books Recommended:  
+1. Sisson and Grossman’s The Anatomy of the Domestic Animals, Robert Getty, (1975). Vol. 1 & 2, 5th edition, W.B. 
+Saunders Company Philadelphia, London, Toronto.  
+2. Bovine Anatomy, McLeod, W.M. (1964). 2nd edition, Burger publishing Company.  
+3. Dollar’s Veterinary Surgery, J.J. O’ Connor, (1980). 4th edition, C.B.S. Publishers & Distributors, India. 
+4. Veterinary Operative Surgery. (1966), Dr. H.C. Elwald Berge and Dr. H.C. Melchior Westhues. 1st edition, Medical Book 
+Company, Denmant.  
+5. Essentials of Veterinary Surgery by A. Venugopalan, 8th edition Oxford and IBH Publishing Co. Pvt. Ltd.  
+6. Veterinary Surgical Techniques by A. Kumar, 2nd Reprint 2000, Typest at Print Craft, New Delhi-110 005. 
+7. Surgery to Reproductive tract by John E. Cox, 3rd edition, Liverpool University Press. 
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester I 
+COURSE NO.: VAH 114 
+Course Title: General Histology and Embryology 
+Credit hour: 1 
+1. Microscope and its handling.  
+2. General staining technique and preparation of the histological slides.  
+3. Microscopic study of cell and cell division.  
+ 
+ 
+5
+4. Microscopic study of basic tissues of animal body: Epithelial tissue, connective tissue, muscular tissues, nervous tissue 
+and blood.  
+5. Gametogenesis, cleavage and gastrulation.  
+6. Demonstration of chick’s embryo at different stages of development.  
+ 
+Books Recommended: 
+1. Color Atlas of Veterinary Histology, by William J. Bacha, Jr. Linda, M. Linda, M. Wood, Lea and Fiebiger, Philadelphia.  
+2. Color Atlas of Human Histology, by Mariano, S.H. Di. Fiora, 4th edition, lea and Fiebiger, Philadelphia.  
+3. Manual of histologic and special staining techniques. Gridley, M.F. McGraw-Hill Book Co., New York. 
+4. Animal tissue technique. Humason, G.L., W.H. Freeman and Co., London. 
+5. The Early Embryology of the chick, Bradley M. Pattern, (1971). 5th edition, McGraw-Hill Book Company New York.  
+6. Foundations of Embryology, Bradley M. Pattern and Bruce M Carlson, (1774), 3rd edition, McGraw-Hill book Company 
+New York.  
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester II 
+COURSE NO.: VAH 123 
+Course Title: Systemic Histology 
+Credit hour: 3 
+Histology of different systems of domestic animals and birds: 
+ 
+1. Digestive system: Segments of the alimentary tract and accessory organs.  
+2. Respiratory system: Nasal passages, larynx, trachea and the lungs.  
+3. Circulatory system: Organs of circulation (heart and blood vessels), lymphatic tissues and organs.  
+4. Urinary system: Kidney, ureter, urinary bladder and urethra.  
+5. Genital system: Male and female reproductive organs.  
+6. Endocrine system: Pituitary, adrenal, thyroid, parathyroid, pancreas and gonads.  
+7. Skin and appendages.  
+ 
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology
+Department of Anatomy and Histology 
+Level I, Semester II 
+COURSE NO.: VAH 124 
+Course Title: Systemic Histology 
+Credit hour: 1 
+Histological study of the organs of different systems of domestic animals and birds as per theory courses.  
+ 
+Books Recommended (123 & 124)  
+1. Textbook of Veterinary Histology by B.D. Dellmann. 1998, 5th edition, Lea and Fiebiger, Philadelaphia.  
+2. Fundamentals of the Histology of Domestic Animals by Trautmann, Alfred and Fiebiger Tosel. 1957, 13th edition Itheca, 
+Comstock pub. Associates.  
+3. Bailey’s Test Book of Histology by Copenharver W.M. and Bunge R.P. 1975, 16th edition, The William and Alikins 
+company/Daltimare.  
+4. Basic Histology, by L. Carlos Junqueira, J. Carneiro, Robert, O. Kelly, 7th edition, Prentice-Hall International Inc.   
+5. Color Atlas of Veterinary Histology, by William J. Bacha, Jr. Linda, M. Linda, M. Wood, Lea and Febiger, Philadelphia.  
+6. Color Atlas of Human Histology, by Mariano, S.H. Di. Fiora, 4th edition, lea and Febiger, Philadelphia. 
+7. The histology of the fowl. Hodges, R.D., Academic Press, London. 
+Department of physiology 
+Level-I, Semester-1 
+COURSE NO: VPHY 
+COURSE NO: VPHY 
+COURSE NO: VPHY 
+COURSE NO: VPHY – 111
+ 111
+ 111
+ 111 
+Course Title: Basic and Circulatory Physiology 
+Credit hour: 2 
+Introduction:  
+Organization of the cell, Physical structure and functional system of the cell. 
+Physiological phenomenon, Transport through the cell membrane- Active and Passive  process . Membrane potentials, Action 
+potentials, excitation and rhythmicity. 
+ 
+Blood:  
+Properties, Cellular and chemical constituents of blood, Hemoglobin, Hematopoiesis, Fate of blood cells, Blood volume, 
+Abnormalities of blood cells (anemia, polycythemia, leukocytosis, blood cancer etc), Blood coagulation, Haemaglutination, 
+Blood groups and immunogenetics, Plasma and serum, Clinical parameters of blood. 
+ 
+ 
+ 
+6
+Other body fluid:  
+Tissue fluid, lymph, synovial fluid and cerebrospinal fluid, their formation and functions. 
+ 
+Cardiovascular Physiology:  
+Heart, Courses of circulation, Special circulations, Origin and conduction heart beat, action potential and cardiac cycle, 
+Electrocardiogram, Heart sounds, Heart block, Regulation of heart. 
+Blood vessels, Blood pressure, vasomotor mechanism. 
+ 
+Department of physiology 
+Level-I, Semester-1 
+COURSE NO: VPHY – 112 
+Course Title: Basic and Circulatory Physiology 
+Credit hour: 1 
+Preparation of chemicals and reagents for hematological studies. 
+Collection of blood from different animals and birds. 
+Study of hemolysis and estimation of hemoglobin, 
+Determination of erythrocyte sedimentation rate and Packed cell volume, 
+Total count of RBC and WBC, differential leukocyte count, Hemin test. 
+Effects of temperature and drugs in heart. 
+ 
+Books Recommended:( VPHY-111 & 112) 
+1. Dukes Physiology of Domestic Animals  by  Melvin J Swenson  9th Edn.2000, Cornel University Press, USA. 
+2. Text Book of Medical Physiology   by Arther C Guyton and John E Hall 9th 1996, Edn. W B Saunders Company, USA. 
+3. Review of Physiology by L L Langley  3rd Edn. McGraw – Hill Book Company, USA. 
+4. Hematology and Urinalysis  by  S L Lamberg and R Rothstein, AVI Publishing Company, USA. 
+ 
+Department of physiology 
+Level-I, Semester-2 
+COURSE NO: VPHY – 121 
+Course Title: Integral Physiology 
+Credit hour: 1 
+Urinary system: 
+Functions of kidney.  Urine formation, urine volume regulation, micturition, renal clearance.  
+Respiratory system: 
+Definition, types, mechanisms of respiration, exchange and transport of respiratory gases, volumes of air respired, regulation 
+of respiration, pulmonary compliance, Respiration in birds.  
+Muscular system: 
+Properties and functions of muscles, isotonic and isometric contraction, changes in the muscle during contraction, rigormortis. 
+Nervous system: 
+Neuron, classification, nerve, stimuli, receptors, synapse, nerve impulse, autonomic nervous system. 
+ 
+Temperature regulation: 
+Core and shell temperature, adaptation of animals in different climatic conditions, hypothermia and hyperthermia, hibernation, 
+heat stroke and sunstroke, frostbite. 
+Homeostasis: 
+Acid and Base balance. Buffers, role of different systems in maintenance of acid bases balance. Clinical aspects of acid bas 
+balance. 
+ 
+Department of physiology 
+Level-I, Semester-2 
+COURSE NO: VPHY – 122 
+Course Title: Integral Physiology 
+Credit hour: 1 
+Tests for bile constituents. 
+ 
+ 
+7
+General chemistry of urine. Physical examination of urine e.g. volume, colour, odour, transparency. Determination of specific 
+gravity of urine. 
+Estimation of ammonia, chloride, phosphate. 
+Test for abnormal constituents of urine eg. glucose, albumin, acetone, calcium, bile pigment, bile salts etc. Microscopic 
+examination of urinary sediments. 
+Pregnancy determination by barium chloride test. 
+Determination of respiratory air volumes. 
+ 
+Books Recommended:(VPHY-121 & 122) 
+1. Dukes Physiology of Domestic Animals  by  Melvin J Swenson  9th Edn. 2000 Cornel University Press, USA. 
+2. Text Book of Medical Physiology   by Arther C Guyton and John E Hall 9th Edn. 1996 W B Saunders Company, USA. 
+3. Review of Physiology by L L Langley  3rd Edn. 1971, McGraw – Hill Book Company, USA. 
+4. Hematology and Urinalysis  by  S L Lamberg and R Rothstein, 1978, AVI Publishing Company, USA. 
+ 
+Department of Physiology 
+Level-2, Semester-1 
+COURSE NO: VPHY – 211 
+Course Title: Nutritional Physiology 
+Credit hour: 2 
+Livestock feed: 
+Feeds of ruminants, monogastric animals and birds, composition of feed stuffs, feed supplements, balanced diet 
+Digestion: 
+Digestion of feed stuffs, factors of digestion, prehension, mastication, composition, function and regulation of digestive juices. 
+Digestion in simple and compound stomached animal. Movement of gastrointestinal tract, feces and defecation. Digestion in 
+birds. 
+ 
+Absorption of Nutrients: 
+Sites, routes and mechanism of absorption. Absorption of carbohydrate, protein, fat, vitamins, minerals and water. 
+ 
+Utilization of Nutrients: 
+Metabolism of carbohydrate, protein and Fat. Nutrients homeostasis. Nutrient exchange and utilization by body tissues. 
+Disorders of carbohydrate, protein and fat metabolism. Factors affecting metabolism. 
+ 
+Vitamins and Minerals: 
+Fat and Water Soluble Vitamins - their sources, functions and deficiency symptoms in animals and birds.  Major (Calcium, 
+Phosphorus, Magnesium, Sodium, Potassium, Sulphur) and trace (Iron, Copper, Cobalt, Manganese, Zinc) elements- their 
+sources, functions and deficiency symptoms in animals and birds. 
+ 
+Books Recommended: 
+1. Dukes Physiology of Domestic Animals. Melvin J Swenson  9th Edn. 2000, Cornel University Press, USA. 
+2. Text Book of Medical Physiology. Arther C Guyton and John E Hall 9th Edn. 1996 W B Saunders Company, USA. 
+3. Review of Physiology. L L Langley  3rd Edn., 1971,  McGraw – Hill Book Company, USA. 
+4. Animal Nutrition.  P. Mcdonald, RA Edward and JFD Greenhalgh, Latest Edn, ELBS/ Longman., USA. 
+Department of physiology 
+Level-2, Semester-2 
+COURSE NO: VPHY – 221 
+Course Title: Endocrine & Reproductive Physiology 
+Credit hour: 2 
+Endocrinology: 
+Introduction, Hormone: classification, mode of action, regulation of hormone secretion. Hormones of pituitary, thyroid, 
+adrenal, parathyroid, pineal, pancreas, testis, ovary, corpus luteum, uterus and placenta - their secretions, mode of action and 
+function. 
+ 
+Reproductive Physiology: 
+Male: Spermatogenesis, transportation of spermatozoa, semen, capacitation. Preservation of spermatozoa for artificial 
+insemination, Thermoregulation of testis. Male sex hormones, their mode of action and functions. 
+ 
+ 
+8
+ 
+Female: Functions of ovary, folliculogenesis, ovulation and transport of ova, reproductive cycle, corpus luteum- its formation 
+and function, fertilization, cleavage and implantation, establishment of pregnancy, gestation and prenatal physiology, 
+parturition, role of foetus in initiation of parturition, lactation. Post purtum reproduction. Nutritional aspects of reproduction. 
+Reproductive failure in females.  
+Physiology of superovulation for embryo transfer. 
+  
+Reproduction in birds: Spermatogenesis, ovogenesis, maturation of eggs, eggshell formation and laying. Factors affecting 
+reproduction in birds. 
+ 
+Books Recommended: 
+1. Dukes Physiology of Domestic Animals by Melvin J Swenson 9th Edn. 2000, Cornel University Press, USA. 
+2. Text Book of Medical Physiology   by Arther C Guyton and John E Hall 9th Edn, 1996, W B Saunders Company, USA. 
+3. Veterinary Endocrinology and Reproduction by L. E. McDonald, 1980, Lea and Febiger, Philadelphea, USA. 
+4. Reproduction in Farm Animals by EE Hafez, 6th Edn, 1993, Lea and Febiger, Philadelphea, USA. 
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 1, Semester 2 
+COURSE NO.: VMH 121 
+Course Title: Bacteriology 
+Credit hour: 3 
+History, development and concepts of Microbiology with special emphasis on Bacteria. Definition and general 
+properties of Bacteria. Differentiation of prokaryote from eukaryote. Morphology, microscopic and ultramicroscopic structures 
+including their composition and function of Bacteria. Nutrition, cultivation and growth of Bacteria.  
+Physiology and metabolism of Bacteria.  
+Bacterial genetics: Replication of DNA and RNA, plasmid, gene transfer (transformation, conjugation, transduction, 
+F-factor, C-factor and R-factor) mutation and their effects.  
+Pathogenic microorganisms and their relationship to diseases; Mechanisms of infection. Microbial virulence: Factors 
+influencing virulence, Koch's postulate.  
+Toxins: Exotoxin, endotoxin and their effect on host tissues; role of antitoxin against toxins. Sterilization and 
+disinfection: Methods of sterilization, types of disinfectants and their characteristics. Classification of bacteria. Studies of the 
+morphological, 
+biochemical, 
+cultural 
+characteristics 
+of 
+Streptococcus, 
+Staphylococcus, 
+Bacillus, 
+Clostridium, 
+Corynebacterium, Listeria, Erysipelothrix, Actinomyces, Actinobacillus, Escherichia, Salmonella, Pasteurella, Shigella, 
+Klebsiella, Proteous, Yersinia, Vibrio, Pseudomonas, Mycobacterium, Leptospira, Campylobacter, Brucella, Borrelia, 
+Bordetella, Spherophorus, Spirillium, Nocardia and Moraxella with a brief reference to their pathogenicity.  
+Molecular Bacteriology: Genomic DNA, Plasmid DNA, PCR, Gel electrophoresis, Pulse-field gel electrophoresis, 
+Recombinant DNA technology: Cloning and gene expression, hybridization techniques, SDS-PAGE, Western 
+blotting, and immuno-chemiluminescent assay. 
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 1, Semester 2 
+COURSE NO.: VMH 122 
+Course Title: Bacteriology 
+Credit hour: 1 
+ 
+Collection of samples for bacteriological investigations. Methods of sterilization, preparation of culture media and  
+staining techniques. Cultural characteristics of bacteria. Isolation and identification of bacteria by animal inoculation, 
+biochemical tests, serological tests and molecular techniques: PCR, SDS-PAGE, Western blotting. Extraction and analysis of 
+genomic and plasmid DNA from selective bacteria. Competent cell preparation and transformation. Drug sensitivity of 
+different types of bacteria. 
+Books Recommened : (VMH 121 &  122) 
+1. Molecular biology. 2nd. Edition. Kumar, H.D. 2000. Vikas Publishing House. Pvt. Ltd. 
+2. Molecular genetics of bacteria. 3rd edition. Dale, J.W. 1998. John Wiley and Sons, Inc. 605, Third Avenue, New York.   
+3. Animal Microbiology, Vol. 1. Buxton, A. and Frazer, G. 1977. Blackwell Scientific Publication.  
+4. Veterinary Bacteriology and Virology. 7th edition. Marchant, I. A. and Packer, R.A. 1967. The Lows state University 
+press, Ames, lowa, USA. 
+ 
+ 
+9
+5. Burrows Textbook of Microbiology. 1st edition. Freeman, BA. 1979. W.B. Saunders Company; philadephia. London, 
+Toronto.   
+6. Topley and Wilson's principles of Bacteriology, Virology and Immunity, Vol, 1.2 and 3. Smith, G.R.Ed. 1984. Arnold 
+Heinemann.   
+7. Microbiology. Davis, B.D. 1980. Harper and Row Publication.  
+8. Essential immunology. Roit. I.M. 1980. Blackwell Scientific Publication.  
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 2, Semester 1 
+COURSE NO.: VMH 211 
+Course Title: Virology 
+Credit hour: 3 
+History of Virology, definition, general properties of Virus and differentiation of Virus from other Microorganisms.  
+Composition and functions of viral structures, antigenic determinants or epitopes.  
+Physical, chemical and biological properties of Viruses. Nomenclature and classification of Viruses.  
+Viral genetics: Scope, Genetic map and viral genome organization. 
+Inactivation and preservation of Viruses. 
+Purification of Viruses.  
+Replication of Viruses and their effects on host at cellular and multi-cellular level. 
+Molecular Virology: Definition and scope of Molecular Virology.  Viral DNA and RNA, PCR, RT-PCR, Gel electrophoresis, 
+Pulse-field gel electrophoresis, Recombinant DNA technology: Cloning and gene expression, Hybridization techniques, SDS-
+PAGE, Western blotting and Immuno-chemiluminescent assay. 
+Bacteriophage.  
+Epidemiology of Viral Infection.   
+Resistance to Viral infection and immunity: Interference phenomenon and interferon.  
+Viral vaccines and chemotherapy.  
+Persistent Viral infection and slow Viruses.  
+Studies on the properties, cultivation, pahthogenicity, transmission, immunity and diagnosis of different Virus families: 
+Paramyxoviridae, Orthomyxoviridae, Rhabdoviridae, Coronaviridae, Retroviridae, Picornaviridae, Reoviridae, Togaviridae, 
+Flaviviridae, Bunyaviridae, Birnaviridae, Circoviridae, Poxviridae, Parvoviridae, Papovaviridae, Adenoviridae, Herpesviridae 
+and Iridoviridae of animals, birds and human.  
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 2, Semester 2 
+COURSE NO.: VMH 212 
+Course Title: Virology 
+Credit hour: 1 
+ 
+Selection, collection, transportation, preservation and preparation of virological specimens for laboratory 
+examination. Filters and filtration techniques. Cell culture media and other necessary biologics, chemicals and reagents 
+preparation. Cultivation and titration of viruses in intact host system, embryonated eggs, cell culture system. Purification of 
+virus. Virus infectivity assay: Plaque assay, Focus assay. Identification of viral diseases through different serological tests. 
+Extraction of virus RNA. Identification of Viruses by PCR and RT-PCR, Virus gene expression, analysis of viral proteins 
+using SDS-PAGE: coomassie brilliant blue and silver stain, Western blotting and Immuno-chemiluminescent assay.  
+ 
+Books Recommened : (VMH 211 &   212) 
+1. Molecular cloning. Laboratory Manual. T. Maniatis and E.F. Fritsch, 2000. Clod spring Harbor Laboratory, USA.  
+2. Animal Microbiology, Vol. 1. Buxton, A. and Frazsr, G. 1977. Blackwell Scientific Publication.  
+3. Principles of Animal Virology. Joklik, W.K., 1988. Appletoncentury-crofts, New York. 
+4. Viral and rickettsial infection of Animal. Bets A.O. and York, C.J., 1967. New York Academic press.  
+5. Topley and Wilson's Principles of Bacteriology, Virology and Immunity, vol. 4. Smith, G.R. (Rdt.). 1984. Arnold-Heine-
+mann.   
+6. Veterinary Viruses. Russel, P.H. andEdingon, N., 1985. Edington Russel Publisher.    
+7. Genes VII. 1st edition. Benjamin, L ., 2000. Oxford University Press.  
+ 
+ 
+10
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 2, Semester 2 
+COURSE NO.: VMH 222, 
+Course Title: Mycology, Rickettsiology, Mycoplasmology and Chlamydiology 
+Credit hour: 1 
+Fungi: Classification, properties, sample collection, preservation, transportation and cultivation of the important fungi of 
+animals, poultry and man. Diagnosis of fungi by culture, staining, biochemical tests and molecular techniques. 
+Mycoplasma: Classification, properties, sample collection, preservation, transportation cultivation of the important animal and 
+poultry mycoplasma. Diagnosis of mycoplasma by culture, staining,biochemical and  serological tests and molecular 
+techniques. 
+Rickettsia: Classification, properties, sample collection, preservation, transportation cultivation of the important animal and 
+human rickettsia:  Diagnosis of rickettsia by culture, staining, biochemical and serological tests and molecular techniques 
+Chlamydia: Classification, properties, sample collection, preservation, transportation cultivation of the important animal, 
+poultry and human chlamydia. Diagnosis of chlamydia by culture, staining, biochemical and serological tests and molecular 
+techniques. 
+ 
+Books Recommened  
+1. Medical mycology. Beueke, E. S. 1996. Burgess Publishing Co. 426, South Sixth Street, Minnesota.   
+2. Animal Microbiology, Vol. II. Buxton, A. and Frazsr, G. 1977. Blackwell Scientific Publication. 
+3. Viral and rickettsial infection of animals. Betts, A. O. and York, C. J. 1967. New York Academic Press. 
+4. Atlas of Medical mycology. 2nd edition. Moss, E.S. and Mconown, A.L. 1969. Williams and Wilkings Co. Baltimore.  
+5. The biology of fungi. Ingold, C.T. 1973. The English language book society and Hutchinson of London.  
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 2, Semester 2 
+COURSE NO.: VMH 223 
+Course Title: Immunology and Serology 
+Credit hour: 2 
+History and modern concepts of Immunology and Serology. 
+Organs and cells associated with immunity.  
+Definition and types of immunity and resistance. General features and mechanism of immune response. Antigen: Definition, 
+composition, properties, types and functions. Processing of antigen and their relationship with Major Histo-compatibility 
+Complex (MHC) molecules. Response of B and T cell to antigen. Antigen binding sites and their genetics.  
+Antibody: Definition, properties, types and function. Theory of antibody (Ab) production. Antigen-antibody reaction and their 
+consequences.  
+Chemical Mediators of the Immune system. Complement system and their role in immunity.  
+Induction of immune response and immune effector mechanisms. Hypersensitivity and immune tolerance: Different types of 
+hypersensitivity, factors responsible for immune tolerance. Principles of different serological tests: Agglutination test, 
+precipitation test, hemagglutination activity, Hemagglutination–inhibition, Passive hemagglutination tests, Complement 
+fixation test, Fluorescent antibody technique (FAT), Radioimmunoassay, Immunohistochemistry, Enzyme linked 
+immunosorbent assay (ELISA), Immunodiffusion test, Serum neutralization test (SNT), Focus inhibition test (FIT), counter 
+immuno-electrophoresis and Protection test (PT). 
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 2, Semester 2 
+ 
+ 
+11
+COURSE NO.: VMH 224 
+Course Title: Immunology and Serology 
+Credit hour: 1 
+ 
+Preparation and purification of antigens. Reagents employed in serological tests, detection and measurement of 
+antibody. RBC suspension preparation. Collection of sera from immunized and non-immunized animals, poultry and 
+laboratory animals. Hyperimmune sera preparation. Procedures and uses of different serological tests: Agglutination test, 
+precipitation test, hemagglutination activity, Hemagglutination –inhibition, Passive hemagglutination tests, Complement 
+fixation test, Fluorescent antibody technique (FAT), Enzyme linked immunosorbent assay (ELISA), Immunohistochemical 
+techniques, Immunodiffusion test, Serum neutralization test (SNT), Focus inhibition test (FIT) and Protection test (PT). 
+ 
+Books Recommened :( VMH 223 &  224) 
+1. An introduction to Veterinary Immunology, 5th Edition. Tizard, I. 1982. W.B. Saunders Co., Philadelphia, London, 
+Toronto.  
+2. Essential Immunology. Roit, I.M. 1980. Blackwell Scientific Publication, Oxford.    
+3. Practical immunology. 3rd edition. Hudson, L. and Hay, F.C. 1989. Blackwell Scientific Publication, Oxford.   
+4. Immunology II. Bellanti, J.A. 1978. W.B. Saunders Company, Philadelphia, London. 
+5. Immunology. 2nd edition. Hood, L.E., Weissman, I.L.l Wood, W.B. and Wilson, J.H. 1984. The Benjamin Cummings 
+Publishing Company, Inc.    
+6. Fundamentals of immunology. 2nd edition. Bier, O.G., Silva, D.D., Gotze, D. and Mota, I. 1986. Springer Verlag, berlin 
+Heidelberg, New York.  
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 5, Semester 1 
+COURSE NO.: VMH 511 
+Course Title: Veterinary Public Health 
+Credit hour. 2 
+Definition, scopes, objectives of Veterinary Public Health. The common basis for veterinary and Public Health practices. 
+Human-animal interaction & animal production systems & veterinary public health. 
+Pubic Health Team: Organization, administration and function. The role of veterinarians and other related professional in the 
+protection of human health through the safe production of foods of animal origin.   
+Zoonoses: Concepts and classification. Factors affecting the spread of zoonotic diseases. Impact of zoonosis on health. Role of 
+reservoir host and vectors in transmitting zoonotic diseases. Emergent zoonotic diseases.  Prevention, control and eradication 
+of zoonotic diseases and their control program.  
+Concepts, scope, objective and type of Epidemiology. Ecology and ecological imbalance. Disease surveillance and risk 
+analysis. Disseminating information on veterinary public health; quality and safety assurance in food production (meat, milk 
+and eggs).         
+Causes of multifactorial diseases: Agents, host and environmental factors.  
+General methods of epidemiological investigation of zoonotic diseases.  
+Environmental Hygiene: Water and air pollution and their remediation. Water related infections. Indicator bacteria and their 
+characteristics. Effect of acid rain and green house on health of man and animal. 
+The consumer: food technology & veterinary public health 
+ 
+Books Recommened  
+1. Veterinary Medicine and Human Health. Schwabe, C.W., 1965. Baltimore, William and Wilkins Company.   
+2. The zoonoses. 1st edition. Johan C. Bell, Stephen, R., Palmer and Jack, M. Payne (1988). Edward Arnold.   
+3. Diseases of animals transmissible to man. Thapaliyal, D.C. 1999. Internationals Book Distributing Company. Lowa State 
+University Press/Ames.   
+4. Veterinary Epidemiology. 2nd edition. Martin, S.W., Meek, A.H. and Willeberg, P. 1987. Principles and methods.   
+5. Veterinary Epidemiology. 2nd edition. Thrushfeld, M. 1986. Blackwell Science.    
+6. Fundamentals of Animals Hygiene and Epidemiology. Thapaliyal, D.C. 1999.   
+ 
+ 
+12
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 4, Semester 2 
+COURSE NO.: VMH 421 
+Course Title: Food Hygiene, Microbiology and Safety 
+Credit hour: 2  
+History of microorganisms in food.  Role and significance of microorganisms in nature and foods.  
+Microorganisms important in foods of animal and avian origin. General principles of food preservation and spoilage.  
+Meat hygiene practices: Antemortem and post-mortem examination; transportation of meat animals; slaughtering of 
+animals and birds. Slaughter-house management, use, treatment and disposal of abattoir by-products. Preharvest and 
+postharvest technology of foods at farm and manufacturing level.  
+Abattoir: Principles for planning of an abattoir and situation in Bangladesh. Inspection of carcasses, judgment of 
+carcasses and examination reports. Adulteration and misrepresentation of meat foods. Diseases transmitted through meat and 
+meat products.  
+Milk Hygiene: Contamination and spoilage of milk and milk products, adulteration of milk. Diseases transmitted 
+through milk and their significance on health. Bacteriological quality of milk and milk products.  
+Fish-borne diseases: Contamination and spoilage of fish products; factors affecting kinds and rate of spoilage. 
+Preservation of fish and fish products. 
+Eggs: Contamination and spoilage of eggs; preservation of eggs.  
+Food poisonings: Food borne infections and intoxication. Investigation of food-borne disease outbreaks. 
+Microbiology in food plant sanitation. Food legislation, standards and codes of practices.  
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 4, Semester 2 
+COURSE NO.: VMH 422 
+Course Title: Food Hygiene, Microbiology and Safety 
+Credit hour: 1 
+Applied techniques in sampling of foods of animal origin and other related materials for Microbiological studies:  
+i) 
+Sampling of solid, liquid and surface samples.  
+ii) 
+Preparation of dilutions, determinations of MPN index and general viable counts.  
+iii) 
+Detection and enumeration of indicator bacteria. 
+iv) 
+Detection and enumeration of pathogenic and toxigenic organisms.  
+v) 
+Determination of F-value, D-values and Z-values. 
+Microbiological examination of specific foods:  
+(i) Meat and Meat product. (ii) Liquid milk, dry milk and other milk products. 
+(iii)  Fish and fish products. (iv)Canned foods. (v) Frozen foods. (vi)Egg and egg products.  
+Determination of milk fats 
+Sample collection and laboratory examination for assessment of hygienic quality of meat. 
+PH determination of meat, chemical and organoleptic equality assessment. 
+Determination of quality of foods in terms of safety and quality assurance (report writing) 
+Differentiation between perfect and imperfect bleeding. Inspection and judgement of carcasses and meat of various food 
+animals.  
+Field trips to slaughterhouse milk and fish processing plants.  
+ 
+Books Recommened:(VMH 421 & 422) 
+1. Food Microbiology. 4th edition. Frazier, W.C. and Westhoff, D.C. 1995. Tata McGraw-Hill Publishing Company Limited 
+new Dellei.  
+2. Textbook of meat hygiene. 6th edition. Thonton, H. and Gracy, J.F. 1974. Bailliere Tindall, London.  
+3. Meat science. 3rd edition. Lawrie, R.A. 1979. Oxford, Pergamon Press.  
+4. Fish as food. Vol. 1. Borgstrom, G. 1961. New York and London.  
+5. Meat Hygiene. 9th edition. Gracey, J.F. and Collins 1992. Baillere Tindall, UK.   
+6. Meat hygiene. 2nd edition. Miller, A. R. 1958. Lea and Febiger, Philadelphia.  
+ 
+ 
+13
+7. Meat science, milk science and technology. 3rd edition. Cross, H.R. and Overby, A. J. 1988. Elsevier Science, Oxford.    
+8. Food borne infections and intoxications. 2nd edition. Fred, W. Tanner 1952. The Garrard Press.   
+9. Food safety and quality assurance. 2nd edition. Hubbert, W.T.; Hagstad, H.V.; Spangler, E.; Hinton, M.H. and Hughes, 
+K.L. 1996. Lowa State, University Press/Ames.  
+10. Fundamentals of Meat Hygiene, Ist edn., 2001,Kabco, Dhaka. 
+11. Hygiene, Microbiology and Safety of foods of Animal origin, Ist edn, M.M. Rahman. 2003. Published from Department 
+of Microbiology and Hygiene. 
+12. Basic Food Hygiene, Ist edn, M.M. Rahman. 2003. Published from Department of Microbiology and Hygiene. 
+ 
+Dep
+Dep
+Dep
+Department of Microbiology and Hygiene
+artment of Microbiology and Hygiene
+artment of Microbiology and Hygiene
+artment of Microbiology and Hygiene 
+Level 3, Semester 1 
+COURSE NO.: VMH 311
+COURSE NO.: VMH 311
+COURSE NO.: VMH 311
+COURSE NO.: VMH 311 
+Course Title: Animal and Poultry Hygiene and Management 
+Credit hour:3 
+Objectives and scopes of livestock and poultry hygiene and management. Definition of common terms used for livestock and 
+poultry. General characteristics of common breeds of livestock and poultry. Common abnormal behaviors of Livestock and 
+Poultry. Principles of handling of livestock and poultry. Dentition and ageing of livestock. Rearing and Management of 
+Livestock and Poultry.  
+Influences of environmental factors: Soil, Air, Ventilation, Water and housing on animal and poultry health.  
+Sanitation: Definition and objectives, drainage, sewerage system and disposal of wastes. Cleaning and disinfections of poultry 
+houses and equipments; disinfectants and their application; fumigation and its importance.  Hygienic and economic importance 
+of housing and selection of sites for animal and poultry farm, concepts of modern housing, internal arrangement and space 
+requirement for housing of livestock and poultry including laboratory animals. Safety of animal and poultry feed ingredients. 
+Hygienic preparation of livestock and poultry houses before receiving the newly introduced livestock and poultry. Hygienic 
+environments for rearing of livestock and poultry. 
+Hygienic requirements of pre-brooding and brooding conditions for the management of chicks. 
+Hygienic environments for rearing of livestock and poultry. Hygienic Management of hatchery, breeder, layer and broiler 
+farms. Hygienic management concerned with breeding, feeding and transport of livestock and poultry. Bio-security and bio-
+safety of livestock, poultry and laboratory animals. Vaccine and vaccination schedule. Hygienic measures for the prevention 
+and control of infectious and contagious diseases of livestock and poultry.  
+ 
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene
+Department of Microbiology and Hygiene 
+Level 3, Semester 1 
+COURSE NO.: VMH 312
+COURSE NO.: VMH 312
+COURSE NO.: VMH 312
+COURSE NO.: VMH 312 
+Course Title: Animal and Poultry Hygiene and Management 
+Credit hour: 1 
+         Demonstration of external points of livestock and poultry. Identification of livestock and poultry: Breed, species etc. 
+Manipulation and restraining of livestock and poultry.  
+Demonstration of grooming, bedding, dipping, clipping, shearing, shoeing, bandages and casting of livestock. Dusting and 
+spraying of birds. Determination of livestock and poultry health by external appearances. Practical demonstration of ageing of 
+livestock. Livestock and poultry carcass inspection, post-mortem techniques and examination. Methods of sterilization of 
+different instruments used in livestock and poultry farms. Sanitation of animal and poultry farms and hatcheries. Common 
+practices for bio-security and bio-safety measures. Demonstration of carcass disposal methods. Drug administration, 
+vaccination schedule and method for livestock and poultry.  
+Books Recommened : (VMH 311 & 312) 
+1. Animal Microbiology, by Buxton, by A. and Fraser, G. (1977). First Edition. Blackwell Scientific Publication, London, 
+U.K. 
+2. The UFAW handbook on care and management of farm animals-edited by UFAW (1971). UFAW Churchill livingstone, 
+Edinburgh, U.K.  
+3. Livestock Husbandry Techniques, by McNitt, J.I. (1993). Granada Publishing Ltd. London.  
+4. A text Book of Animal Husbandry, by banerjee, G.C. (1999). Eight Edition, Oxford and IBH publishing Co. new Delhi 
+11001. India.  
+5. an Introduction to Animal Husbandry in the Tropics, by Williamsong, G. and Payne, W.J.A. (1978). Third Edition, 
+Longman Group Ltd., England.  
+ 
+ 
+14
+6. Fundamentals of Animal Hygiene and Epidemiology, by Thapliyal, D.C. (1996). First Edition, international Book 
+Distributing Co. 
+7. Haq, A. and T. Ahmad. 2001. Poultry hygiene and Disease Prevention Pak Book Empire, Lahore, Pakistan.  
+8. James, W. E. 1999. Handbook on Poultry Disease. American Soybean Association, New Delhi, India. 
+9. Herenda, D. C. and Franco, D.A. 1996. Poultry disease and Meat Hygiene, A Color Atlas. Iowa State University Press, 
+Ames, Iowa, USA.  
+10. Jordan, F.T.W. (Editor) 1996. Poultry Diseases. English Language Book Society, London.  
+11. Rahman, M. M. et al.,2004. Practical Animal and Poultry Hygiene and Management. 1st Edition Published by Department 
+of Microbiology and Hygiene, BAU, Mymensingh, Bangladesh.  
+ 
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology 
+Level 2, Semester I 
+COURSE NO. VPAR 211
+COURSE NO. VPAR 211
+COURSE NO. VPAR 211
+COURSE NO. VPAR 211 
+Course title: General Parasitology, Helminthology and Malacology 
+Credit hour: 3 
+A brief introduction to Parasitology, types of animal association and parasitism, and types of parasites and hosts. 
+History of Parasitology, origin and evolution of parasites. 
+Host - parasite relationship and adaptation of parasites. 
+Host specificity, organ specificity and host range. 
+Zoological nomenclature and classification of parasitic helminth. 
+General morphology of helminths. 
+Geographical distribution and transmission of parasites. 
+Definition and general pattern of life cycle of helminth. 
+Principles of parasitic immunity and expression of immunity against parasites. 
+A brief study on the morphology, geographical distribution, life cycle, economic importance and control principles of the 
+following helminths of livestock and poultry.   
+Trematoda:- Fasciolidae, Paramphistomatidae, Schistosomatidae, Dicrocoeliidae, Echinostomatidae, Prosthogonimidae, 
+Troglotrematidae, Notocotylidae and Opisthorchiidae. 
+Cestoda:-Taeniidae, Dilepididae, Davaineidae, Anoplocephalidae, Hymenolepidae, Diphyllobothriidae. 
+Nematoda:- Ascarididae, Heterakidae, Oxyuridae, Strongylidae, Stephanuridae, Syngamidae, Ancylostomatidae, 
+Trichostrongylidae, 
+Dictyocaulidae, 
+Metastrongylidae, 
+Protostrongylidae, 
+Filaroididae, 
+Strongyloididae, 
+Filariidae, 
+Dracunculidae, Spiruridae, Acquaridae, Tretrameridae, Thelaziidae, Gnathostomatidae, Trichuridae, Trichnellidae, 
+Dioctophymatidae. 
+A brief introduction to Malacology, 
+Classification, Morphology, Biology and Ecology of common fresh water snails. 
+Role of mollusks in the transmission of common helminth parasites of livestock and poultry. 
+Principles of snail control. 
+General control principles of parasites.     
+ 
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology 
+Level 2, Semester I 
+COURSE NO. VPAR 212
+COURSE NO. VPAR 212
+COURSE NO. VPAR 212
+COURSE NO. VPAR 212 
+Course title: General Parasitology, Helminthology and Malacology 
+Credit hour : 1 
+Preparation of reagents and their uses 
+Identification of Helminth’s eggs  
+Faecal sample examination: Qualitative Methods 
+Faecal sample examination: Quantitative Methods 
+Identification of cercariae 
+Identification of metacestodes 
+Identification of nematode larvae 
+ 
+ 
+15
+Coproculture 
+Collection of helminths from visceral organs of ruminants and their preservation 
+Collection of helminths from visceral organs of poultry and their preservation 
+Detection of nematode larvae from field sample(grass, herbage, etc) by using Baermenn’s Apparatus  
+Rodent perfusion for the collection of blood fluke 
+Preparation of permanent slide 
+Preparation of temporary slide and supravital staining 
+Identification of Trematodes 
+Identification of Nematodes 
+Identification of Cestodes  
+Microscopic measurement of helminths and their eggs 
+Collection and shipment of snails 
+Morphological study of snails and their identification  
+Examination of snails for the recovery of cercariae  
+Immunodiagnosis of parasitic infection 
+ 
+Books Recommended: (VPAR 211 & 212) 
+1. General Parasitology, Cheng T.C. 1986., Second Edition (first published in India, 1999 by Replica Press Pvt. Ltd. Delhi 
+110-040, India), Academic Press Inc. USA 
+2. Helminths Arthropods and Protozoa of Domesticated Animals. Soulsby, E.J.L. 1982. Bailliere and Tindall, London, UK. 
+3. Veterinary Parasitology. Urquhart G.M., Armour J., Duncan J.L. Dunn A.M. and Jennings F.W., 1987 Longman Group 
+UK Ltd., London, UK 
+4. Veterinary Helminthology, Dunn A.M., 1978. William Heinemann Medical Books LTD. London, UK 
+5. Malacology, Malek E.A. (1974). Burgess publishing Co. Minneapolis. 
+6. Parasitology in Focus-Facts and Trends: Mehlhorn H. (1998). Springer-Verlag, Berlin, Germany. 
+7. Introduction to Helminth Parasites of Animals and Birds in Bangladesh Rahman M.H., Ahmed S. and Mondal M.M.H. 
+(1996). Sheba Printing Press, Dhaka, Bangladesh.           
+ 
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology 
+Level 2, Semester II 
+COURSE NO. VPAR 221
+COURSE NO. VPAR 221
+COURSE NO. VPAR 221
+COURSE NO. VPAR 221 
+Course title: Entomology 
+Credit hour: 2 
+Introduction to Veterinary and Medical Entomology. 
+Classification and structure of common insects and arachnids, Vectors and vector status. 
+Morphology, biology, disease relationship, economic importance and control of insects and arachnids of the following groups: 
+Diptera: Culicidae, Ceratopogonidae, Psychodidae, Simuliidae, Tabanidae, Glossinidae, Muscidae, Fanniidae, Calliphoridae, 
+Sarchophagidae, Oestridae, Hippoboscidae. 
+Siphonaptera, Hemiptera, Phthiraptera, Dictyoptera, Coleoptera, Lepidotera, Hymenoptera. 
+Acari: 
+Mites: Astigmata, Oribatida/Cryptostigmata, Prostigmata, Mesostigmata. 
+Ticks: Ixodida – Argasidae and Ixodidae 
+Pentastomida 
+Control principles of arthropod pests and vectors. 
+Pesticides and pesticide formulations and pesticide resistance. 
+ 
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology 
+Level 2, Semester II 
+CO
+CO
+CO
+COURSE NO. VPAR 222
+URSE NO. VPAR 222
+URSE NO. VPAR 222
+URSE NO. VPAR 222 
+Course title: Entomology 
+Credit hour: 1 
+Collection, Shipment and preservation of arthropod samples 
+Preparation of permanent slides, storage and handling of arthropod samples. 
+Diagnostic techniques and identification of important insects (Fly, Mosquitoes, lice, flea etc), arachnids (Ticks, Mites) and 
+Pentastomida (Tongue warm). 
+ 
+Books Recommended: (VPAR-221 & 222) 
+Medical and Veterinary Entomology. Kettle. D.S. 1995. CAB international, UK. 
+ 
+ 
+16
+Helminths, Arthopods and Protozoa of domesticated Animals. Soulsby E.J.L. 1982. Bailliere and Tindall, London, UK. 
+Veterinary Parasitology, Urquhar G.M., Armour J., Duncan J.L., Dunn A.M. and Jennings F.W. 1987. Longmsan Group UK 
+Ltd., London. 
+Arthopods in Livestock and poultry Production, Lancaster J.L. and Meisch M.V., 1986. Ellis Horwood Ltd. 
+Livestock Entomology, Williums R.E., Hall R.D., Broce A.D., Scholl P.J. 1985 John Wiley & Sons. 
+Medical Insects and Arachnids. Lane R.P. and Crosskey R.W. 1993. Chapman & Hall., London.     
+ 
+Department of Parasitolo
+Department of Parasitolo
+Department of Parasitolo
+Department of Parasitology
+gy
+gy
+gy 
+Level-3, Semester-I 
+COURSE NO. VPAR 311
+COURSE NO. VPAR 311
+COURSE NO. VPAR 311
+COURSE NO. VPAR 311 
+Course title: Protozoology 
+Credit hour: 2 
+Introduction to Protozoa and Protozoology. 
+Taxonomy, morphology, life cycle, epidemiology, immunology and economic importance of the protozoa belonging to the 
+following families: Trypanosomatidae, Hexamitidae, Monocercomonadidae, Trichomonadidae, Vahlkampfiidae, 
+Endamoebidae, Haemogregarinidae, Eimeriidae, Cryptosporidiidae, Sarcocystidae, Plasmodidae, Babesiidae, Theileriidae, 
+Balantidiidae. 
+ 
+Brief account of the pathogenesis, clinical sings and lesions caused by the important protozoa. 
+Diagnosis and control of the important protozoa. 
+Important Rickettsiales of Animals and Poultry in Bangladesh. 
+ 
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology
+Department of Parasitology 
+Level-3, Semester-I 
+COURSE NO. VPAR 312 
+COURSE NO. VPAR 312 
+COURSE NO. VPAR 312 
+COURSE NO. VPAR 312  
+Course title: Protozoology 
+Credit hour : 1 
+Preparation and examination of faeces, blood lymph, excretions and secretions for protozoan parasites/parasitic stages. 
+Quantification of Protozoa in different materials. 
+Study of the morphological characters of the protozoa of livestock and Poultry in Bangladesh. 
+Demonstration of the lesions produced by protozoa of livestock and Poultry in Bangladesh. 
+Immunodiagnostic techniques in Protozoology. 
+ 
+Books Recommended: (VPAR 311 & 312) 
+General Parasitology., Cheng T.C. 1986 Second. Edition (first published in India, 1999 by Replica Press Pvt. Ltd. Delhi 110-
+040, India), Academic Inc. USA. 
+Helminths, Arthropods and protozoa of Domesticated Animals. Soulsby E.J.L., 1982. 7th Edition, Bailliere and Tindall, 
+London, UK. 
+ 
+Veterinary Protozoology, Levine N.D. 1985. First Edition, lowa State University Press, Ames, USA. 
+Veterinary Parasitology, Urquhart G.M., Armour J., Duncan J.L., Dunn A.M. and Jennings F.W. 1988. First ELBS Edition. 
+Longman Scientific & Technical, UK. 
+ 
+Manual of Veterinary Parasitological Techniques, Ministry of Agriculture, Fisheries and Food, UK. 1979. Technical Bulletin 
+No. 18. laboratory Techniques. Her Majesty’s Stationary office, London, UK. 
+ 
+Department of Pathology
+Department of Pathology
+Department of Pathology
+Department of Pathology 
+Level II, Semester II 
+COURSE NO. : VPATH 221
+COURSE NO. : VPATH 221
+COURSE NO. : VPATH 221
+COURSE NO. : VPATH 221 
+Course Title: General Pathology 
+Credit hour : 3 
+Introduction: Definition, branches and scope of Pathology 
+ 
+ 
+17
+Cell injury, cell death and necrosis: Causes of cell injury and death, biochemical and ultrastructural changes in accidental 
+cell death and apoptosis, characteristics of necrotic cells and tissues; differentiation of necrosis and postmortem autolysis; 
+types of necrosis; disposition of necrotic tissues; gangrene; infarct. 
+Intracellular and extracellular depositions; degenerations: Fatty change, extracellular accumulation of lipids; glycogen 
+deposition and glycogen storage diseases; lysosomal storage diseases; extracellular deposition of proteins – amyloid, 
+albumin and fibrin. 
+Mineral deposits and pigments: Pathologic calcifications and ossification; gout; exogenous pigments; endogenous pigments- 
+melanosis, hemosiderosis, jaundice, photosensitisational dermatitis. 
+Disturbances of growth: Aplasia, hypoplasia, atrophy, hypertrophy, hyperplasia, metaplasia, anaplasia, dysplasia, neoplasia. 
+Disturbances of circulation: Thrombosis and embolism; failure to clot and hemorrhage; hyperaemia and congestion; edema; 
+shock. 
+Inflammation: Definition and cardinal signs; vascular and cellular events in inflammation; chemical mediators of 
+inflammation; cells of inflammation; types of inflammation; healing. 
+Immunopathology: Immune response and immune effector mechanisms; hypersensitivity; autoimmunity; immunodeficiency. 
+Department of Pathology
+Department of Pathology
+Department of Pathology
+Department of Pathology 
+Level II, Semester II 
+COURSE NO. : VPATH 222
+COURSE NO. : VPATH 222
+COURSE NO. : VPATH 222
+COURSE NO. : VPATH 222 
+Course Title: General Pathology 
+Credit hour : 1 
+Methods of collection, preservation, fixation, processing and staining of pathological specimens. 
+Study of basic alterations of cells and tissues using laboratory specimens, histopathological slides, illustrations and 
+transparencies.  
+Books recommended (VPATH 221 &  222) 
+1. Veterinary Pathology. By Jones, T.C., Hunt, R.D. and King, N.W. 6th edition, Williams and Wilkins, Philadelphia, USA. 
+1997. 
+2. Cells, Tissues and Disease: Principles of General Pathology. By Majno, G. and Joris, I. Blackwell Scientific Publications, 
+London. 1996. 
+3. Veterinary Immunology. By Tizard, I.R. 5th edition, W.B. Saunders Co., London. 1996 
+4. Basic Pathology. By Kumar, V., Cotron, R.S. and Robins, S.L. 5th edition. W.B. Saunders Co., London. 1992. 
+5. Manual of Histologic Staining Methods of the Armed Forces Institute of Pathology. By  Luna L.G. [Ed]. 3rd edition, 
+McGraw Hill Book Company, New York. 1968. 
+6. Colour Atlas of Histopathology. By Curran, R. C. 2nd Edition (reprinted). Harvey Miller Publishers, London, England. 
+1981. 
+Department o
+Department o
+Department o
+Department of Pathology
+f Pathology
+f Pathology
+f Pathology 
+Level III Semester I 
+COURSE NO. : VPATH 311
+COURSE NO. : VPATH 311
+COURSE NO. : VPATH 311
+COURSE NO. : VPATH 311 
+Course Title: Systemic Pathology and Oncology 
+Credit hour : 3 
+Digestive system: Pathological conditions of buccal cavity, salivary glands, oesophagus; tympanites, ruminal acidosis, 
+traumatic reticulitis / peritonitis, gastritis, gastric ulcers, enteritis, intestinal obstruction, impaction of caecum, colitis, 
+proctitis, peritonitis, hepatitis, cirrhosis, cholecystitis, cholelithiasis, pancreatitis, and neoplasms. 
+Respiratory system: Pathological conditions of the upper respiratory tract; pneumonia, pneumonites, special types of 
+pneumonia, bronchial asthma, pleuritis, atelectasis, emphysema and neoplasms. 
+Cardiovascular system: Developmental anomalies; cardiac failure, myocarditis, cardiomyopathy, pericarditis, endocarditis, 
+arteriosclerosis, arteritis, phlebitis, and neopasms. 
+Hemic and lymphatic system: Pathological conditions of bone marrow, lymph nodes, spleen and thymus; anemia; and 
+neoplasms. 
+ Musculoskeletal system: Introduction, muscular dystrophy, muscular hypoplasia and hyperplasia, muscle glycogenosis, 
+ossification of muscle, steatosis, atrophy, hypertrophy, degeneration and necrosis, nutritional myopathy (white muscle 
+disease), steatites, myositides, equine rhabdomyolysis, fracture of bone, arthritis and neoplasms. 
+Skin and appendices: Introduction, disorders of epidermis, dermis and subcutis, dermatitis, autoimmune skin diseases, and 
+neoplasms. 
+ 
+ 
+18
+Urinary system: Congenital anomalies, glomerulonephritis, interstitial nephritis, pyelonephritis, nephosclerosis, cystitis, 
+urolithiasis, and neoplasms. 
+Genital system: Congenital anomalies of female and male reproductive organs; cystic ovary, oophoritis, salpingitis, metritis, 
+abortifacient  infections, vaginitis, vulvitis, mastitis; orchitis, schirrrous cord, gut tie, prostatitis, and neoplasms. 
+Endocrine system: Pathological conditions of different endocrine glands; Cushing syndrome, goiter, hypoparathyroidism, 
+hyperparathyroidism, diabetes mellitus, diabetes insipidus, and neoplasms. 
+Nervous system: Pathological conditions of brain, spinal cords and peripheral nerves; encephalitis, myelitis, epilepsy, 
+spongiform encephalopathy, and neoplasms. 
+Organs of special senses: Pathological conditions of eye and ear; conjunctivitis, blepharitis, keratitis, cataract, gluocoma, 
+otitis, otorrhea and neoplasms. 
+ 
+Department of Pathology
+Department of Pathology
+Department of Pathology
+Department of Pathology 
+Level III Semester I 
+COURSE NO. : VPATH 312
+COURSE NO. : VPATH 312
+COURSE NO. : VPATH 312
+COURSE NO. : VPATH 312 
+Course Title: Systemic Pathology and Oncology 
+Credit hour : 1 
+Gross and histopathological studies of diseases, disease conditions and neoplasms of different systems using laboratory 
+specimens, histopathological slides, illustrations and transparencies. 
+Books recommended (VPATH 311 & 312)  
+1. Veterinary Pathology. By  Jones, T.C., Hunt, R.D. and King, N.W. 6th Edition. Williams and Wilkins, Philadelphia, USA. 
+1997. 
+2. Tumors in Domestic Animals. By Moulton, J.E. 3rd Edition, University of California Press, Berkeley, California, USA. 
+1990. 
+3. Colour Atlas of Histopathology. By Curran, R.C. 2nd Edition (reprinted). Harvey Miller Publishers, London, England. 
+1981. 
+4. Pathology of Domestic Animals, Vol. 1, 2 and 3. By Jubb, K.V.F., Kennedy, P.C. and Palmer, N. 4th Edition. Academic 
+Press, Inc., New York, USA. 1993. 
+5. Reproductive Pathology of Domestic Mammals. By McEntee, K. Academic Press, Inc., New York, USA. 1990. Veterinary 
+Medicine. A Textbook of Diseases of Cattle, Sheep, Pigs, Goats and Horses. By  Radostits, O.M., Gay, C.C., Blood, D.C. 
+and Hinchcliff, K.W9th Edition, W.B. Saunders Co. Ltd., London, U.K. . 20  
+ 
+Department of Patholog
+Department of Patholog
+Department of Patholog
+Department of Patholog  
+Level III Semester II 
+CO
+CO
+CO
+COURSE NO. : VPATH 321
+URSE NO. : VPATH 321
+URSE NO. : VPATH 321
+URSE NO. : VPATH 321 
+Course Title: Pathology of Infectious and Non-infectious Diseases 
+Credit hour : 2 
+Pathology and Pathogenesis of the following diseases: 
+ 
+Bacterial diseases: Anthrax, black quarter, pasteurellosis, clostridial infections, strangles, glanders, colibacillosis, brucellosis, 
+campylobacteriosis, tuberculosis, paratuberculosis, actinomycosis, actinobacillosis, shigellosis, listeriosis, leptospirosis, 
+dermatophillosis, leprosy. 
+Viral diseases: Rinderpest, hog cholera, peste des petits ruminants, foot and mouth disease, bovine virus diarrhea-mucosal 
+disease complex, ephemeral fever, infectious bovine rhinotracheitis, rabies, pseudorabies, infectious canine hepatitis, 
+canine distemper, pox, papillomatosis, prion diseases. 
+Parasitic diseases: Fascioliasis, stomach worm infection, hookworm infection, stephanofilariasis, ascariasis and other 
+nematodiasis, coccidiosis, toxoplasmosis, babesiosis, trypanosomiasis, trichomoniasis, hydatidosis and other tapeworm 
+infections, mite infections. 
+Fungal diseases: Rhinosporidiosis, coccidioidomycosis, cryptococcosis, ringworm, aspergillosis, candidiasis, histoplasmosis, 
+blastomycosis. 
+Diseases caused by Mycoplasma: Bovine pleuropneumonia, contagious caprine pleuropneumonia, infectious bovine 
+keratoconjunctivitis, enzootic pneumonia of calves, bovine mycoplasmal arthritis, swine mycoplasmal arthritis and 
+polyserositis. 
+ 
+ 
+19
+Diseases caused by Rickettsia: Q fever, salmon disease of dogs and foxes, “Heartwater” of cattle, sheep and goats, 
+anaplasmosis, haemobartonellosis, eperythrozoonosis. 
+Diseases caused by Chlamydia: Psittacosis, sporadic bovine encephalomyelitis, enzootic abortion of ewes, chlamydial 
+abortion in cattle, chlamydial pneumonia of cattle and sheep. 
+Diseases caused by extraneous poisons: Classification of extraneous poisons on the basis of pathologic features. Pathology of 
+snake venoms, arsenic, urea, oleander, copper, carbon tetrachloride, gossypol, vetch, sulfonamides, selenium, 
+dicoumarin, bracken fern, nitrate, nitrite, kale, rape, mycotoxins, organophosphates, strychnine, lathyrus, coffee senna, 
+coyotillo. 
+Nutritional and metabolic diseases: Deficiencies of fat soluble and water soluble vitamins; deficiencies of calcium, 
+phosphorous, iron, copper, zinc, iodine; deficiency of protein; ketosis, milk-fever, grass tetany, rickets, osteomalacia, 
+fibrous osteodystrophy.  
+Books recommended : 
+1. Veterinary Pathology. By Jones, T.C., Hunt, R.D. and King, N.W. 6th Edition. Williams and Wilkins, Philadelphia, USA. 
+1997. 
+2. Pathology of Domestic Animals, Vol. 1, 2 and 3. By Jubb, K.V.F., Kennedy, P.C. and Palmer, N. 4th Edition. Academic 
+Press, Inc., New York, USA. 1993. 
+3. Veterinary Medicine. A Textbook of Diseases of Cattle, Sheep, Pigs, Goats and Horses. By  Radostits, O.M., Gay, C.C., 
+Blood, D.C. and Hinchcliff, K.W.   9th Edition, W.B. Saunders Co. Ltd., London, U.K. 2000. 
+ 
+Department of Pathology
+Department of Pathology
+Department of Pathology
+Department of Pathology 
+Level IV Semester I 
+COURSE NO. : VPATH 411
+COURSE NO. : VPATH 411
+COURSE NO. : VPATH 411
+COURSE NO. : VPATH 411 
+Course Title: Poultry Pathology 
+Credit hour : 2 
+Introduction: Present situation of poultry diseases in Bangladesh 
+Bacterial diseases: Salmonellosis, colibacillosis, pasteurellosis, infectious coryza, tuberculosis, streptococcosis, 
+staphylococcosis. 
+Viral diseases: Infectious bursal disease, Newcastle disease, Marek’s disease, avian leucosis, fowl pox, infectious bronchitis, 
+infectious laryngotracheitis, avian influenza, chicken infectious anemia, egg drop syndrome, duck plague, duck viral 
+hepatitis, viral arthritis. 
+Parasitic diseases: Ascaridiasis and other nematodiasis, tapeworm infections, coccidiosis, infestation by ectoparasites. 
+Fungal diseses: Aspergillosis, thrush, candidiasis. 
+Mycoplasmal and chlamydial diseases: Avian mycoplasmosis, avian chlamydiosis 
+Non-infectious diseases: Deficiencies of fat soluble and water soluble vitamins; deficiencies of calcium, phosphorous, copper, 
+zinc; deficiencies of amino acids and protein, calories, water; common vices; mycotoxicoses and other poisonings. 
+ 
+Diseases of complex or unknown etiology: Gout, multicausal respiratory disease, hydropericardium-hepatitis syndrome, 
+ascites and right ventricular hypertrophy, enteric disease complex, spiking mortality syndrome. 
+ 
+Department of Pathology
+Department of Pathology
+Department of Pathology
+Department of Pathology 
+Level IV Semester I 
+COURSE NO. : VPATH 412
+COURSE NO. : VPATH 412
+COURSE NO. : VPATH 412
+COURSE NO. : VPATH 412 
+Course Title: Poultry Pathology 
+Credit hour : 1 
+Investigation of poultry diseases; on-farm investigation, post mortem examination & interpretations, and laboratory 
+investigation.  
+Study of various poultry diseases using laboratory specimens, histopathological slides, illustrations and transparencies.  
+ 
+Books recommended (VPATH 411 & 412)  
+1. Diseases of Poultry. By Calnek, B.W., Barnes, H.J., Beard, C.W., McDougald, L.R. and Saif, Y.M.[Editors]. 10th edition. 
+Iowa State University Press, Ames, Iowa, USA. 1997. 
+2. Poultry Diseases. By Jordan, F.T.W. and Pattison, M. [Editors]. 4th edition. W.B. Saunders Co. Ltd. London, UK. 1996. 
+3. Avian Disease Manual. By Charlton, B.R. [Editor]. 5th edition. American Association of Avian Pathologists, 
+Pennsylvania, USA. 2000. 
+4. Poultry Diseases, Diagnosis and Treatment. By Chauhan, H.B.S. and Roy, S. New Age International (P) Ltd. Publishers, 
+New Delhi, India. 1996. 
+ 
+ 
+20
+5. Avian Histopathology. Riddell, C. The American Association of Avian Pathologists.  University of Pennsylvania, USA. 
+1987. 
+ 
+Department of Pathology
+Department of Pathology
+Department of Pathology
+Department of Pathology 
+Level V, Semester I 
+COURSE NO. : VPATH 512
+COURSE NO. : VPATH 512
+COURSE NO. : VPATH 512
+COURSE NO. : VPATH 512 
+Course Title: Clinical Pathology and Necropsy 
+Credit hour : 1 
+Clinical Pathology 
+Introduction : Definition and scope of clinical pathology and necropsy, setting up a clinical pathology laboratory, cleaning 
+and maintenance of glassware and instruments used in clinical pathology, preparation of  various buffers, stains, and 
+reagents 
+Clinical hematology: Methods of collection of blood, serum and plasma. Routine hematological tests - total erythrocyte 
+count, total leucocyte count, differential leucocyte count, hemoglobin estimation, erythrocyte sedimentation rate, packed 
+cell volume, tests for coagulation disorders; interpretation of hematological findings in animals and birds. 
+Clinical biochemistry: Tests for heart, muscles, liver, kidney, pancreas and bone function with their interpretations.  
+Clinical tests for urine and their interpretations 
+Clinical diagnosis of parasitic diseases: Qualitative and quantitative examination of fecal samples. 
+Examination of skin scrapings 
+Clinical laboratory diagnosis of bacterial and fungal infections: Methods of sample collection, culture, common staining and 
+antibiotic sensitivity tests. 
+Techniques of Immunodiagnosis: ELISA, agar gel precipitation test, haemagglutination and haemagglutination inhibition 
+tests. 
+Collection and examination of biopsy materials and clinical cytology 
+Methods of writing clinical report. 
+ 
+Necropsy 
+Techniques of postmortem examination of animals and poultry; interpretations of post mortem findings 
+Selection, collection, preservation and shipment of pathological specimens to the diagnostic laboratories for diagnosis of 
+specific disease or disease conditions 
+Methods of disposal of carcasses 
+Methods of recording of necropsy findings and writing report. 
+ 
+Books recommended : 
+Outline of Veterinary Clinical Pathology. By Benjamin, M.M. 3rd Edition. The Iowa State University Press, Iowa, USA. 1978. 
+1. Veterinary Clinical Pathology. By Coles, E.H. 3rd Edition. W. B. Saunders Company.  1980. 
+2. Manual of Veterinary Investigation. Laboratory Techniques. Vol. 1 and 2. MAFF/ADAS Reference Book 389 and 390. 
+HMSO, London. 1984. 
+3. Manual of Veterinary Clinical Pathology. By Coffin, D.L. 3rd Edition. Comstock Publishing Association, A Division of 
+Cornell University Press, USA. 1953. 
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology 
+Level-2, Semester-2 
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA-221
+221
+221
+221 
+Course Title: General Pharmacology and Chemotherapeutics 
+Credit hour: 3 
+General Pharmacology: 
+ 
+Introduction and evolution of Pharmacology, drug nomenclature and classification, sources and routes of drug administration, 
+Pharmacodynamics and Pharmacokinetics of drugs, drug dose & dosage, Prescription writing, drug incompatibilities & 
+adverse drug effects. 
+ 
+Chemotherapeutic drugs: 
+Antibacterial agents: General considerations, sulfonamides, trimethoprim, penicillins, cephalosporins, aminoglycosides, 
+tetracyclines, macrolides, fluroquinolones and miscellaneous, antibiotics, antifungal and antiviral drug, antiseptics and 
+disinfectants. 
+ 
+Antiparasitic agents: Antinematodal, anticestodal, antitrematodal and antiprotozoal drugs and ectoparasiticides.  
+ 
+Antineosplastic and immunomodulatory agents. 
+ 
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology 
+ 
+ 
+21
+Level-2, Semester-2 
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA-222
+222
+222
+222 
+Course Title: General pharmacology and Chemotherapeutics 
+Credit hour: 1 
+Weights and Measures: 
+Identification, preparation and study of the actions and dosages of common veterinary drugs. Study the action of drugs on 
+laboratory animals, isolated heart of mammals and amphibians. 
+ 
+Study of the actions of drugs on anesthetized animals. 
+  
+Books Recommended (VPHA 221 &  222) 
+1. Veterinary Pharmacology And Therapeutics: H. Richad Adams, 8th Edition 2001, Iowa State University Press/Ames, and 
+U.S.A. 
+2. Veterinary Applied Pharmacology And Therapeutics: G.C Brander, D.M. Pugh, R.J. Bywater & W.L Jenkins. 5th Edition 
+1991 ELBS with Bailliere Tindall, U.K. 
+3. Goodman And Gillman’s The Pharmacological Basis of   Therapeutics: Alfred Goodman Gilman, Louis S. Goodman and 
+Alfred Gilman. 10th Edition, 2001. Macmillan Publishing Co. Inc. New York. 
+4. Basic & Clinical Pharmacology: Bertram G. Katzung. 8th Edition 2000. McGraw-Hill Medical Publishing Division, New 
+York.  
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology 
+Level-3, Semester-1. 
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA-311
+311
+311
+311 
+Course Title: Systemic Pharmacology 
+Credit hour: 3 
+Alimentary System: Introduction, sialogogues, anti- sialogogues, emetics, anti- emetics, demulcents, stomachics, 
+carminatives, Antizymotics, intestinal astringents, laxatives, purgatives and anti- diarrhoeal agents. 
+ 
+The Heart and circulatory system: introduction, drugs affecting myocardial contractility and rhythmicity, drug affecting 
+heart, vasculature and peripheral circulation. 
+ 
+Respiratory System: Introduction, expectorants, antitussives, bronchodilators, membrane shrinking drugs and respiratory 
+stimulants. 
+ 
+Urinary System: Introduction, anti-diuretics, diuretics, urinary antiseptics and drug used in kidney study. 
+ 
+Autonomic Nervous System: Introduction, sympathomimetics, sympatholytics, parasympathomimetics, parasympatholytics 
+and ganglionic blocking. drugs. 
+ 
+Central Nervous System: Introduction CNS stimulants, depressants, anesthetics –local, regional and general. 
+ 
+Endocrine and Nutritional Pharmacology: Introduction, hormones & drugs affecting growth, reproduction and metabolism. 
+Fat and water-soluble vitamins, minerals and miscellaneous nutrients. 
+ 
+Haematopoietic System: Introduction, anti-anemic, haemostatic, and anti-coagulant drugs. 
+ 
+Dermartologic and Ophthalmic Pharmacology: Introduction, drugs affecting skin, mucous membranes, ears and eyes. 
+ 
+Prophylactic Pharmacology: Introduction, vaccine, antisera, and diagnostic agents. 
+ 
+Miscellaneous Drugs: Autacoids and anti-inflammatory drugs with special reference to histamine, peptide, prostaglandin and 
+non-steroidal anti-inflammatory drugs.  
+ 
+Books Recommended  
+1. 
+Veterinary Pharmacology And Therapeutics: H. Richad Adams, 8th Edition 2001, Iowa State University Press/ Ames, 
+U.S.A. 
+2. 
+Veterinary Applied Pharmacology And Therapeutics: G.C Brander, D.M. Pugh, R.J. Bywatre & W.L Jenkins. 5th 
+Edition 1991 ELBS with Bailliere Tindall, U.K. 
+3. 
+Goodman And Gillman’s The pharmacological Basis of   Therapeutics: Alfred Goodman Gilman, Louis S. Goodman 
+and Alfred Gilman. 10th Edition, 2001. Macmillan Publishing Co. Inc. New York. 
+4. 
+Basic & Clinical Pharmacology: Bertram G. Katzung. 8th Edition 2000. McGraw-Hill Medical Publishing Division, 
+New York.  
+ 
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology 
+Level-5, Semester-1 
+ 
+ 
+22
+CO
+CO
+CO
+COURSE NO: VPHA
+URSE NO: VPHA
+URSE NO: VPHA
+URSE NO: VPHA-512
+512
+512
+512 
+Course Title: Clinical Pharmacology and Pharmacy. 
+Credit hour : 1 
+Collection, preparation, packaging and preservation of solution, suspension, capsules, tablet, paste, emulsion, ointment, etc.. 
+Compounding and dispensing of various preparations. 
+ 
+Pharmaceutical dosage forms and packaging.  
+ 
+Collection, identification and use of common indigenous medicinal plants. 
+ 
+Techniques used for the assessment of antibiotics, anthelmintics, anti- inflammatory drugs, antiseptics and other common 
+drugs. Clinical aspects of rational safe and effective drug therapy. Drug therapy of individual disease, introduction of new 
+medicines.   
+ 
+Books Recommended  
+1 
+Veterinary Applied Pharmacology And Therapeutics: G.C Brander, D.M. Pugh, R.J. Bywatre & W.L Jenkins. 5th Edition 
+1991 ELBS with Bailliere Tindall, U.K. 
+2.   Goodman And Gillman’s The pharmacological Basis of   Therapeutics: Alfred           
+      Goodman  Gilman, Louis S. Goodman and Alfred Gilman. 10th Edition, 2001.   
+      Macmillan Publishing Co. Inc. New York. 
+3.   Basic & Clinical Pharmacology: Bertram G. Katzung. 8th Edition 2000. McGraw-Hill Medical Publishing Division,  
+       New York 
+4. Cooper and Gunn’s Tutorial Pharmacy: S.J. Carter. 6th Edition, 2000. CBS Publishers & Distributors, New Dellhi-110002, 
+India. 
+5. Introduction to Pharmaceutics-1: Ashok K. Gopta. 3rd Edition, 1994.CBS Publishers & Distributors, New Dellhi-1100002, 
+India. 
+6. Theory and Practice of Industrial Pharmacy: Lion Lachman, Herbert A. Lieberman, Joseph L. kanig. 4th Edition India 
+reprint, 1994. 
+7. Clinical Pharmacology: P.N. Bennett and M.J. Brown. 9th Edition 2004. Churchill Livingstone. 
+ 
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology 
+Level-4, Semester-2. 
+COURSE NO: VPHA-321 
+Course Title: Toxicology 
+Credit hour: 3 
+Introduction, different areas of toxicology, toxicological terminology. Classification, metabolism and mode of action of 
+poisons, factors altering the action of poisons, common causes, diagnosis and general treatment of poisoning. 
+Chemical and Phytotoxicology: Study of sources, toxicity, mechanism of toxic action, symptoms, diagnosis, treatment and 
+prevention of the following: 
+(i) Inorganic poisons: Acids and alkalis, urea, antimony, arsenic, carbon monoxide, sodium chloride, copper, halogen 
+compounds, lead, mercury, molybdenum, selenium and zinc. 
+(ii) Organic poisons: Anesthetics, sympatho and parasmpathomimetics, anthelmintics, antibiotics and sulfonamides. 
+(iii) Pesticides: Botanical insecticides, organochlorine, organophosphate and organocarbamate compounds, fungicides, 
+herbicides, rodenticides and acaricides. 
+(vi) Poisonous plants: Cyanogenetic and estrogenic plants. Mycotoxins including aflatoxins and ergot. Deferent species of the 
+genera Nerium, Thevetia, Datura, Strychnos, Abrus, Ricinus, Calotropis/Asclapias, Nicotiana, Digitalis, Papever, Cannabis, 
+Lathyrus, Aconitum, Conium and Gossypium. 
+Environmental Toxicology: 
+Various agents causing environmental pollution, i.e. soil, air and water pollution. Food additives and contaminants. Drug and 
+chemical residues in the edible tissues of animals. Radiation and radioactive materials. Green house effects. 
+Miscellaneous Poisons : Plants and chemical producing teratogenic, mutagenic, carcinogenic and allergic conditions 
+ 
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology
+Department of Pharmacology 
+Level-3, Semester-2 
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA
+COURSE NO: VPHA-322
+322
+322
+322 
+Course Title: Toxicology 
+Credit hour: 1 
+Identification and study of common poisonous plants. Collection and sending of materials for toxicological analysis. 
+Laboratory diagnosis of poisons-volatile, non-volatile and metallic poisons including cyanides, nitrate, arsenic and mercury 
+etc.  
+Chemical antagonism : Arsenic and dimercaprol (BAL)/sodium thiosulphate. 
+Physiological and Pharmacological antagonism: Organophosphate and atropine. Anticonvulsant and life saving effect of 
+pentobarbital in experimental strychnine poisoning. Methemoglobin former as antidote to cyanide poisoning. Mathylene blue 
+and nitrate poisoning. 
+ 
+ 
+23
+ 
+Books Recommended: (VPHA-321 & 322) 
+1. Veterinary Toxicology: M.L. Clarke, D.G. Harvey and D.J. Humphreys. 2nd edition, 1981. ELBS, Bailliere Tindall. 
+2. Cassarett and Doulls Toxicology: J. Doull, C.D. Klassen and O. Amdur, Sixth edition, 2001/. Macmillan Publishing Co. 
+Inc. New Yerk. 
+3. Clinical Veterinary Toxicology: G. Lorgue, J. Lechenet and A. Riviere. 1st edition,1996. Blackwell Science Inc. 
+Cambridge, U.S.A. 
+4. Loom’s Essentials of Toxicology: T.A. Loomis and A.W. Hayes. 4th edition.1996 Academic Press. 
+5. Veterinary Toxicology: S.K. Gary. 1st edition 2003(reprint). CBS publishers, New Dellhi, India. 
+6.  Medical and Public Health Laboratory Methods: James Stivens Simons and Cleon J. Gentzkow. 5th edition 1988. Lea and 
+Febiger Philadelphia.  
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 311 
+COURSE NO. VM 311 
+COURSE NO. VM 311 
+COURSE NO. VM 311  
+Course Title: Clinical Methodology 
+Credit hour: 2 
+A. Introduction and Clinical examination 
+a) Definition, aim, objective, scope and history of clinical veterinary medicine and its relationship with other field and 
+laboratory disciplines. Concepts of health and disease. Causes of disease (direct and indirect, biological and non-biological 
+causes). Definition of common clinical terms. Diagnostic terms – definition and scope.   
+ 
+b)  Introduction to different techniques/methods (general and special) of clinical examination of animals, History 
+taking, examination of the environment and examination of the animal. General examination – distant and close examination, 
+physical examination of body regions and systems, Animal restraint – objective and methods of restraint. Clinical signs – 
+Definition, classification, methods of detection and identification of clinical signs of diseases of different organ-systems of 
+animals. Interpretation of significant clinical findings for diagnosis. Physical examination findings of clinical specimens. 
+B. Diagnosis and treatment 
+Definition and types of diagnosis, principles of diagnosis, principles and basis of different types of diagnosis. 
+Methods and steps of diagnosis. Indications and limitations of field and laboratory diagnosis.  
+ 
+General principles of treatment, definition and scope of different types of treatment, factors of consideration in the 
+treatment of food and non-food animals. Principles of selection of drugs and determination of dose, route, frequency and 
+duration of treatment. Alternative medicine used in clinical and population veterinary practices. 
+General systemic states – Disturbances of appetite, food intake and nutritional states-ill thrift, pica; stress, septicemia, 
+hypothermia, hyperthermia, fever, toxemia, shock. Dehydration, electrolyte and acid-base imbalance. 
+ 
+   
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 312 
+COURSE NO. VM 312 
+COURSE NO. VM 312 
+COURSE NO. VM 312  
+Course Title: Clinical Methodology 
+Credit hour: 1 
+Maintenance of records of everything done in the practical sessions in a practical note book to be checked and signed by 
+teacher(s) concern.  
+1. 
+Introduction: Scope of veterinary hospital and clinical practice, requirements and responsibility of veterinary clinician.   
+2. 
+Methods of animal restraint: General and regional. 
+3. 
+Demonstration of clinical instruments: Diagnostic (including animal restraint) and therapeutic instruments. 
+4. 
+Demonstration of general (including modified forms) and special physical examination techniques used in different 
+organ-systems of domestic animals (healthy). 
+5. 
+Handling of clinical cases: General principles and procedures of clinical / physical examination in domestic animals.  
+Demonstration of condition of distant inspection and physical examination. 
+6. 
+General principles and procedure of clinical history taking and distant inspection. Demonstration of demeanour and 
+physical condition of animals. 
+7. 
+Clinical investigation of disease in individual sick animals: Clinical history taking, demonstration of methods and 
+procedures of detection, identification and interpretation of clinical findings in making presumptive diagnosis, prognosis 
+and clinical advice. Procedure of filling up of clinical investigation record forms. 
+8. 
+Clinical specimens: Demonstration of the methods of collection, physical examination, preservation and dispatch of 
+specimens (feces, urine, blood, rumen fluid, abomasal fluid, milk, skin scrapings, plasma, serum, swabs, smears etc) to 
+the laboratory. 
+9. 
+Demonstration of the methods of administration of drugs: External and internal. 
+10. Transfusion techniques: Clinical practice on fluid and electrolyte, and blood transfusion in farm animals. 
+11. Demonstration of drugs, dispensing and prescription writing: Principles and procedures. 
+ 
+ 
+24
+ 
+Books Recommended (VM 311 & 312) 
+1. 
+Adams, H.R. (1995). Veterinary Pharmacology and Therapeutics. 7th edn. Iowa State University Press, Ames, Iowa. 
+2. 
+Boddie, G.F. (1956). Diagnostic Methods in Vet. Medicine. 4th edn. Oliver and Boyd, London. 
+3. 
+Gibbons, W. J. (1976). Clinical Diagnosis of Diseases of Large Animals. Lea and Febiger, Philadelphia. 
+4. 
+Jackson, P. and Cockcroft, P.(2002). Clinical Examination of Farm Animals. Blackwell Science Ltd. 
+5. 
+Kelly, W.R. (1984). Veterinary Clinical Diagnosis. 3rd edn. Bailliere-Tindall, London 
+6. 
+Radostits, O.M., Gay, C.C. Blood, D.C., and Hinchcliff, K.W. (2000). Veterinary Medicine: A textbook of the diseases of 
+cattle, sheep, pigs, goats and horses. 9th edn. W.B. Saunders Co., Philadelphia. 
+7. 
+Rosenberger, G. (1979). Clinical Examination of Cattle. 2nd edn. Verlag Raul Parry, Berlin and Hamburg.  
+8. 
+mvgv`,Gg,G,(2001). cï cvjb I wPwKrmvwe`¨v, †`k cÖKvkbv, bs 08 evK…we, gqgbwmsn| 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 323 
+COURSE NO. VM 323 
+COURSE NO. VM 323 
+COURSE NO. VM 323  
+Course Title: Systemic Diseases of Farm Animals 
+Credit hour : 3 
+A. Diseases of digestive, respiratory and urinary organ-systems 
+General principles of dysfunction and manifestations, diagnosis and treatment of diseases of digestive, respiratory and 
+urinary systems of domestic ruminants, horses and swines. 
+Definition, causes, pathophysiology, pathogenesis, clinical characteristics (signalment, anamnesis, nature of onset, clinical 
+signs, course and severity, physical findings of specimens), presumptive diagnosis, prognosis, conservative treatment and 
+nature of response and advice on general diseases (mentioned below) of digestive, respiratory and urinary organs-systems of 
+domestic ruminants, swines and horses. 
+1. Diseases of upper alimentary tract : Diseases of buccal cavity and associated organs. Diseases of pharynx and esophagus, 
+congenital defects. 
+2. Diseases of stomach and intestine : Equine and bovine colic, indigestion, rumenal bloat, impaction of omasum and 
+abomasums, abomasal displacements-left, right, torsion, enteritis, dietary diarrhea and acute intestinal obstruction. 
+3. Disease of liver and peritoneum : Hepatitis, hepatomegaly, jaundice, peritonitis. 
+4. Diseases of upper respiratory tract : Rhinitis, epistaxis, hemoptysis, laryngitis, laryngeal paralysis, tracheitis, bronchitis. 
+5. Diseases of lungs and pleura : Pulmonary edema, congestion, emphysema, pneumonia, hydrothorax, hemothorax, 
+pneumothorax, atelectasis and pleurisy (pleuritis). 
+6. Diseases of urinary system : Nephritis, nephrosis, cystitis, urolithiasis. 
+B. Diseases of other organ-systems 
+General principles of dysfunction and manifestations, diagnosis and treatment of diseases of cardiovascular, nervous, 
+musculoskeletal and integumentary systems of farm animals. 
+Definition, causes, pathogenesis and pathophysiology, clinical characteristics, presumptive diagnosis, prognosis, 
+conservative treatment and nature of response and advice on important general diseases (mentioned below) of other organ-
+systems – cardiovascular, hemopoietic and lymphatic, nervous and musculoskeletal systems, skin, udder, eye and ear of 
+domestic ruminants, swines and horses. 
+1. Diseases of hair, wool, follicles, skin, coat and subcutis : Pityriasis, alopecia, hypotrichosis, seborrhea, folliculitis, 
+hyperkeratosis, parakeratosis, pachyderma, urticaria, photosensitization, dermatitis and dermatosis, angioneurotic edema, 
+subcutaneous emphysema, anasarca, subcutaneous cysts. 
+2. Diseases of udder and teats : Teat papilloma, bovine ulcerative mammillitis, udder impetigo, chaps, theilitis, udder edema, 
+blood in the milk, agalactia. 
+3. Diseases of eye and ear : Keratitis and conjunctitis, otitis externa/otorrhoea. 
+4. Diseases of cardiovascular, hemopoietic and lymphatic systems : Heart failure (acute heart failure, congestive heart 
+failure), myocarditis and endocarditis, pericarditis and congenital defects, edema, anemia, lymphadenopathy, 
+splenomegaly. 
+5. Diseases of nervous system : Encephalitis, meningitis, cerebral hypoxia, hydrocephalus, epilepsy, myelitis. 
+6. Diseases of musculosheletal system : Myositis and myopathy, myasthenia, osteodystrophy and osteomyelitis, arthropathy 
+and arthritis. 
+ 
+Departm
+Departm
+Departm
+Department of Medicine
+ent of Medicine
+ent of Medicine
+ent of Medicine 
+COURSE NO. VM 324
+COURSE NO. VM 324
+COURSE NO. VM 324
+COURSE NO. VM 324 
+Course Title: Systemic Diseases of Farm Animals 
+Credit hour : 1 
+1. Handling of clinical cases : Clinical/physical examination, non-laboratory field-based presumptive diagnosis, prognosis and 
+conservative curative treatment of general diseases, and advice for restoration of health in individual sick farm animals 
+(domestic ruminants, swines and horses). 
+2. Collection, physical examination, preservation and dispatch of clinical specimens to respective laboratories of the Faculty 
+of Veterinary Science. 
+ 
+ 
+25
+3. Recording of at least 30 clinical cases with post-treatment evaluation and interpretation in a note book (approved format of 
+the Department concerned) to be checked and signed by teacher(s) concerned.  
+ 
+Books Recommended (VM 323 & 324) 
+1. 
+Aiello, S.E. and Mays, A. (1988). The Merck Veterinary Mamud. Merck & Co., Inc, USA. 
+2. 
+Anderson, N.V. (1992). Veterinary Gastroenterology. Lea & Febiger, London. 
+3. 
+Andrews, A.H., Blowey, R.W., Boyd, H. and Eddy, R.G. (2004). Bovine Medicine: Disease and Husbandry of Cattle. 2nd 
+edn. Blackwell Science. 
+4. 
+Byaher and Natamen, M.C. (1985). Veterinary Fluid Therapy. Blackwell Science. 
+5. 
+Howard, L.J. (1993). Current Vet. Therapy: Food Animal Practice. W.B. Saunders Co. Philadelphia. 
+6. 
+Mathews, J. (1999). Diseases of the Goat. Blackwell Science. 
+7. 
+Radostitis, O.M., Gay, C.C., Blood, D.C. and Hincheliff, K.W. (2000), Veterinary Medicine: A Textbook of the Diseases 
+of Cattle, Sheep, Pigs, Goats and Horses, 9th edn. W.B. Saunders Co. Phildelphia. 
+8. 
+Smith, B.P. (1996). Large Animal Internal Medicine. 2nd edn. C.V. Mosby Co., St. Louis, Philadelphia. 
+9.     mvgv`,Gg,G,(2001). cï cvjb I wPwKrmvwe`¨v, †`k cÖKvkbv, bs 08 evK…we, gqgbwmsn| 
+ 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 421
+COURSE NO. VM 421
+COURSE NO. VM 421
+COURSE NO. VM 421 
+Course Title: Infectious Diseases of Farm Animals 
+Credit hour: 3 
+A. Diseases of Cattle and Buffaloes  
+Definition, causes, pathophysiology/ pathogenesis, clinical characteristics (signalment, anamnesis, nature of onset, clinical 
+signs, course and severity, physical findings of specimens), presumptive diagnosis, prognosis, conservative treatment and 
+nature of response and clinical advice on important infectious and parasitic diseases (listed below) of domestic cattle and 
+buffaloes of Bangladesh. 
+1. Bacterial diseases : Mastitis, anthrax, pasteurellosis (pneumonic, septicemic-HS), colibacillosis, salmonellosis, clostridial 
+diseases (tetanus, black leg, black disease, bacillary hemoglobinuria, malignant edema, botulism, enterotoxemia), 
+actinomycosis, actinobacillosis, tuberculosis, Johne’s disease, navel ill, posthitis, contagious bovine pyelonephritis, 
+brucellosis, vibriosis, leptospirosis, listeriosis, foot rot, dermatophilosis, infectious bovine keratoconjunctivitis. 
+2. Mycoplasmal, rickettsial, chlamydial and fungal diseases : Contagious bovine pleuropneumonia, anaplasmosis, Q-fever, 
+tick borne fever, contagious ophtthalmia, contagious agalactia, rhinosporidiosis, dermatophytosis, Degnala disease, 
+cryptococcosis, candidiasis. 
+3. Viral diseases : Foot and mouth disease, ephemeral fever, rabies, rinderpest, bovine virus diarrhea, infectious bovine 
+rhinotracheitis, rota virus infection, bovine malignant catarrhal fever, winter dysentery, papillomatosis, cowpox, 
+buffalopox. 
+4. Protozoan diseases : Babesiosis, theileriosis, coccidosis, cryptosporidiosis, balantidiasis, trypanosomiasis, trichomoniasis. 
+5. Helminth diseases : Hydatid disease, lungworm disease, fascioliasis, intestinal amphistomiasis, schistosomiasis (nasal and 
+intestinal), ascariasis, strongyloidosis, stephanofilariasis, parasitic gastro-enteritis, tape worm infection. 
+6. External parasitic infestation : Lice, tick and mite infestations. 
+ 
+B. Diseases of Goats, Sheep, Swines and Horses 
+Definition, causes, pathophysiology, pathogenesis, clinical characteristics (signalment, anamnesis, nature of onset, clinical 
+signs, course and severity, physical findings of specimens), presumptive diagnosis, prognosis, conservative treatment and 
+nature of response and clinical advice on important infectious and parasitic diseases (listed below) specific to domestic goat, 
+sheep, swine and horse in Bangladesh. 
+ 
+1. Diseases of sheep and goat : Enterotoxemia,  tetanus, caseous lymphadenitis, parasitic gastroenteritis, parasitic otitis, 
+fascioliasis, cerebral and extraneural cenuriasis, tapeworm infection, tick pyemia, external parasitic infestation (sheep ked 
+infestation, different types of mange), blue tongue, contagious ecthyma, PPR, louping ill, scrapie, sheeppox, goatpox, 
+pulmonary adenomatosis and ovine progressive pneumonia. 
+2. Diseases of horse : Strangles, glanders, ulcerative lymphangitis, exertional rhabdomyolysis/azoturia, nutritional disease, 
+parasitic gastroenteritis, habronemiasis, equine infectious anemia, equine influenza. 
+3. Diseases of swine : Hog cholera, vesicular stomatitis, pseudorabies, swine fever, swine dysentry, parasitic gastroenteritis, 
+piglet anemia, parakeratosis, erysipelas. 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 422
+COURSE NO. VM 422
+COURSE NO. VM 422
+COURSE NO. VM 422 
+Course Title: Infectious Diseases of Farm Animals 
+Credit hour: 1 
+ 
+ 
+26
+1. Handling of clinical cases : Clinical / physical examination, non-laboratory presumptive diagnosis, prognosis and 
+conservative treatment of special diseases and clinical advice for restoration of health in individual sick farm animals 
+(domestic ruminants, swines and horses).   
+2. Collection, physical examination, preservation and dispatch of clinical specimens to respective laboratories of the Faculty 
+of Veterinary Science. 
+3. Recording of at least 30 clinical cases with post-treatment evaluation and interpretation in a note book (approved format 
+by the Department concern) to be checked and signed by teacher(s) concern. 
+4. Visit to Rajarbagh police horse farm, camel farm (Dhaka), Savar dairy farm during Thursdays using ambulatory clinic of 
+BAU vet. clinic. 
+  
+Books Recommended (VM 421 & 422) 
+1. Aiello, S.E. and Mays, A. (1988). The Merck Veterinary Manual. Merck & Co., Inc, USA 
+2. Anderson, N.V. (1992). Veterinary Gastroenterology. Lea & Febiger, London. 
+3. Andrews, A.H., Blowey, R.W., Boyd, H. and Eddy, R.G. (2004). Bovine Medicine: Disease and Husbandry of Cattle. 2nd 
+edn. Blackwell Science Ltd. 
+4. Byaher and Natamen, M.C. (1985). Veterinary Fluid Therapy. Blackwell Science Ltd. 
+5. Cockrill, W.R.  (1974). The Husbandry and Health of Buffalo. FAO, Rome. 
+6. Howard, L.J. (1993). Current Veterinary Therapy : Food Animal Practice. W.B. Saunders Co., Philadelphia. 
+7. Mathews, J. (1999). Diseases of the Goat. Blackwell Science Ltd. 
+8. Radostitis, O.M., Gay, C.C., Blood, D.C. and Hinchcliff, K.W. (2000), Veterinary Medicine : A Textbook of the Diseases 
+of Cattle, Sheep, Pigs, Goats and Horses. 9th edn. W.B. Saunders Co., Philadelphia. 
+9. Smith, B.P. (1996). Large Animal Internal Medicine. 2nd edn. C.V. Mosby Co., St. Louis, Philadelphia. 
+10. mvgv`,Gg,G,(2001). cï cvjb I wPwKrmvwe`¨v, †`k cÖKvkbv, bs 08 evK…we, gqgbwmsn| 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 413
+COURSE NO. VM 413
+COURSE NO. VM 413
+COURSE NO. VM 413 
+Course Title: Metabolic and Nutritional Diseases of Farm Animals 
+Credit hour: 2 
+Metabolic diseases 
+ 
+ 
+Definition of metabolic and production diseases and their differences, Compton metabolic profile test, 
+differential diagnosis of common causes of recumbency in parturient adult cattle, Milk fever, downer cow syndrome, bovine 
+ketosis, pregnancy toxemia, fat cow syndrome, acute hypokalemia in cattle, neonatal hypoglycemia, grass tetany, lactation 
+tetany, hypophosphataemia, post-parturient hemoglobinuria, azoturia. 
+Nutritional diseases 
+ 
+ 
+Protein-energy deficiency diseases, vitamin-mineral deficiency diseases (vitamin A, D, E, B12 , calcium, 
+phosphorus, magnesium, cobalt, copper, iodine, iron, manganese, zinc, selenium deficiency diseases), rickets, osteomalacia, 
+osteodystrophia fibrosa. 
+Diseases caused by chemicals, poisons, toxins 
+ 
+ 
+Organophosphorus and carbamates poisoning, chlorinated hydrocarbon poisoning, nitrate and nitrite 
+poisoning, hydrocyanic acid poisoning, arsenic and lead poisoning, urea poisoning, oxalate poisoning, poisoning by 
+anthelmintics, snake bite, bee stings, tick paralysis. 
+Diseases caused by physical agents 
+ 
+ 
+Lightning stroke and electrocution, burns and scalds, yoke gall, brisket disease. 
+ 
+Books Recommended 
+1. Aiello, S.E. and Mays, A. (1988). The Merck Veterinary Manual. Merck & Co., Inc, USA 
+2. Andrews, A.H., Blowey, R.W., Boyd, H. and Eddy, R.G. (2004). Bovine Medicine: Disease and Husbandry of Cattle. 2nd 
+edn. Blackwell Science Ltd. 
+3. Byaher and Natamen, M.C. (1985). Veterinary Fluid Therapy. Blackwell Science Ltd. 
+4. Cockrill, W.R.  (1974). The Husbandry and Health of Buffalo. FAO, Rome. 
+5. Howard, L.J. (1993). Current Veterinary Therapy : Food Animal Practice. W.B. Saunders Co., Philadelphia. 
+6. Mathews, J. (1999). Diseases of the Goat. Blackwell Science Ltd. 
+7. Radostitis, O.M., Gay, C.C., Blood, D.C. and Hinchcliff, K.W. (2000), Veterinary Medicine : A Textbook of the Diseases 
+of Cattle, Sheep, Pigs, Goats and Horses. 9th edn. W.B. Saunders Co., Philadelphia. 
+8. Smith, B.P. (1996). Large Animal Internal Medicine. 2nd edn. C.V. Mosby Co., St. Louis, Philadelphia. 
+9. mvgv`,Gg,G,(2001). cï cvjb I wPwKrmvwe`¨v, †`k cÖKvkbv, bs 08 evK…we, gqgbwmsn| 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+ 
+ 
+27
+COURSE NO. VM 411 
+COURSE NO. VM 411 
+COURSE NO. VM 411 
+COURSE NO. VM 411  
+Course Title: Small, Zoo and Laboratory Animal Medicine  
+Credit hour : 3 
+A. Small Animal Medicine  
+Definition, causes, pathophysiology, pathogenesis, clinical characteristics (signalment, anamnesis, nature of onset, clinical 
+signs, course and severity, physical findings of specimens), presumptive diagnosis, prognosis, conservative treatment and 
+nature of response and clinical advice on the  following important general and special diseases of pet dogs and cats in 
+Bangladesh. 
+General diseases 
+1. General systemic states--Hyperthermia, hypothermia, toxemia, weakness, syncope, obesity, cachexia.  
+2. Digestive disorders-anorexia, inappetance, polyphagia, ptyalism, vomiting, diarrhea, constipation, dysentery, 
+gastroenteritis.  
+3. Respiratory disorders – sneezing, nasal discharge, coughing, tachypnea, dyspnea.  
+4. Urogenital disorders – Genital discharges, polyuria, polydipsia, urinary incontinence, urine retention, discolourtion of 
+urine, proteinunia.  
+5. Cardiovascular disorders-Abnormal heart sounds and pulse, hypotension, hypertension. Hemopoietic disorder – Anemia, 
+polycythemia, cyanosis, jaundice, epistaxis, hemoptysis.  
+6. Neurological disorders–Shivering, trembling, ataxia, paresis, coma, stupor, seizures, abnormal behaviour.  
+7. Endocrine and musculoskeletal disorder—Acromegaly, diabetes, hypothyroidism, lameness, swollen joint.  
+8. Diseases of eye and ear. 
+9. Skin diseases: alopecia, pruritus, skin lesions, erosive and ulcerative dermatitis.   
+Special diseases 
+1. Viral diseases : Canine distemper, canine hepatitis, rabies, canine parvovirus and coronavirus infection, feline 
+panleukopenia, kennel cough, feline leukemia, feline infectious anemia, feline rhinotracheitis. 
+2. Bacterial diseases:  Salmonellosis, campylobacteriosis, tuberculosis, pseudotuberculosis, brucellosis, leptospirosis, 
+actinomycosis, tetanus, botulism, Tyzzer’s disease, tularemia, borreliosis, lyme disease, streptococcosis, cat scratch 
+disease, bubonic plague. 
+3. Fungal diseases : Dermatophytosis, candidiasis, moniliasis, histoplasmosis, cryptoccosis, aspergillosis. 
+4. Parasitic diseases : Protozoan diseases – Coccidiosis, cryptosporidiosis, amebiasis, giardiasis, toxoplasmosis, babesiosis, 
+trypanosomiasis, leishmaniasis, sarcocystosis, Helminth diseases – Heart worm disease, ascariasis, hookworm disease, 
+strongyloidiosis, tape worm disease, whipworm disease, giant kidney worm disease, esophageal and stomach worm 
+disease, trichinellosis, External parasitic infestation – Lice, tick, flea and mite infestations. 
+5. Non-infectious diseases : a) Nutritional deficiency diseases, b) Diseases caused by physical and chemical agents, 
+immunological disorders and cancer. 
+ 
+B. Zoo and Laboratory Animal Medicine 
+1. Introduction, history and scope of Zoo and Laboratory Animal Medicine. Requirements for zoo veterinarians, Definition 
+of related terms. Epidemiological significance of zoological gardens. 
+2. Animal status in different zoo in Bangladesh, ethology (behaviour) and stress in zoo animals and birds. 
+3. Restraint - different methods and adverse effects of restraint.  
+4. Principles of diagnosis of diseases of zoo and laboratory animals - dispatch of samples to the laboratory and laboratory 
+methods of diagnosis.  
+5. Health management of different zoo and laboratory animals. 
+6. Classification, biological characteristics, feeds and feeding, restraint and handling and important diseases of common 
+species of zoo animals and birds of the following orders, Aves, Reptiles and mammals (Marsupialia, Edentata, Chiroptera, 
+Non-human prinmates, Lagomorpha, Rodentia, Carnivora, Proboscidea, Perissodactyla and Artiodactylia). 
+7. Principles of nutrition and nutritional deficiency diseases in zoo animals and birds with their treatment and prevention. 
+8. Zoonotic diseases of zoo and laboratory animals and birds and their prevention and control. 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 412
+COURSE NO. VM 412
+COURSE NO. VM 412
+COURSE NO. VM 412 
+Course Title: Small, Zoo and Laboratory Animal Medicine  
+Credit hour: 1 
+Small Animal Medicine 
+1. Introduction and requirements of small animal clinic and responsibilities of the small animal practioners. 
+2. Methods of restraining of dogs, cats and zoo and laboratory animals and birds. 
+3. Methods of clinical diagnosis of diseases of dogs and cats- History taking, distant inspection and physical techniques, 
+clinical examination of different body regions and different systems and organs of small animals 
+4. Methods of laboratory diagnosis-collection, physical examination, preservation and shipment of stools, urine, blood, skin 
+scrapings, smears, swabs and edematous fluid. Diagnostic imaging techniques 
+5. Demonstration and dispensing of drugs and their doses, route of administration, duration of treatment and adverse drug 
+reactions in dogs and cats. 
+ 
+ 
+28
+6. Recording of clinical cases of dogs and cats and their prescription writing, post-treatment evaluation and interpretation. 
+7. Field trips to the Central Veterinary Hospital, Dhaka and other private small animal clinic for practical classes. 
+ 
+Zoo and Laboratory Animal Medicine 
+1. Requirement of zoo veterinarians. 
+2. Methods of restraining of zoo and laboratory animals and birds. 
+3. Demonstration of drugs and vaccines used in zoo and laboratory animals with their dose and route of administration. 
+4. Methods of clinical examination, collection and dispatch of specimens to the laboratory for confirmation of diagnosis and 
+treatment of sick zoo and laboratory animals and birds. 
+5. Requirements and planning for establishing an ideal zoological garden and laboratory animal house. 
+6. Preparation of a note book everything done in the practical classes. 
+7. Provision for funds and transport for practical classes in zoological garden in Dhaka zoo and students should prepare and 
+submit the report on practical classes held in zoo during final examination. 
+ 
+Books Recommended (VM 411 & 412) 
+1. Ettinger, S.J. and Feldman, E.C. (1995). Textbook of Veterinary Internal Medicine: Diseases of the Dog and Cat. Vol. I, 
+II. 4th edn. W.B. Saunders Co., Philadelphia. 
+2. Gorman, N.T. (1998). Canine Medicine and Therapeutics. 4th edn. Blackwell Science Ltd., London. 
+3. Schar, M. (2003). Canine Medicine of the Dog and Cat. 2nd edn. Manson Publishing Ltd., London. 
+4. Willard, M., Tvedten, H. and Turnwald, G.H. (1994). Small Animal Clinical Diagnosis by Laboratory Medicine Methods. 
+2nd edn. W.B Saunders Co., Philadelphia. 
+5. Fowler,. M.E (1986). Zoo and Wild Animal Medicine. 2nd Edn. W.B. Saunders Company, Philadelphia. 
+6. Fowler, ME and RE Miller (2003). Zoo and Wild Animal Medicine. 5th edn., Saunders, USA. 
+7. Fowler,. M.E (1996). Restraint and Handling of Wild and Domestic Animals. Iowa State University Press, Ames, Iowa. 
+8. Holmes, D.D. (1988). Clinical Laboratory Animal Medicine. Iowa State University Press, Ames, Iowa. 
+9. Klos, H.G. and Lang, E.M,. (1982) Handbook of Zoo Medicine.Van Nostrand Reinhold Company, New York, London, 
+Toronto, Melbourne. 
+10.  Samad, M. A. (2000). Veterinary Practitioner’s Guide, 1st pub. LEP Pub No. 7, BAU, Mymensingh 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 512
+COURSE NO. VM 512
+COURSE NO. VM 512
+COURSE NO. VM 512 
+Course Title: Clinics (Medicine)   
+Credit hour : 1 
+1. Handling of clinical cases : Clinical/physical examination, non-laboratory field-based presumptive diagnosis, prognosis 
+and conservative treatment of both general and special diseases and clinical advice for restoration of health in individual 
+sick animals and birds attended at Veterinary Clinic of BAU. 
+2. Collection, physical examination and dispatch of specimens to the laboratory. 
+3. Preparation of a note book which will include a) recording of 30 clinical cases with post-treatment evaluation and 
+interpretation (approved format prescribed by the department concern). The note book is to be checked and signed by 
+teacher(s) concern.  
+ 
+Books Recommended 
+1. 
+Aiello, S.E. and Mays, A. (1988). The Merck Veterinary Manual. Merck & Co., Inc, USA 
+2. 
+Burr, E.W. (1987). Companion Bird Medicine. Iowa State University Press, Ames, Iowa. 
+3. 
+Ettinger, S.J. and Feldman, E.C. (1995). Textbook of Veterinary Internal Medicine: Diseases of the Dog and Cat. Vol. I, 
+II. 4th edn. W.B. Saunders Co., Philadelphia. 
+4. 
+Howard, L.J. (1993). Current Veterinary. Therapy: Food Animal Practice. W.B. Saunders Co., Philadelphia. 
+5. 
+Radostitis, O.M., Gay, C.C., Blood, D.C. and Hinchcliff, K.W. (2000), Veterinary Medicine: A Textbook of the Diseases 
+of Cattle, Sheep, Pigs, Goats and Horses. 9th edn. W.B. Saunders Co., Philadelphia. 
+6.     mvgv`,Gg,G,(2001). cï cvjb I wPwKrmvwe`¨v, †`k cÖKvkbv, bs 08 evK…we, gqgbwmsn| 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 321
+COURSE NO. VM 321
+COURSE NO. VM 321
+COURSE NO. VM 321 
+Course Title: Epidemiology and Preventive Medicine  
+Credit hour : 3 
+A. Principles and Methods of Epidemiology and Ecology  
+Definition, objectives, uses, history and basic concepts of epidemiology. Definition of common epidemiologic and 
+population medicine terms. Causation of disease in population - multifactorial theory of disease, Evan’s postulates, necessary 
+and sufficient causes. Determinants of diseases – demographic, animal production and managemental, environmental and 
+pathogen factors. Temporal patterns of disease occurrence and trends. Veterinary ecology – principles and methods, mode of 
+transmission of infection and disease process in population, infection dynamics. 
+ 
+ 
+29
+Measurements of health and disease in population – morbidity, mortality rate, case fatality rate, attack rate, prevalence, 
+incidence rate, measurement of productivity. Descriptive epidemiology – survey, surveillance and monitoring of health and 
+disease. Explanatory epidemiology and ecology – principles and methods of observational and experimental studies, analysis 
+and demonstration of association and identification of risk factors. Epidemiologic investigation of sporadic, endemic, epidemic 
+and pandemic diseases. Principles of risk analysis, assesment and management. Livestock development programs – planning, 
+execution and evaluation. 
+B. Preventive Veterinary Medicine  
+ 
+ 
+Introduction- Definition, aim, objectives of preventive vet. medicine. Principles and methods of disease 
+prevention and control. Planning, execution and evaluation of disease management programs in population : management of 
+risk factors, biosecurity, hygienic measures, vaccination, prophylaxis, early diagnosis and treatment, disease control. Disease 
+emergencies – nature and potential consequence, emergency preparedness, reporting and information systems. Management of 
+important diseases of the animals – prevention, control, eradication and elimination with particular reference to List A, List B 
+(TAD) and List C diseases. 
+List A diseases : Mastitis, salmonellosis, colibacillosis, clostridial diseases, parasitic, metabolic & nutritional diseases. 
+List B diseases (Transboundary Animal Diseases, TAD) : Foot and month disease, PPR, rinderpest, sheep and goat pox, 
+contagious bovine pleuropneumonia, hog cholera, swine fever, swine vesicular disease, vesicular stomatitis, lumpy skin 
+disease, blue tongue, rift valley fever, african horse sickness. 
+List C diseases : Anthrax, dermatophilosis, hemorrhagic septicemia, babesiosis, theileriosis, rabies, Johne’s disease, 
+tuberculosis, brucellosis, leptospirosis, campylobacteriosis, infectious bovine rhinotracheitis, anaplasmosis, screw-worm 
+diseases  heartwater, enzootic bovine leukosis, bovine spongiform encephalopathy (Summary of List B diseases in cattle of 
+international trade significance). 
+ 
+ 
+Animal health maintenance – general principles, signicance of optimum animal health in optimum 
+production in national and international livestock trade perspectives. General production medicine - general principles, 
+mathematical techniques used in production medicine, record systems and herd monitoring, culling and improvement. Special 
+production medicine - herd health management programs, environmental, disease and dietary management of food animals : 
+dairy cattle, calves and replacement heifers, meat cattle, goat, sheep and swine herds. 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 322
+COURSE NO. VM 322
+COURSE NO. VM 322
+COURSE NO. VM 322 
+Course Title: Epidemiology and Preventive Medicine  
+Credit hour : 1 
+Epidemiology 
+1. 
+Epidemiologic explanatory variables : Identification and procedure of measurement in population. 
+2. 
+Development of questionaires for various epidemiologic studies, surveys, surveillance and monitoring, Pre-testing of 
+questionaires in population, methods of collection of data. 
+3. 
+Statistical analysis of data : Demonstration of association and identification of risk factors. 
+4. 
+Epidemiologic response variables and properties of diagnostic tests: Procedure computation. 
+5. 
+Epidemiologic data management and presenting numerical data, Measurement of population impact and transmission of 
+disease : Procedure of computation. 
+6. 
+Diagnostic testing for identification of disease process and subclinical disease. 
+7. 
+Collection and analysis of ecologic data : Demonstration of ecological risk factors of disease in environment of the 
+population of animals and birds. 
+ 
+Preventive Medicine 
+1. 
+Development of questionnaires collection of disease and health data from population. 
+2. 
+Statistical analysis for identification of risk factors. 
+3. 
+Epidemilogic methods of health and disease management: Demonstration of risk factors in population and management. 
+4. 
+Demonstration of biosecurity, disease security, hygienic and sanitary measures. 
+5. 
+Disease management programs in population: Vaccination and disease control programs planning, execution and 
+evaluation. 
+6. 
+Early diagnosis and treatment of disease in population. 
+7. 
+Herd health programs: Planning, execution, evaluation and extension of strategies. 
+ 
+Books Recommended (VM 321 & 322) 
+1. Andrews, A.S. (2002). The Health of Dairy Cattle. Blackwell Science Ltd. Oxford, U.K. 
+2. Andrews. A.H., Blowey, R.W., Boyd, H. and Eddy, R.G. (2004). Bovine Medicine: Disease and Husbandry of Cattle. 2nd 
+edn. Blackwell Science Ltd., Oxford, U.K. 
+3. Chakrabarti, A. (2003). A Textbook of Preventive Veterinary Medicine. 3rd edn., Kalyani Publishers, New Delhi, India. 
+4. Kleinbaum, D.G., Kuppers L.L. and Morgenstern, (1982). Epidemiologic Research: Principles and Quantitative Methods. 
+Wadsworth, Belmont, California. 
+5. Leech, F.B. and Sellers, K.C. (1979). Statistical Epidemiology in Veterinary Science. McMillan Co. New York, N.Y. 
+6. Lilienfeld, A.M. and Lilienfield, D.E. (1980) Foundations of Epidemiology. 2nd edn., Oxford University Press, Oxford, 
+U.K. 
+ 
+ 
+30
+7. Martin, S. W.; Meek, A.H. and Willeberg, P. (1994). Veterinary Epidemiology: Principles and Methods. Iowa State 
+University Press, Ames, Iowa.  
+8. Parker, W.H. (1980). Health and Disease in Farm Animals: An introduction to Farm Animal Medicine. 3rd edn.  Pergamon 
+Press, Oxford. 
+9. Thrusfield, M. (2000). Veterinary Epidemiology. 2nd edn. Blackwell Science, Oxford, U.K. 
+Samad, M. A. (2000). Veterinary Practitioner’s Guide, 1st pub. LEP Pub No. 7, BAU, Mymensingh 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 423 
+COURSE NO. VM 423 
+COURSE NO. VM 423 
+COURSE NO. VM 423  
+Course Title: Poultry Medicine 
+Credit hour : 2 
+A. Clinical Poultry Medicine 
+Importance of health and disease management in poultry production; Principles of presumptive diagnosis of disease in 
+poultry population – holistic and clinical field data; Source of infection; Clinical signs of poultry diseases – definition, 
+classification, meanings and interpretation for presumptive diagnosis of diseases.  
+Important general and special poultry diseases (listed below) – definition, causes, pathophysiology, pathogenesis, clinical 
+characteristics (signalment, anamnesis, nature of onset, clinical signs, course and severity, physical findings of specimens), 
+mass diagnosis, mass treatment and prognosis.  
+B. a) Preventive Poultry Medicine 
+Objectives and significance of preventive poultry medicine in subsistence and commercial poultry production of 
+Bangladesh; concepts of biosecurity, disease security and flock immunity;  Holistic characteristics (frequency, distribution, 
+ecology, temporal patterns and trends, risk factors, economic impact) and management (prevention, control and eradication of 
+important general and special diseases (listed below) in subsistence and commercial poultry populations of Bangladesh; 
+handling of disease outbreaks; disinfection and vaccination in disease control. 
+    b) Production Poultry Medicine 
+General poultry production medicine – General principles of flock health, mathematical techniques used in flock health 
+management, record systems and flock monitoring, culling and improvement. Special poultry production medicine – planning 
+and evaluation of poultry flock health management programs (environmental, disease and dietary management) for 
+commercial layer, broiler, cockerel and quails, subsistence chickens and ducks; hatchery and hatching eggs management. 
+*Poultry Diseases  
+General Diseases : Crop impaction, enteritis, stunted chick disease, bumble foot, round heart disease, endocarditis, nephrosis 
+and gout, egg bound, abnormal eggs, egg peritonitis, false layer, internal layer. 
+Infectious diseases : Avian streptococcosis, avian staphylococcosis, avian salmonellosis, avian cholera, anatipestifer infection, 
+Infectious coryza, avian colibacillosis, avian clostridiosis (botulism, ulcerative enteritis, necrotic enteritis, gangrenous 
+dermatitis), tuberculosis, avian mycoplasmosis, avian chlamydiosis, avian pox, Newcastle disease, infections bronchitis, 
+infectious laryngotracheitis, Marek’s disease, lymphoid leukosis, egg drop syndrome 76, infectious bursal disease, chicken 
+infectious anemia, avian influenza, hydropericardium-hepatitis syndrome, duck plague, duck virus hepatitis, aspergillosis, 
+candidiasis, thrush. 
+Parasitic diseases : Nematode, cestode and trematode infections, avian coccidiosis, histomoniasis, trichomoniasis, 
+leucocytozoonosis, avian malaria, hemoproteus infections, cryptosporidiosis, external parasitic infestations (flea, lice, tick, 
+mite infestations). 
+Metabolic, nutritional, chemical and physical diseases : Protein, carbohydrate, fat, vitamin and mineral deficiency diseases. 
+arsenic, calcium, copper, lead, nitrate, bicarbonete, sodium chloride, potassium permanganate, organic insecticides, chlorinated 
+hydrocarbons and organophosphorus poisoning, mycotoxicoses, ascites and edema, heat stress, ammonia blindness, 
+cannibalism, egg eating, smothering, cage layer fatigue, acute death syndrome in broiler. 
+Hatchery and egg borne diseases, diseases of public health significance. 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 424 
+COURSE NO. VM 424 
+COURSE NO. VM 424 
+COURSE NO. VM 424  
+Course Title: Poultry Medicine 
+Credit hour : 1 
+1. 
+Demonstration of clinical signs of poultry diseases in population level.  
+2. 
+Clinical specimens : Methods of collection, physical examination, preservation and dispatch of specimens to the 
+laboratory. 
+3. 
+Methods of mass diagnosis using clinical and holistic field data of disease in population. 
+4. 
+Methods of administration of drugs in mass treatment, and vaccination. 
+5. 
+Epidemiologic investigation of disease : Development of questionaires for collection of data on poultry population 
+characteristics and transmission of disease using principles and methods of descriptive and explamatory epidemiologic 
+studies. 
+6. 
+Procedure of measurement of poultry health and disease variables. 
+7. 
+Statistical analysis of data, demonstration of association and identification of risk factors of poultry health and disease. 
+8. 
+Methods of management of risk factors in subsistence and commercial poultry flocks. 
+ 
+ 
+31
+9. 
+Vaccination and disease control programs in subsistence and commercial poultry flocks: Planning, execution and 
+evaluation of the programs, preparation of vaccination schedule. 
+10. Demonstration of materials used in preventive and control measures and methods of administration in poultry. 
+11. Development of questionnaires for collection of health and production data from subsistence and commercial poultry 
+flocks. 
+12. Procedure of measurement of poultry health and production variables and collection of data. 
+13. Analysis of data to determine shortfalls and demonstration of shortfalls, Principles and procedure of eliminating 
+shortfalls in commercial flocks. 
+14. Profit oriented flock health program: Planning, execution and evaluation for various commodities of poultry-layer, 
+broiler, chicks, cockrel, etc. 
+15. Field trips to public and private poultry farms for practical exposure. 
+ 
+Books Recommended (VM 423 & 424) 
+1. Calnek, B.W. (1997). Diseases of Poultry. 10th edn., Iowa State University Press, Ames, Iowa, USA. 
+2. Hoefer, H.L. (1997). Practical Avian Medicine. Veterinary Learning System, USA. 
+3. Jordan. F.T.W and Pattison, M. (2000). Poultry Diseases. 5th edn., Bailliere Tindall, London. 
+4. Rosskepf, W.J. and Woerpel, R. (1996). Diseases of Cage and Aviary Birds. Woerpel, Williams and Wilkins, USA. 
+5. Samad, M. A. (2005). Poultry Science and Medicine. 1st edn., LEP publication. BAU campus. 
+6. Singh, H. and Moore, E.N. (1993). Livestock and Poultry Production. 2nd edn. Prentice-Hall of India Private Ltd., New 
+Delhi. 
+7. ingvb, Av. (1986). gyiMx I Ab¨vb¨ cvwLi †ivMZË, 1g I 2q LÛ, evsjv GKv‡Wgx, XvKv| 
+8. mvgv`,Gg.G. (1993). †cvwëª cvjb I wPwKrmvwe`¨v, †`k cÖKvkbv, bs 08, evK…we, gqgbwmsn| 
+ 
+Department of Medicine
+Department of Medicine
+Department of Medicine
+Department of Medicine 
+COURSE NO. VM 511 
+COURSE NO. VM 511 
+COURSE NO. VM 511 
+COURSE NO. VM 511  
+Course Title: Forensic Medicine, Jurisprudence and Animal Welfare 
+Credit hour. : 2 
+A. Forensic Medicine, Jurisprudence  
+Introduction and definition of Veterinary Forensic Medicine and Jurisprudence; aims, scope, uses and branches of forensic 
+medicine; difference between forensic medicine and jurisprudence; legal system – criminal courts and powers; vetero-legal 
+wounds – classification and description of vetero-legal wounds, differences of different wounds, determination of age of 
+injury, vetero-legal importance of wound healing; common frauds in the sale of livestock and its products; Common offences 
+against animals – bestiality, maiming, mischiefs and mischievous killing (poisoning, slaughtering, violence, starvation, 
+strangulation and drowning); causes of sudden death; accidental deaths – lightning stroke and electrocution; Examination of 
+live and dead animals in criminal cases and submission of vetero-legal specimens; Vetero-legal report writing; Vetero-legal 
+evidence – hints for giving evidence and witness; Veterinary legislations – Bangladesh Animal Disease Act 2005, Bangladesh 
+Animal and Animal Product Quarantine Act 2005, Cattle Trespass Act 1871, The Livestock Importation Act 1898, Prevention 
+for Cruelty to Animals Act 1890, Bioterrorism Act 2002, Poisons Act 1919, Dangerous Drugs Act 1930.. Organization of 
+veterinary service in Bangladesh – nature and scope of veterinary services; Professional conduct, professional malpractices, 
+liability, veterinary ethics, animal insurance.  
+B. Animal welfare  
+Introduction : Definition, objectives, concepts, indications and public perceptions. Causes of welfare problems of the 
+following animals: Draught and farm animals, pet and entertainment animals, lahoratory, wild and captive animals, pet birds 
+and poultry. Control of animal welfare problems-Animal welfare regulations. 
+Books Recommended  
+1. 
+Anon. (1997). European Union (1997). Protocol on Protection and Welfare of Animals. European Union Treaty of 
+Amsterdam. 
+2. 
+Appleby, M. C. and Hughes, B. O. (1997). Animal Welfare. CAB Interantional, Wallingford, UK. 
+3. 
+Dawkins, M. S. (1980). Animal Suffering. Chapman and Hall, London, UK. 
+4. 
+Ewbank, R., Kim-Madslien, F. and Hart, C.B. (1999). Managment and Welfare of Farm Animals : The UFAW Farm 
+Handbook. 4th edn. Universities Federation for Animal Welfare, The Old School, BrewHouse Hill, Wheathampstead, 
+Harts, U.K. 
+5. 
+Michell, A.R. and Ewbank, R. (1998). Ethics, Welfare, Law and Market Forces: the Veterinary Interface, UFAW, 
+Wheathampstead, UK. 
+6. 
+Minnet, F.C. (1949). Outline of Veterinary Science. Govt. of Pakistan. 
+7. 
+Rochlitz, 1. (2005). The Welfare of Cats. Springer for Science, Netherlands. 
+8. 
+Sainsbury, D. (1986). Farm Animal Welfare. Collins, London, UK. 
+9. 
+Sharma, S.N. (1981). Veterinary Jurisprudence. 3rd edn. Oxford and IBH Publishing Co., India. 
+10. Waran, N. (2002). The Welfare of Horse. Springer for Science, Netherlands. 
+ 
+Department of Surgery
+Department of Surgery
+Department of Surgery
+Department of Surgery and Obstetrics
+ and Obstetrics
+ and Obstetrics
+ and Obstetrics 
+Level 4 Semester I 
+ 
+ 
+32
+COURSE NO : VSO 411
+COURSE NO : VSO 411
+COURSE NO : VSO 411
+COURSE NO : VSO 411 
+Course Title : Anaesthesiology 
+Credit hour : 3 
+Definition of common terms, general consideration for anaesthesia, classification of anaesthesia and anaesthetics, mode of 
+action of different anaesthetics, stages of anaesthesia. 
+General principles of local anaesthetics, general pharmacology of inhalation and injectable  anaesthetics, principles of 
+preanaesthetic examination and preparation of animal 
+Principles of sedation and premedication: Indications, agents used and their doses in different species. 
+Muscle relaxants: Drugs used and their doses in various species. 
+Local and regional analgesia in various species: Topical analgesia, paravertebral block, field block, epidural, cornual, 
+auriculopalpebral, supra-orbital, mandibular, infra-orbital, planter, peroneal, pudic nerve block, intravenous regional analgesia 
+General anaesthesia and anaesthetics:  
+Injectable agents - Chloral hydrate, barbiturates, dissociative agents, steroid and other agents.  
+Inhalation agents – Chloroform, diethyl ether, halothane, methoxyflurane, enflurane, isoflurane, nitrous oxide, and 
+cychlopropane 
+Apparatus used for administration of anaesthetics 
+Anaesthesia of dog, cat, sheep, goat, cattle, horse 
+Anaesthesia of zoo and laboratory animals and birds. 
+Anaesthesia for obstetrical practice in various species of animals 
+Postanaesthetic intensive care of animals  
+Hazards of anaesthesia and their management. 
+Euthanasia: Indications, various methods and agents used. 
+Books Recommended 
+Veterinary Anaesthesia. 1991. Hall, L. W. and Clark, K.W., 9th edition, Bailliere Tindall, London. 
+Drugs in Anaesthetic Practice. 1984. Vickers, M.D., Schnieden, H. and Wood-Smith, F.G., Butterworths, London. 
+General Anaesthesia. 1989. Nunn J.F., Uttings J.E. and Brown B.R., 5th edition, Butterworths, London. 
+The Practice of Small Animal Anaesthesia. 1983. Sawyer, W.B. Saunders Company, London. 
+Mnual of Small Animal Anesthesia. 1988. Paddeford, R.R., 1st edition, Churchill Livingston, New York. 
+Wright’s Veterinary Anaesthesia and Analgesia. 1978. Hall, L.W., ELBS and Bailliere Tindall, London. 
+Textbook of Veterinary Anesthesia. 1971. Soma, L.R., The Williams & Wilkins Company, Balt 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 3 Semester II 
+COURSE NO : VSO 321
+COURSE NO : VSO 321
+COURSE NO : VSO 321
+COURSE NO : VSO 321 
+Course Title : General Surgery 
+Credit hour : 3 
+Introduction, definition of common surgical terms and methods of therapy. 
+Principles of surgery: 
+Preoperative consideration of animals, Inflammation, suppuration and abscess formation, affection of uropygeal gland in bird, 
+contusions, fibrosis and sclerosis, wounds, classification, characterization and treatment of wounds, healing of wounds, 
+complications of wound healing, ulceration, necrosis,  gangrene, sinus, fistula, cysts, tumors, haematoma, lymphangitis, 
+oedema, emphysema, physical lesions,  affections of joints, fractures and repair of bones, complications of fractures, yoke gall, 
+haemorrhage and haemostasis, burns and scalds, frost bite, shock and its management, cryosurgery, paracentasis, asepsis and 
+antisepsis. 
+Surgical affections of tissues: 
+Aetiology, classification, symptoms, diagnosis, prognosis and treatment of skin and subcutaneous connective tissues, arteries, 
+veins, lymphatics, nerves. 
+Surgical affections causing lameness: 
+Definition, classification, aetiology, clinical signs, diagnosis, prognosis and treatment of different affections causing lameness.  
+Fluid therapy: 
+Indications, different types of fluids used, assessment of fluid deficit, administration of fluids,  electrolyte and acid-base 
+balance, transfusion of blood and blood plasma.  
+ 
+ 
+33
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 3 Semester II 
+COURSE NO: VSO 322
+COURSE NO: VSO 322
+COURSE NO: VSO 322
+COURSE NO: VSO 322 
+ Course Title: General Surgery 
+Credit hour: 1 
+General considerations for surgery 
+Proficiency in operative surgery, clinical examination of the patient, surgical anatomy, preparation of patient, restraint of 
+animals, identification and sterilization of instruments, dressing, bandaging, sutures and suture materials, different types of 
+knots, operative technique, haemostasis, practice of fluid therapy and blood transfusion. 
+  
+Passing of stomach tube, probang and catheter in domestic animals, nerve blocking, parenterall injection of drugs, sera and 
+vaccines, diagnosis of lameness, common minor operations in domestic animals, paracentesis abdominis in bovine.  
+Books Recommended (VSO 321 &  322) 
+Dollar’s Veterinary Surgery. 1980. O’Connor, J.J. 1st Indian edition, CBS Publisher and Distributors, New Delhi. 
+Textbook of Large Animal Surgery. 1988. Oehme, D.W., 2nd edition, Williams & Wilkins, Baltimore, USA. 
+Lameness in Horses. 1974. Adams, O. R., 3nd edition, 
+Lameness in cattle, 1972, Paul, R. Greenough, et al. 
+Textbook of Small Animal Surgery, Vol-I & II. 1985, Slatter, D.H., W.B. Saunders Company, Philadelphia. 
+Veterinary Fluid Therapy. 1985, Micheal Bynaher, Clarke and Waterman, Blackwell Scientific Publication, London. 
+Shoeing for Performance. 1989. Prince, H. and Fischer, R., The Crowd Press, Rambury, Malborough Wiltshine, England. 
+Essentials of Veterinary Surgery. 1993. Venugopalan, A., Oxford & IBH Publishing Company PVT. LTD. New delhi. 
+Ruminant Surgery. 1996. Tyagi, R.P.S. and Singh, J. 1st Edition, CBS Publisher & Distributors, Delhi. 
+Bovine Surgery and lameness. 1986. Weaver, A.D., ELBS and Blackwell Scientific Publications. 
+Fundamental Techniques in Veterinary Surgery. 1987. Knetch, Allan, Williums and Johnson, 3rd edition, W.B. Saunders 
+Company, Philadelphia 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 5 Semester I 
+COURSE NO : VSO 517
+COURSE NO : VSO 517
+COURSE NO : VSO 517
+COURSE NO : VSO 517 
+ Course Title : Operative Surgery 
+Credit hour : 3 
+Ophthalmic and aural surgery:  
+Surgical anatomy of the eye and ear and their examination.   
+Surgical affections of eye and ear: Ectrropion, entropion, conjunctivitis, dacryocystitis, keratitis, corneal ulcer, staphyloma, 
+corneal opacity, cataract, glaucoma, uveitis, dermoid cyst, parasite in the eye,  otorrhea,  aural hematoma. 
+Nasal surgery: 
+Epitaxis, hemoptysis, foreign bodies and parasite in the nostrils, pus in the antrum, empyema of sinus.    
+Dental surgery:  
+Parrot mouth, pig mouth, shear mouth, sharp mouth, dental tarter, dental caries, pyorrhoea, dental fistula, dentigerous cysts, 
+extraction of teeth, dental abscess, epulis. 
+Gastrointestinal surgery: 
+Salivary mucocele, ranula, sialoliths, chocking, gastro-oesophageal reflux, hematemesis, foreign body, oesophageal stricture, 
+gastric dilation-torsion syndrome, delayed gastric emptying, traumatic reticuloperitonitis, bloat, tympany, impaction, abomasal 
+displacement and torsion, intestinal obstruction, intussusception, volvulous, caecal dilatation, various hernias, rectal prolapse, 
+atresia ani, atresia recti, atresia coli, rectal prolapse, intestinal anaestomosis, anal sac disease, cholelithiasis, peritonitis. 
+Urogenital surgery: 
+Obstruction of urethra, urolithiasis, various types of calculi, rupture of the bladder and urethra,  retention of urine, urinary 
+fistula, castration in different animals, cryptorchidism, ectopic testis, ,hydrocele, scrotal ablasion, phimosis, paraphimosis, 
+penile fracture, persistant frenulum, hypospadiasis, fracture of the ospenis,  canine vinereal granuloma,  hyperplasia of the 
+prostate gland, neoplasms and other diseases, caesarean section, ovariohysterectomy in bitch, uterine and vaginal prolapse, 
+persistent hymen.  
+Udder and teat: 
+ 
+ 
+34
+Affection of udder and teats: Imperforate teats, teat fissure, obstruction of the teat canal, teat fistula, papilloma, contusions, 
+open wounds, gangrenous mastitis, abscess, tumor, ulcers, botryomycosis.  
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 5 Semester I 
+COURSE NO : VSO 518
+COURSE NO : VSO 518
+COURSE NO : VSO 518
+COURSE NO : VSO 518 
+Course Title : Operative Surgery 
+Credit hour : 1 
+Anaesthesia and analgesia related to specific operations.  
+Amputation of tail, digit, declawing, aural resection in dogs, entropion and ectropion operation, enucleation of eyeball, 
+abscess, castration, caponization, ovariohysterectomy, ceasarean section, urethrotomy, cystotomy, ventriculochordectomy 
+(debarking), tracheotomy, oesophagotomy, gastrotomy, enterotomy, enterectomy, intestinal anastomoses, spleenectomy, 
+cholecystectomy, trephining of sinus, ligation of Stention’s ducts, opening of guttural pouch, roaring operation, penile 
+deviation,  vasectomy, , amputation of penis, Caslick’s operation, trocarization, tenotomy,   nephrectomy. 
+Books Recommended (VSO 517 &  518) 
+Dollar’s Veterinary Surgery. 1980. O’Connor, J.J. 4th edition, CBS Publisher and Distributors, New Delhi. 
+Textbook of Small Animal Surgery, Vol-I & II. 1985, Slatter, D.H., W.B. Saunders Company, Philadelphia. 
+Veterinary Fluid Therapy. 1985, Micheal Bynaher, Clarke and Waterman, Blackwell Scientific Publication, London. 
+Essentials of Veterinary Surgery. 1993. Venugopalan, A., Oxford & IBH Publishing Company PVT. LTD. New delhi. 
+Veterinary Ophthalmology. !991. Gelatt, K.N., 2nd edition, Lea & Febiger, Philadelphia, London. 
+Leonard;s Orthopedic Surgery of the Dog and Cat. 1985. Alexander JW, W.B. Saunders Company, Philadelphia, London. 
+Canine and Feline Nephrology and Urology. 1995. Osborne, C.A. and Finco, D.R., Williams & Wilkins, Baltimore. 
+Self-Assessment Colour review of Small animal Orthopaedics. 1998. Lewis, D.D., Parker, R.B. and Bloomberg, M.S., Manson 
+Publishing Ltd. 
+Atlas of Canine Surgical Technique. 1984. Bedford, P.G.G., 
+An Atlas of Veterinary Surgery. 1983. Hickman, J., 2nd edition, ELBS and John Wright & Sons Ltd. 
+Surgery of the Reproductive Tract. 1987. Cox, J.E. 3rd edition, Liverpool. 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 4 Semester II 
+COURSE NO : VSO 423
+COURSE NO : VSO 423
+COURSE NO : VSO 423
+COURSE NO : VSO 423 
+Course Title : Radiology and Soundness 
+Credit hour : 2 
+Radiology 
+Introduction, definition of common terms, properties of X-rays, quality of radiograph, X-ray machine, X-ray accessories, 
+production of X-ray, X-ray imaging, exposure factors, contrast media for different body systems, positioning of animals, 
+taking of radiograph, X-ray dark room,.    processing of X-ray films, radiographic artifacts, interpretation of radiographs, 
+radiation hazards and safety, scattered radiation, diagnostic radiography and fluoroscopy, principles of endoscopy and 
+ultrasound technique, radiodiagnosis and radiotherapy in veterinary practice, scope of nuclear medicine.   
+Soundness: 
+Introduction, causes of unsoundness, unsoundness due to hereditary vices and acquired diseases, different breeds of animals 
+and birds, conformation, colour and markings, dentition and aging, signs of health, examinations for soundness, writing of 
+certificate, shoeing of animals. 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 4 Semester II 
+COURSE NO : VSO 424
+COURSE NO : VSO 424
+COURSE NO : VSO 424
+COURSE NO : VSO 424 
+Course Title : Radiology and Soundness 
+Credit hour : 1 
+Radiographic equipment and accessories, contrast media, preparation of animals and birds for taking radiographs, estimation 
+of exposure factors, methods of taking radiographs of different organs,  processing of exposed X-ray films, storage of 
+radiograph, viewing of radiograph, use of infrared and ultraviolet rays, radiographic artifacts and interpretation of 
+radiographs,. radiographic safety measures, management of X-ray film and dark rooms, method of examination of animals and 
+birds for soundness and certificate writing, shoeing of animals.  
+ 
+ 
+35
+Books recommended (VSO 423 & 424) 
+Principles of Veterinary Radiography. 1980. Douglas, S.W. and Williamson, H.D., 3rd edition, Bailliere Tindall, London. 
+Carlson’s Veterinary Radiology. 1977. Gillette, E.L., Thrall, D.E. and Lebel, J.L., 3rd edition, Lea & Febiger, Philadelphia. 
+Diagnostic Radiography. 1987. Bryan, Churchill Livingston, London. 
+Diagnostic Radiology of the Dog and Cat. 1987. Kealy, J.K., W.B. Saunders Company, Philadelphia, London. 
+Lameness in Horse. 1974. Adams, O.R., 3nd edition, Lea & Febiger, Philadelphia. 
+Lameness in Cattle. 1972. Greenough, P.R., MaCallum, F.J. and Weavar, D., Oliver and Boid, Edinburgh. 
+Self-Assessment Colour Review of Small Animal Orthopaedics. 1998. Lewis, D.D., Parker, R.B. and Bloomberg, M.S., 
+Manson Publishing Ltd. 
+Bovine Surgery and lameness. 1986. Weaver, A.D., ELBS and Blackwell Scientific Publications. 
+Essentials of Veterinary Surgery. 1993. Venugopalan, A., Oxford & IBH Publishing Company PVT. LTD. New delhi. 
+Dollar’s Veterinary Surgery. 1980. O’Connor, J.J., 4th edition, CBS Publishing Company, New Delhi, India. 
+Ruminant Surgery. 1996. Tyagi, R.P.S. and Singh, J. 1st Edition, CBS Publisher & Distributors, Delhi. 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 5 Semester I 
+COURSE NO : VSO 514
+COURSE NO : VSO 514
+COURSE NO : VSO 514
+COURSE NO : VSO 514 
+Course Title : Clinics (Surgery) 
+Credit hour :  1 
+Clinical diagnosis and treatment of surgical diseases and disorders in animals and birds at the veterinary clinic, ambulatory 
+surgical services at various farms and field stations, clinical practices of surgical cases at various government and private 
+veterinary hospitals , clinics and zoo.  
+ 
+ 
+ 
+Books Recommended: 
+Surgical Techniques in Experimental Farm Animals. 1995. F.A. Harrison Blackwell Publishing 
+ 
+Bovine Practice 2. 1998. M. Melling, M. Alder  WB Saunders 
+Emergency Procedure for the Small Animal Veterinarian 2000  Signe J. Plunkett WB Saunders 
+Lameness in Cattle. 1972. Greenough, P.R., MaCallum, F.J. and Weavar, D., Oliver and Boid, Edinburgh. 
+Ruminant Surgery. 1996. Tyagi, R.P.S. and Singh, J. 1st Edition, CBS Publisher & Distributors, Delhi. 
+Surgery of the Reproductive Tract. 1987. Cox, J.E. 3rd edition, Liverpool 
+Veterinary Fluid Therapy. 1985, Micheal Bynaher, Clarke and Waterman, Blackwell Scientific Publication, London. 
+Fundamental Techniques in Veterinary Surgery. 1987. Knetch, Allan, Williums and Johnson, 3rd edition, W.B. Saunders 
+Company, Philadelphia 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 4 Semester I 
+COURSE NO : VSO 413
+COURSE NO : VSO 413
+COURSE NO : VSO 413
+COURSE NO : VSO 413 
+Course Title : Obstetrics and Gynaecology 
+Credit hour : 3 
+Introduction and definition of common terms. Female reproduction and endocrinology. Puberty and oestrous cycle. Breeding 
+soundness examination of female animals. Methods of oestrus detection and interventions on oestrous cycle. Fertilization and 
+development of conceptus. Physiology of mother and foetus during pregnancy. Management of pregnant animals. Methods of 
+pregnancy diagnosis. Abortion. Teratology. Congenital and acquired abnormalities causing reproductive inefficiencies. 
+Initiation and mechanism of parturition, induced parturition, care and management of newborn and dam. Dystocia, its causes, 
+incidence, diagnosis and management. Manipulative delivery in farm and companion animals. Faetotomy and caesarean 
+operation. Injuries and diseases incidental to pregnancy and parturition. Retention of placenta. Utero-vaginal prolapse. Post 
+partum reproduction and uterine infections. Aetiology, diagnosis, treatment, management and economic importance of 
+infertility, subfertility and sterility. Female reproductive health management of farm, companion, wild and zoo animals. 
+Vaccination to maximize fertility. Mastitis and udder health management. 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+ 
+ 
+36
+Level 4 Semester I 
+COURSE NO : VSO 414
+COURSE NO : VSO 414
+COURSE NO : VSO 414
+COURSE NO : VSO 414 
+Course Title : Obstetrics and Gynaecology 
+Credit hour : 1 
+Demonstration of the female reproductive organs of domestic animals on slaughterhouse materials. Phantom hall practice on 
+palpation of bovine female genital organs and dystocia corrections. Demonstration on oestrus detection. Practice on 
+intrauterine catheter passage, uterine biopsy, intrauterine infusion and flushing, Operative techniques of female reproductive 
+system. Clinical and laboratory practice on pregnancy diagnosis. Demonstration on fetotomy and cesarean operation. 
+Laparoscopy and ultrasonography of female reproductive organs. 
+ 
+Books Recommended (VSO 413 &  414) 
+Current Therapy in Large Animal Theriogenology,1997, by R S Youngquist, W.B Saunders Company, Philadelphia 
+Veterinary Reproduction and Obstetrics (Theriogenology) 1998, by G. H. Arthur, D. E. Noakes and H. Pearson, 3rd edn, 
+Bailliere Tindal, London, Sydney, Tokyo. 
+Veterinary Obstetrics and Genital Diseases (Theriogenogy) 1986, by S. J. Roberts, 3rd edn., W. B. Saunders Company, US 
+Reproduction in Farm Animals, 2000. By F.S.E. Hafez, Lea and Febizer, USA. 
+Canine and Feline Theriogenology, 2001, by S.D. Johnston, M. V. Root Kustritz and P.N.S. Olson, W.B. Saunders Company, 
+Philadelphia. 
+Fertility and Infertility in Veterinary Practice, 1988, 4th edn, by J.A. Laing, W.J. Brinley Morgan and W.C. Wagner, Bailliere 
+Tindall. 
+Encyclopaedia of Reproduction 1998, by E. Knobil and J. D. Neill, Accademic Press, London.  
+Reproductive Clinical Problems in the Dog, 1988, 2nd edn, by D. E. Jones and J. O. Joshua, Wright, London. 
+Manual of Small Animal Reproduction and Neonatology 1998, by G. England and M. Harvey, British Small Animal 
+Veterinary Association, Cheltenham, UK 
+Veterinary Endocrinology and Reproduction, 1989, 4th edn, by L.E. McDonald and M.H. Pineda, Published by Lea and 
+Febiger, Philadelphia, London. 
+Reproductive Pathology of Domestic Mammals, 1990, 1st edn. by Kenneth McEnteem, Academic Press, Inc. San Diego, 
+Newyork. 
+Surgery of the Reproductive Tract in Large Animals, 1982. by John F. Cox, Liverpool University Press, UK. 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 4 Semester II 
+COURSE NO : VSO 425
+COURSE NO : VSO 425
+COURSE NO : VSO 425
+COURSE NO : VSO 425 
+Course Title : Andrology and Artifiicial Insemination 
+Credit hour : 2 
+Scope of Andrology and Artificial Insemination (AI) in Veterinary Medicine. Functional anatomy and physiology of male 
+reproduction. Spermatogenesis, semen formation and related abnormalities. Clinical examination of males for breeding 
+soundness evaluation. Semen collection, evaluation, processing, preservation and clinical practice of AI. Clinical management 
+of fertility. Infertility and uterine infections due to faulty AI. Veterinary management of semen borne and AI-related diseases. 
+Recording and clinical analysis of reproductive and AI parameters. Diseases of male reproduction. Health management of AI 
+stud males. Reproductive biotechnology. Computer application and hormone assays for the veterinary control of AI field 
+services. 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 4 Semester II 
+COURSE NO: VSO 426
+COURSE NO: VSO 426
+COURSE NO: VSO 426
+COURSE NO: VSO 426 
+Course Title: Andrology and Artifiicial Insemination 
+Credit hour: 1 
+Clinical examination of stud males. Collection, evaluation, processing and freezing of semen. Practice of artificial 
+insemination. Clinical practice of the evaluation of bull station and semen laboratory to certify semen to be used at AI. 
+Pathomorphological examination of fresh and preserved semen. Collection of seminal fluid for microbiological examination. 
+Preparation of teaser bulls. Operative techniques for the corrections of injuries and affections of male reproductive system. 
+ 
+Books Recommended (VSO 425 &  426) 
+Current Therapy in Large Animal Theriogenology, 1997, by R S Youngquist, W.B Saunders Company, Philadelphia  
+Marshall’s Physiology of Reproduction, 1990, 4th edn., edited by G. E. Lamming, Vol 2, (Reproduction in the Male), Churchill 
+Livingstone, London, Melbourne and Yew York 
+Veterinary Reproduction and Obstetrics (Theriogenology) 1998, by G. H. Arthur, D. E. Noakes and H. Pearson, 3rd edn, 
+Bailliere Tindal, London, Sydney, Tokyo. 
+Veterinary Obstetrics and Genital Diseases (Theriogenogy) 1986, by S. J. Roberts, 3rd edn., W. B. Saunders Company, US 
+Physiology of Reproducton and Artificial Insemination in Cattle, 1978, 2nd edn, by G. B.  Salisbury, N. I. Vandemark and J. R. 
+Lidge, Freeman and Company, Sanfransisco, USA. 
+ 
+ 
+37
+Reproduction in Farm Animals, 2000. By F.S.E. Hafez, Lea and Febizer, USA. 
+Reproduction in Domestic Animals, 1991, 4th edn., By P. T. Cupps, Academic Press, Inc.    California, London. 
+Reproductive Clinical Problems in the Dog, 1988, 2nd edn, D. E. Jones and J. O. Joshua, Wright, London. 
+Reproductive Pathology of Domestic Mammals, 1990, 1st edn. by Kenneth McEnteem, Academic Press, Inc. San Diego, 
+Newyork. 
+ 
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics
+Department of Surgery and Obstetrics 
+Level 5 Semester I 
+COURSE NO : VSO 512
+COURSE NO : VSO 512
+COURSE NO : VSO 512
+COURSE NO : VSO 512 
+Course Title : Clinics (Theriogenology) 
+Credit hour :  1 
+Diagnosis and treatment of genital diseases of male and female animals at the clinics. Treatment of gynaeco-obstetrical and 
+infertility related cases at the clinics and field conditions. On farm practice of reproductive health management, mastitis 
+diagnosis, treatment and udder health management. 
+ 
+Books recommended  
+Veterinary Reproduction and Obstetrics (Theriogenology) 1998, by G. H. Arthur, D. E. Noakes and H. Pearson, 3rd edn, 
+Bailliere Tindal, London, Sydney, Tokyo. 
+Veterinary Obstetrics and Genital Diseases (Theriogenogy) 1986, by S. J. Roberts, 3rd edn., W. B. Saunders Company, US 
+Current Therapy in Large Animal Theriogenology,1997, by R S Youngquist, W.B Saunders Company, Philadelphia 
+Canine and Feline Theriogenology, 2001, by S.D. Johnston, M. V. Root Kustritz and P.N.S. Olson, W.B. Saunders Company, 
+Philadelphia. 
+Equine Reproduction, 1993 by Angus-o-McKiron, James, L Boss, Lea and Febiger, London. 
+Reproductive Clinical Problems in the Dog, 1988, 2nd edn, D. E. Jones and J. O. Joshua, Wright, London. 
+Department of Animal Breeding & Genetics 
+Level  -3, Semester- II 
+COURSE NO. : ABG 329
+COURSE NO. : ABG 329
+COURSE NO. : ABG 329
+COURSE NO. : ABG 329 
+Course Title: Genetics and Animal Breeding 
+Credit hour : 3 
+Genetics : 
+Introduction : Definition, branches of genetics, application of genetics in livestock and poultry, early development and 
+modern concept of genetics. 
+ 
+Mendelian Genetics : Principles of inheritance-the law of segregation and the law of independent assortment, modification of 
+Mendelian ratios, lack of dominance, lethal genes, epistasis, linkage and crossing over. 
+ 
+Sex determination and sex linkage : Mechanism of sex determination; free-martin, intersexes and super sexes, sex-linked, 
+sex-influenced and sex limited characters. 
+ 
+Gene expression : Functions of gene, genetic control of metabolism, protein synthesis. 
+ 
+Mutation : The molecular basis of mutation, Phenotypic effects of mutation, practical application of mutation in the field of 
+livestock. 
+ 
+Chromosomal aberration : Deletion, duplication 
+ 
+Variation in chromosome number : Aneuploidy and polyploidy in animals, chromosomal abnormality syndromes in 
+animals. 
+ 
+Hereditary defects and genetic resistance to diseases. 
+ 
+Multiple gene effects : Quantitative traits, mechanism of inheritance of quantitative traits. 
+ 
+Animal Breeding: 
+Variation in quantitative traits : Phenotypic, genetic and environmental variations, concept of heritability and repeatability. 
+Priniciples of selection : Mass selection, pedigree selection, family selection, progeny testing. 
+System of mating : Inbreeding, linebreeding, outbreeding, crossbreeding, grading and species hybridization. 
+ 
+Department of Animal Breeding & Genetics 
+Level  -3, Semester- II 
+ 
+ 
+38
+COURSE NO. : ABG 330
+COURSE NO. : ABG 330
+COURSE NO. : ABG 330
+COURSE NO. : ABG 330 
+Course Title: Genetics and Animal Breeding 
+Credit hour : 1 
+Exercises on segregation, gamete formation, gene combination, Mendelian ratios in the formation of genotypes, probability, 
+Chi-square test, estimation of repeatability and heritability. 
+ 
+Books Recommended (ABG 329 & 330) 
+Genetics of Livestock, improvement, Lasley, J.F. 1987. (3rd edition), Prentice Hall, Engle Wood      
+      Cliffs, New Jersey. 
+Veterinary Genetics, Nicholas F.W. 1987. Claridon Press, Oxford. 
+The Principles of Heredity, Snyder, L.H. and P.R. David, 1957. (5th edition) D.C. Health and  
+      Co., Sexington Massachusetts. 
+Breeding and improvement of Farm Animal (7th edition). Warwick, E.J. and J.E. Legtes.     
+      McGraw Hill Book Co. Inc., Newyork. 1987. 
+Introduction to Practical Animal Breeding. Malcolm B. Willis. Dalton’s Third Edition.  
+      Blackwell Sc. London. 1991. 
+Department of Animal Nutrition 
+Level -2 , Semester II 
+COURSE NO. :AN 223
+COURSE NO. :AN 223
+COURSE NO. :AN 223
+COURSE NO. :AN 223 
+Course Title : Animal Nutrition 
+Credit hour : 3 
+Definition & scope of nutrition, its relation with other decipline of Science, history of it development. Classification of food 
+nutrients and their functions. 
+Metabolic functions & deficiency of minerals & Vitamins. 
+Digestion & utilization of carbohydrate, Protein, & fat in monogastric and polygastric animals 
+Feeding standards. 
+Feed stuffs & their classification. Balancing ration for different species of animals. 
+Digestibility and nutrient value of different feed. 
+Nutrients and feed requirement in animals at various stages of growth reproduction and production. 
+ 
+Feeding animals and factors affecting food 
+ 
+Department of  Animal Nutrition 
+Level -2 , Semester II 
+COURSE NO. :AN 224
+COURSE NO. :AN 224
+COURSE NO. :AN 224
+COURSE NO. :AN 224 
+Course Title : Animal Nutrition 
+Credit hour : 1 
+Processing & preparation of feed samples for nutritional analysis. 
+Proximate analysis of feed stuffs. 
+Identification of common feed stuffs. 
+Feed formulation for different ages/stages of animals. 
+Books Recommended (AN 223 & 224) 
+Feeds & Feeding,  Morrison  F.B. (1956), The Morrison Publish Co. Itheca, New York 
+ 
+Animal Nutrition, Banerjee  G.C. (1978). Oxford & 1BH Publishing Co. New Delhi, India. 
+ 
+Animal Nutrition , Mayhard L.A., Losli  L.K., Hintz  H.F. and Warner R.G. (1984) (7th edition)Tata Mc graw Hill Publishing 
+Company Ltd., New Delhi, India. 
+ 
+Dairy cattle feeding and Nutrition. Miller  W.J. (1979). Academic press. New york, USA. 
+ 
+Animal Nutrition and Feeding practices in India.  Ranjan S.K. (1977). Vikash publishing House. Pvt. Ltd. India. 
+ 
+Department of Animal Science 
+Level -1, Semester- 1 
+ 
+ 
+39
+COURSE NO. : AS 115
+COURSE NO. : AS 115
+COURSE NO. : AS 115
+COURSE NO. : AS 115 
+Course Title : Animal Science 
+Credit hour : 3 
+Introduction : Introduction and scope of animal husbandry and animal science. Population of livestock in Bangladesh. 
+Introduction to domesticated animal ecology, psychology, behavior and their vices. Importance of livestock and their impact 
+on the economy of Bangladesh Adaptation of exotic Animals in Socio-economic and climatic conditions of Bangladesh 
+ 
+Scientific and professional terms :Horse, Cattle,  buffalo, Sheep and goat. 
+ 
+Common breeds of livestock: Common breeds of livestock, their important characteristics and adaptive ability with special 
+emphasis on horse, cattle, buffalo, sheep and goat. 
+ 
+Housing : Economic importance of housing. Objectives and Principles of  housing for livestock Selection of site for livestock 
+farm  Types and system of housing for livestock 
+ 
+Management of livestock : Different management practices of livestock. Care and management of farm animals.  Disposal of 
+animal wastes from different farms. 
+ 
+Products and by products: Elementary knowledge on slaughter house by products. Composition and food 
+value of meat and factors affecting quality and quantity of quantity of meat. 
+Department of Animal Science 
+Level 1, Semester 1 
+COURSE NO. : AS 116
+COURSE NO. : AS 116
+COURSE NO. : AS 116
+COURSE NO. : AS 116 
+Course Title : Animal Science 
+Credit hour : 1 
+Handling and approaching of Animals 
+Identification of different body parts of livestock 
+Identification and important characters of different breeds of cattle, buffaloes, sheep and goat. 
+Restraining tools  of livestock. 
+Casting of livestock 
+Shoeing tools and shoeing of livestock 
+Dentition and Ageing of livestock. 
+Methods of grooming, washing, bedding, clothing, marking and castration. 
+ 
+Recommended Books (AS 113 & 114) 
+A Text Book of Animal Husbandry, by Banerjee, G.C. 1999,  Eight Edition, Oxford and IBH Publishing Co. New Delhi 
+11001. India. 
+An Introduction to Animal Husbandry in the Tropics,  by Williamson G, and Payne, W.J.A. 1978 , Third  Edition, Longman 
+Group Ltd. England. 
+Animal Science, by  Ensminger, M.E. 1969, Sixth Edition. The Interstate Printers & Publishers, Inc. Danville, Tillinois, USA. 
+Livestock Husbandry Techniques, by  McNitt, J.I. 1983,  Granada Publishing Ltd., London. 
+Practical Animals Husbandry (Seventh edition), by Miller, W.C. & E.D.S. Robertson  1959,  Oliver &  Boyd. Edinburgh, U.K. 
+Management and Feeding of Buffaloes, by Ranjhan, S.K. and N.N. Pathak  1979, Vikas Publishing  House Pvt. Ltd., New 
+Delhi, India. 
+Animal behaviour, by Ridley, M. 1986,  Blackwell Scientific Pub. London. U.K. 
+Modem breeds of livestock, by Briggs H.M. & Briggs D.M. 1984, McMillan Pub., New York, U.S.A. 
+The behaviour of domestic animals, by Hafez, E.S.E. 1975,  3rd edn. Bailliere Tindall, London, U.K. 
+The Study of Animal behaviour, by Huntingford. F. 1984, Chapman & Hall, London, U.K. 
+ 
+Department of Animal Science 
+Level-3, Semester-1 
+COURSE NO. AS 313
+COURSE NO. AS 313
+COURSE NO. AS 313
+COURSE NO. AS 313 
+Course Title : Animal Waste Management 
+Credit hour : 2 
+Introduction and glossary of waste management in livestock farms. 
+ 
+Importance and objectives of waste management. 
+ 
+Measures for handling farm wastes. 
+ 
+Methods for processing and treatment of animal wastes. 
+ 
+ 
+40
+ 
+Effects of Animal wastes on public health and environment. 
+ 
+Disposal of animal wastes. 
+ 
+Safety and regulation of animal wastes. 
+ 
+Department of Animal Science 
+Level-3, Semester-1 
+COURSE NO. AS 314
+COURSE NO. AS 314
+COURSE NO. AS 314
+COURSE NO. AS 314 
+Course Title : Animal Waste Management 
+Credit hour : 1 
+Identification of farm animal wastes. 
+ 
+Handling of wastes in animal farm 
+ 
+Storage and treatments of animal waste 
+ 
+Disposal of animal wastes. 
+ 
+Books Recommended (313 & 314) 
+1. Manure disposal from livestock farms. David Sainsbury and peter Sainbury, In : Livestock Health and Housing ELBS. 
+London. 1982. 
+2. Farm Wastes Hanbook. Aberdeen. A.M. Robertson; Scottish Farm Buildings Investigation Unit. 1977. 
+3. Animal Waste Management and Wastewater treatment. E.P. Taniganides, In: World Animals Science, v-6. Animal 
+Agriculture and Environmental Health (Ed.E.E.Stranch). Elsevier Science Publishing Company Inc. 1987. 
+4. Animal production and pollution problems. In : Livestock Production for 21st Century : P.E.V. Williams, and J.M. Kelly 
+Priorities and Research Need (Ed. P.A. Thacker). 1994. 
+ 
+Department of Dairy Science
+Department of Dairy Science
+Department of Dairy Science
+Department of Dairy Science 
+Level- 2, Semester-I 
+COURSE NO.: DS 213
+COURSE NO.: DS 213
+COURSE NO.: DS 213
+COURSE NO.: DS 213 
+Course Title: Elementary Dairy Science 
+Credit hour: 3 
+Introduction of Dairy Science Department. 
+Definition of Dairy Scinece. 
+Statistics related to dairying of Bangladesh and leading dairy countries. 
+Terminology of dairy cattle. 
+History of dairying. 
+Texanomy-origin and classification of dairy animals. 
+Characteristics of important dairy breeds – local and foreign. 
+Importance of dairy farming. 
+Milk production and its utilization in different leading countries. 
+Feeding and management problem of Dairy animals. 
+Use of bedding and disposal of farmyard manure. 
+Principles of dairy farm management with special reference to veterinary activities. 
+Cleaning, sanitation and sterilization of farm equipment. 
+Preliminary knowledge about milking. 
+Keeping health-records for dairy herd. 
+Introduction, definition and composition of milk. 
+Food value of milk. 
+Sources of contamination of milk and their control. 
+ 
+Department of Dairy Science
+Department of Dairy Science
+Department of Dairy Science
+Department of Dairy Science 
+Level- 2, Semester-I 
+COURSE NO.: DS 214
+COURSE NO.: DS 214
+COURSE NO.: DS 214
+COURSE NO.: DS 214 
+ 
+ 
+41
+Course Title: Elementary Dairy Science 
+Credit hour: 1 
+General information about the Bangladesh Agricultural University dairy farm and an ideal dairy farm. 
+Name of common house at the Bangladesh Agricultural University dairy farm and an ideal dairy farm. 
+Identification of different dairy breeds of cow and buffalo. 
+Handling of Dairy Cows, Calves, Heifers, Bulls and Buffaloes. 
+Identification and uses of dairy utensils and equipment. 
+Identification of Dairy Animals(tagging, tattooing, branding, marking). 
+Dentition and ageing. 
+Health records of dairy cattle as the source of diagnosis of diseases and treatment. 
+Cleaning and washing of dairy animals and dairy utensils and equipments. 
+ 
+Books Recommended (DS 213 & 214) 
+1. Dairy Science, W.E. Peterson, Second Edn. J.B. Lippincoth Co. New York. 1958 
+2. Dairy Cattle and Milk Production, C.H. Ecles, the Macmillan Co. New York, 1960. 
+3. Elements of Dairying, T.M. Olson, the Macmillan Co. New York, 1965. 
+4. Milk production and Processing, Judking and Keener, Jhon Willey & Sons, New, York, 1960. 
+5. A Text Book of Animal Husbandry, G.C. Banerjee, Oxford & IBH Pub. New Delhi, 1987. 
+6. Understanding the Dairy Cow, Jhon Webster, 1st Edn. British Library, Cataloging in Publication Data, ISBN, 0-612-
+01889-5. 
+7. Animal Husbandry and Dairy Science, Jagadish Prasad, Kalyni Publishers, New Delhi, Ludiana, Kolkata, 1997. 
+8. Brochure of Animal Husbandry-Published by Dean of Animal Husbandry. 
+ 
+Department of Poultry Science 
+Level 1, Semester II 
+COURSE NO. :
+COURSE NO. :
+COURSE NO. :
+COURSE NO. : PS 123
+PS 123
+PS 123
+PS 123 
+Course Title : Elementary Poultry Science 
+Credit hour : 3 
+Population of Poultry in Bangladesh. Role of Poultry in economy of Bangladesh. History and Development of Poultry. Origin 
+and Domestication of Poultry Species. Consequence of domestication of Poultry. Habitats of different poultry species. 
+ 
+Importance of Poultry and Poultry products. Terminology used in Poultry Science. Classes, Breeds and Varieties of Poultry, 
+broiler and hybrid layers. Major chicken breeds and their characteristics. Chronological development classes, breeds and 
+varieties.  
+ 
+Different body system; Digestive system, Skeletal system, Reproductive system and Respiratory system and their relations 
+with meat and egg production.  
+Structure and formation of eggs. Abnormality in eggs. Vices in Poultry.  
+ 
+Space requirements for different species. Incubation periods of different species. Principles and practices of incubation. 
+Selection of eggs for hatching. Different types of Poultry farms. Different types of houses for poultry. Site selection for poultry 
+farm. Brooding of chicks 
+Principles and methods of poultry feeding. Sexing, debeaking and selection of breeding stock; culling. Lighting and other 
+management practices in poultry farming. 
+ 
+Department of Poultry Science 
+Level  1, Semester II 
+COURSE NO. :PS 124
+COURSE NO. :PS 124
+COURSE NO. :PS 124
+COURSE NO. :PS 124 
+Course Title : Elementary Poultry Science 
+Credit hour : 1 
+Holding and handing of poultry. 
+Identification of different body external parts of poultry. 
+Demonstration of internal body parts of poultry. 
+Identification of different poultry species. 
+Identification of breeds and varieties. 
+Identification of eggs of different poultry species, hatching, brooding, sexing, debeaking  
+Culling and  selection of breeding stocks.  
+Identification of different equipments and appliances. 
+ 
+ 
+42
+Identification & poultry feed staff, methods of feeding, feeding schedule. 
+Demonstration on poultry housing. 
+Demonstration on different floor systems. 
+ 
+Books Recommended (PS 123 & 124) 
+Poultry Sci. & Practices 5th Edn. Winter, AR & Funk, E.M. (1960). J.B. Lippincott Co. U.S.A. 
+Poultry Breeding and Genetics, R.D. Crawford, (1990). Elsever Publishers. Amsterdam, The  
+      Netherlands. 
+Nutrient Requirements of Poultry. 9th revised edition. National Research council washington,    
+     D.C. U.S.A. 1994. 
+Hatchery Operation and Management. E.M. Funk and N.R. Irwin(1995).  
+New york, gohn wiley and Sout, Iuc, London-Chapman and Hall Ltd. 
+ 
+Department of Farm Structure
+Department of Farm Structure
+Department of Farm Structure
+Department of Farm Structure 
+Level-4, Semester-1 
+COURSE NO. FS 413
+COURSE NO. FS 413
+COURSE NO. FS 413
+COURSE NO. FS 413 
+Course Title : Livestock Farm Design and Environment 
+Credit hour : 3 
+Farmstead planning considerations, site slections, farm classification, space requirements and basic design criteria. 
+Construction materials : Brick, sand, cement, timber and steel; material and cost estimation of brick, concrete, timber and steel 
+works. 
+ 
+Livestock housing : Farm components, floor components in relation to animal comfort and disease, herd size calculation, 
+layout design of barn, hospital, maternity area and milking center, confined and loose houses design, housing for calves and 
+heifers. Layout and design of poultry houses. 
+Abattoirs : Specifications, design requirements and layout, environment and hygienic factors. 
+ 
+Environmental factors : Climatic conditions for livestock, heat, vapor and air exchange in livestock sheds, air flow patterns, 
+air-moisture-temperature relationship and its impacts. 
+ 
+Environmental controls : Purposes of ventilation, natural and artificial ventilations, air pressure and velocity, relative humidity, 
+quantify number and sizes of fans, air inlet area, evaporative cooling system, heat and mosture balance, ventilation for cold 
+and rainy days. 
+ 
+Water supply : Water storage, supply and drainage for livestock farms. 
+ 
+Lighting : Fundamentals of lighting, natural and artificial lighting. 
+ 
+Department of Farm Structure
+Department of Farm Structure
+Department of Farm Structure
+Department of Farm Structure 
+Level-4, Semester-1 
+COURSE NO. FS 414
+COURSE NO. FS 414
+COURSE NO. FS 414
+COURSE NO. FS 414 
+Course Title : Livestock Farm Design and Environment 
+Credit hour : 1 
+a) Lab exercise : 
+i) Planning and layout design of a typical farmstead 
+ii) Design of commercial livestock farms 
+ 
+b) Visit to abattoirs and livestock farms 
+ 
+Books Recommended (FS 413 & 414) 
+1. Agricultur Buildings and Structures-James H. Whitaker, Reston publishing company, Virginia. 1979. 
+2. Functional Design handbook for Australian Farm Buildings-G.J. Redding  
+3. Farm Structures-H.J. Barre and L.L. Sammet 
+   John Wiley & Sons, Inc., N.Y., USA. 5th Printing March 1963. 
+4. Planning and Design of Farm Buildings with reference to Bangladesh conditions-M.W. Ullah 
+    A Thesis submitted to the Institute of Agric. Engg., RVAU, Denmark. 1981. 
+ 
+Department of Farm Power and Machinery
+Department of Farm Power and Machinery
+Department of Farm Power and Machinery
+Department of Farm Power and Machinery 
+Level-4, Semester-1 
+COURSE NO.: FPM 4101
+COURSE NO.: FPM 4101
+COURSE NO.: FPM 4101
+COURSE NO.: FPM 4101 
+ 
+ 
+43
+Course Title:  Farm Operation and Management 
+Credit hour : 3  
+1. Management : Concepts and theories of management, organization and administration, Introduction to Farming Systems 
+2. Leadership : Types of leadership, leadership characteristic, Function of a Manager.  
+3. Linear Programming : Introduction, model formulation and solution, application to livestock farm management.  
+4. Networking : Shortest route and PERT problem, application to livestock and disease control management. 
+5. Management of Clinic and Farm: Location and layout of Clinic & Farm.  
+6. Inventory model: Introduction, formulation of model and solution, application to medicine and feed inventory system.  
+7. Transportation and distribution model : Application to medicine, feed and livestock products.    
+8. Queueing theory : Introduction, characteristic, application to clinical service design and management.  
+9. Purchasing function and interfaces with supplier: quotation, tender, public procurement rule.  
+10. Operation and maintenance of farm equipment, with special reference to hygienic interventions and safety measures.  
+ 
+Department of Farm Power and Machinery
+Department of Farm Power and Machinery
+Department of Farm Power and Machinery
+Department of Farm Power and Machinery 
+Level-4, Semester-1 
+COURSE NO.: FPM 4102
+COURSE NO.: FPM 4102
+COURSE NO.: FPM 4102
+COURSE NO.: FPM 4102 
+Course Title:  Farm Operation and Management 
+Credit hour : 1  
+1) Lab exercises: linear programming, inventory model, transportation model with application to dairy, poultry and zoo 
+management.  
+2)   Project proposal preparation, project logical frame work, activity bar-chart & budget      
+3)   Field visits 
+ 
+Books Recommended (FPM 4101 & 4102) 
+1. Introduction to Operations Research (7th ed.), 2001 - F.S. Hillier & G.J. Lieberman, Mac Graw Hill Publishing  
+2.  Fundamental of Management Science 1981. Turban, E. Meredith, J.R. McGraw-Hill Co.  
+3. Engineering Economy (6th ed.), 1979 - E.P. DeGarmo, J.R. Canada & W.G. Sullivan, Macmillan Publishing Co. 
+4. Organization and Management - B.S. Blanchard, Prentice-Hall, New Delhi 
+5. Operations Research - H.A. Taha, Collier Macmillian, New York  
+ 
+Department of Agricultural Economics
+Department of Agricultural Economics
+Department of Agricultural Economics
+Department of Agricultural Economics 
+Level- 5   Semester-  1 
+COURSE NO. AE 511
+COURSE NO. AE 511
+COURSE NO. AE 511
+COURSE NO. AE 511 
+ Course Title: Livestock Production Economics;        
+Credit hour: 3 
+1. Economic Concepts of Livestock Production 
+Definition and concepts of Economics and Livestock Economics, Scope of Economics, Economic principles applicable to 
+Livestock production 
+2. Theory of Demand and Supply 
+Meaning and types of demand, Law of demand, Factors influencing demand, Demand function, Demand schedule, Demand 
+curves, Changes in demand, Elasticity of demand. 
+Indifference curve analysis, Marginal rate of substitution, Properties of indifference curves, Consumer’s equilibrium. 
+Meaning of supply, Factors influencing supply, Supply function, Supply curves, Supply elasticity. 
+3. Livestock Production  
+Theory of production, Factors of production, Production function, Stages of production, Laws of returns, Cost and return of 
+livestock production. 
+4. Marketing of Livestock Products 
+Meaning of market, Classification of market, Characteristics of market, Price determination of livestock products under perfect 
+competition, Marketing channel, Marketing margin and efficiency, Marketing functions: Standardization and grading of 
+livestock products.  
+5. Project Analysis in Livestock Production 
+Meaning of project, Undiscounted and discounted measures of project worth: BCR, NPV and IRR.  
+ 
+Department of Agricultural Economics
+Department of Agricultural Economics
+Department of Agricultural Economics
+Department of Agricultural Economics 
+Level-5   Semester-1 
+COURSE NO. AE 512
+COURSE NO. AE 512
+COURSE NO. AE 512
+COURSE NO. AE 512 
+Course Title: Livestock Production Economics;        
+Credit hour: 1 
+1. Cost and return analysis  
+2. Analysis of marketing cost and margin 
+3. Application of project appraisal technique in livestock production 
+ 
+ 
+ 
+44
+Books Recommended (AE 511 & 512) 
+1. Ahuja, H.L. (2006): Modern Microeconomics, 12th edition, S. Chand & Co. Ltd. New Delhi. 
+2. Dewett, K.K. (2005): Modern Economic Theory, 22nd edition, Shyam Lal Charitable Trust, New Delhi.  
+3. Gittinger, J.P. (1996): Economic Analysis of Agricultural Projects, Second edition, The John Hopkins University Press, 
+Baltimore and London. 
+4. Kohls, R.L. and Uhl, J.N. (2005): Marketing of Agricultural Products, 9th edition, Prentice Hall, New Delhi. 
+5. Samuelson, P.A. (2005): Economics, 18th edition, McGraw Hill, New York.  
+6. Tomek, W.G. and Robinson, K.L. (1977): Agricultural Product Prices, Cornell University Press, Ithaca. 
+7. Owen, E., Kitalyi, A., Jayasuriya, N. and Smith, T. (ed.) (2005): Livestock and Wealth Creation: Improving the husbandry 
+of animals kept by resource-poor people in developing countries. Nottingham University Press, Nottingham. 
+8. Gittinger, J.P. (1996): Economic Analysis of Agricultural Projects, Second edition, The John Hopkins University Press, 
+Baltimore and London. 
+Department of Languages
+Department of Languages
+Department of Languages
+Department of Languages 
+Level 1, Semester 1 
+COURSE NO. LAN 111
+COURSE NO. LAN 111
+COURSE NO. LAN 111
+COURSE NO. LAN 111 
+Course Title:  English Language 
+Credit hour: 2 
+Textual study and comprehension of a few selective BBC talks 
+Socio-linguistic rules to perform language function in English. 
+Basic grammatical structures 
+Types and constructional forms of sentences; Sequence of tense; Voice; Verbs, Verb patterns and  
+verb modifiers; Syntax including transformation and combination of sentence and framing of WH- 
+questions. 
+Nouns, determiners and adjectives; Adverbials; Prepositional phrases; Headword, Infinitive  
+phrases; Participle phrases; Appositives. 
+Mechanics- Punctuation, Quotation marks, Capitalization, Numbers, Abbreviation, Italics, 
+Spelling (including most common mistakes). 
+ 
+Principles and methods of composition : Precis, Abstract or Summary, Paragraphs, Letters, Short Essays and Reports. 
+ 
+Books Recommended 
+The English We Use by  Close, R.A. 1988. 24th Indian Edition, Longman, Calcutta. 
+A Communicative Grammar in English by Leech, G. and Svartvik, J.  1995. 2nd  Edition.  Longman, London and NY. 
+Guide to Patterns and Usage in English  by Hornby, A.S. 1998. 2nd Edition., Oxford University Press, Delhi. 
+High School English Grammar and Composition. By Wren and Martin.1980. S.  Chand & Company, India. 
+Cliffs TOEFL Preparation Guide by Pyle, K.A. and Munoz,  M.A. 1992. 62 Revised Edition  BPB Publications. 
+Advanced Learner’s Degree General English, by Chowdhury, M.Y.A. and Hossain, M.M. 2002, Advanced Publications, 
+Banglabazar, Dhaka.  
+The Magic Way to English Language, by Rabbani, M.G.2000. Kazal Brothers Ltd., Banglabazar, Dhaka 
+Writing Skills Handbook, Wiener, B.1988, 4th Ed. Houghton Miffin Company, Boston and New York, USA. 
+Oxford Advanced Learner’s Dictionary of Current English by Hornby, A.S. 1996. Ed.  J. Crowler, 5th Edition, Oxford 
+University Press, London. 
+A Text Book of Modern Functional English, by Begum, J. 1988. Globe Library Pvt.  Ltd. Dhaka. 
+English Pronouncing Dictionary, by Jones, D. 1977. University of Cambridge, U.K. 
+Department of  Agricultural Statistics 
+Level  -2 , Semester -II 
+COURSE NO. :STAT 215
+COURSE NO. :STAT 215
+COURSE NO. :STAT 215
+COURSE NO. :STAT 215 
+Course Title : Biostatistics 
+Credit hour : 2 
+Definition, scope and limitations of Statistics. Different types of variables. Frequency distribution: construction and graphical 
+representation. Measures of location and variation and shape characteristics of curves. 
+Random experiment, outcome, sample space, events, mutually exclusive, equally likely, independent and dependent events. 
+Mathematical and statistical definitions of probability, compound and conditional probability. Additive and multiplicative laws 
+of probability. Random variable, probability distribution. Probability function. Binormial, Poisson and Normal distributions. 
+Simple correlation and regression : Scatter diagram, Pearson’s correlation coefficient with its properties, least squares method 
+for fitting regression line. Properties of regression coefficients. 
+ 
+ 
+45
+Population and sample. Hypothesis, null and alternative hypotheses, type I error, type II error, level of significance. Basic 
+steps for testing hypothesis. Statistical tests: a population mean is equal to a specified value, equality of two population means 
+(independent & correlated), significance of correlation and regression coefficients, independence of attributes. 
+Experimental design : Basic concepts and principles. Completely randomized and randomized block designs. Basic study 
+design : cohort study, cross-sectional study and case control study. Measures of disease frequency : rates (prevalence and 
+incidence), ratios (odds ratio and risk ratio). 
+ 
+Department of  Agricultural Statistics
+Department of  Agricultural Statistics
+Department of  Agricultural Statistics
+Department of  Agricultural Statistics 
+Level  -2 , Semester -II 
+COURSE NO. :STAT 216
+COURSE NO. :STAT 216
+COURSE NO. :STAT 216
+COURSE NO. :STAT 216 
+Course Title : Biostatistics 
+Credit hour : 1 
+Frequency tables and their graphical representation. Measures of location and variation. Moments. Measures of skewness and 
+kurtosis. Pearson'’ correlation coefficient. Fitting linear regression to observed data by the method of least squares. 
+Statistical tests : A population mean is equal to a specified value, equality of two population means (for both independent & 
+correlated samples), a population proportion is equal to a specified value, equality of two population means (for both 
+independent & correlated samples), a population proportion is equal to a specified value, equality of two population 
+proportions, independence of attributes, significance of correlation and regression coefficients. 
+Analysis of variance for completely randomized and randomized block designs. 
+ 
+Recommended Books (STAT 215 & 216) 
+Fundamentals of Mathematical Statistics,  Gupta, S.C. & V.K. Kappor (1983). S. Chand and Chand Company Ltd., New 
+Delhi. 
+Epidemiologic Research : Principles and Quantitative Methods, Kleinbaum, D.G, L.L. Kupper and H. Morgenstern (1982), 
+Van Nostrand Reinhold, New York. 
+Statistics Methods in Agriculture and Experimental Biology. Meed R. and Currow R.N. (1983), Chapman and Hall, Lond 
+An Introduction to the Theory of Statistics, Shil, R.N. and S.C. Debnath (1992), Minati Shil and Amita Debnath, Mymensingh. 
+Principles and procedures of Statistics,  Steel, R.G.D and J.H. Torrie (1960), McGraw-Hill Book Co. Inc. New York. 
+Veterinary Epidemiology,  Thrusfield, M. (1986), Butterworth & Co. Ltd., London. 
+f¢lpwMÉ¡e x ašÅ J fË-u¡N, ¢àa£u pwØLle, Bq-jc, Bë¤l l¢nc, Bm£ BSNl i¥Cu¡ J S¤m¢gL¡l Bq-jc ®lS¡(2001), n¡jp¤e 
+e¡q¡l Bq-jc Nw Ešl ®pJa¡, j¡¢eLN” 
+fË¡b¢jL f¢lpwMÉ¡e, M¡e, ®j¡x Sue¡m B-hc£e J p¤i¡o Q¾cÐ ®che¡b (1987), S¡q¡e¡l¡ M¡e J A¢ja ®che¡b, juje¢pwq z 
+ 
+Department of Agricultural Extension Education 
+Level -4 , Semester-II 
+COURSE NO. :AGEXT 423
+COURSE NO. :AGEXT 423
+COURSE NO. :AGEXT 423
+COURSE NO. :AGEXT 423 
+Course Title : Agricultural Extension Education 
+Credit hour : 3 
+Agricultural Extension : Concept, meaning and principles of Agricultural Extension; Importance of veterinary extension and 
+livestock situation in Bangladesh. 
+Extension Organization and Leadership : Meaning and features of an extension organization. Meaning types and forms of 
+leadership. Qualifications of a good leader, role of professional and local leaders. 
+Motivation and learning : Concept and meaning of motivation. Maslow’s need theory. Learning process and laws of learning 
+with their implications.  
+Communication in Extension : Meaning and importance of communication process. Key elements in the communication 
+process. Factors affective communication in extension work for livestock development. 
+Extension Teaching Methods : Classification of extension teaching methods, Essential elements, requirements and 
+preparing/conducting of important extension teaching methods, advantages and limitations of using different extension 
+teaching methods with reference to Bangladesh condition. 
+Diffusion and Adoption of Innovation : Innovation and its types ; elements in the diffusion process; paradigm of innovation 
+decision process; innovativeness and adopter categories. 
+Programme Planning and Evaluation in Extension : Concept, importance, principles and steps of extension programme 
+planning for livestock development. Meaning, purpose, principles and steps of monitoring and evaluation of projects related to 
+veterinary extension work. 
+Department of  Agricultural Extension Education 
+Level -4 , Semester-II 
+ 
+ 
+46
+COURSE NO. :AGEXT 424
+COURSE NO. :AGEXT 424
+COURSE NO. :AGEXT 424
+COURSE NO. :AGEXT 424 
+Course Title : Agricultural Extension Education 
+Credit hour : 1 
+An orientation to different organizations related to agricultural and livestock development. 
+Preparation of interview schedule for collection of data about rural and livestock situation. 
+Preparation of teaching aids: poster, flashcards and leaflets. 
+Group discussion techniques : lecture, Role playing and Philip 66. 
+Extension Field trip to rural areas/Upazila Headquarters to observe rural development activities in the field situation with 
+special emphasis on livestock. 
+Books Recommended (AGEXT 423 & 424) 
+Leadership and Dynamic Group Action. Beal, G.M., J.M. Bholen and J.N. Roudabaugh 1972.  
+        Ames : The Iowa State University Press. 
+Krishi Samprasaran Parichiti, Bhyiya, M.H. 1988., Dhaka: Jamuna Printers 
+Samprasaran Monobignan. Bhuiya, M.H. and M.A.M. Miah. 1998. Dhaka : Dhaka, Krishi  
+        Lekhak Forum. 
+Extension Organization Management. Bhuiyan, M.H. 1999. Dhaka, Gulshan Publications 
+Education and Communication for Development. 2nd edn. Dahama, O.P. and O.P. Bhatnagar  
+       1980. New Delhi, Oxford and IBH Publishing Co. Pvt. Ltd. 
+Samprasaran Bijnan (Extension Science). Kashem, M.A. 1992. Dhaka, The Bangladesh Packing   
+       Press. 
+Cooperative Extension Work. 3rd edn. Kelsey, L.D, C.C. Hearne 1963. New York, Comstock  
+       Publishing. 
+Extension Communication and Management. 4th edn. Ray, G.L., 1996.  Kolkata, Naya Prokash.  
+       Rogers. E.M. 1995. Diffusion of Innovations. New York, The Free Press 
+Agricultural Extension. 2nd edn. Van den Ban, A.W. and H.S. Hawkins 1996. London Blackwell Science Ltd. 
+ 
+Department of Biochemistry
+Department of Biochemistry
+Department of Biochemistry
+Department of Biochemistry 
+Level -1, Semester -1 
+COURSE NO. : BCHEM 111
+COURSE NO. : BCHEM 111
+COURSE NO. : BCHEM 111
+COURSE NO. : BCHEM 111 
+Course title : Biophysics and Chemistry of Biomolecules 
+Credit hour : 3 
+Solutions and methods of expressing concentration. Law of mass action. Water, acids, bases and electrolytes pH and buffers. 
+Surface tension. Viscosity. Adsorption. Colloidal state and membrane phenomenon. Diffusion and 0smosis. 
+Sphectrophotometry, Electrophoresis, Isoelectric focussing chromatography. 
+Carbohydrates:  0ccurrence, classification, biological importance of carbohydrates and their derivatives. Cell wall 
+polysaccharides. 
+Proteins:  Classification and physiochemical properties. Classification of amino acids. Naturally occurring peptides. 
+Determination of amino terminal and carboxy terminal amino acids. Concept of protein structures. Denaturation. 
+Lipids: Classification, biological importance and functions. Chemistry of fatty acids, fats, phospholipids, sphingolipids, 
+glycolipids, lipoproteins and sterols. Lipids as membrane constituents. Characterization of fat. 
+Nucleic acids: 0ccurrence, classification, composition, structural features and physicochemical properties. 
+Hormones: Chemical nature, classification and biochemical functions. 
+ 
+Books Recommended: 
+ Biochemistry,  by Albert L. Lehninger, 1982. 2nd Edition. Kalyani Publishers. Ludhiana, New  
+          Delhi. 
+ Biochemistry,  by Lubert Stryer, 1986Published by S.K. Jain for CBS Publishers and  
+          Distributors, 485 Jain  Bhawan, Bola Nath Nagar, Delhi, India. 
+Harper’s Review of Biochemistry by David W. Martin, Jr. Peter A. Mayes, Victor W. Rodwell  
+          and  Davy K. 1983.  Granner. 20th Edition, 1983. Lange Medical Publication. Drawer L.  
+          Los, Altos, California, USA. 
+0utlines of   Biochemistry, by Eric E. Conn, Paul K. Stumpf, George Brueming and Roy, H. Doi.   
+         1987. John Wiley and Sons, New York. 
+Text Book of Biochemistry, by Edward S. West, Wilber R. Todd, Haward S. Mason and John  
+         T.Van Bruggan1966.  4th Edition. The Macmillan  Company. Collier-MaCmillan  
+          Ltd. London. 
+ 
+ 
+47
+ 
+Department of Biochemistry
+Department of Biochemistry
+Department of Biochemistry
+Department of Biochemistry 
+Level -1, Semester -1 
+COURSE NO. : 
+COURSE NO. : 
+COURSE NO. : 
+COURSE NO. : BCHEM 112
+BCHEM 112
+BCHEM 112
+BCHEM 112 
+ Course title : Biophysics and Chemistry of Biomolecules 
+Credit hour : 1 
+Preparation of solutions. Determination of pKa value. Preparation of buffer solutions and determination of pH. Activity of 
+salivary amylase. Colour tests of carbohydrates and proteins. Separation and identification of sugars and amino acids by TLC. 
+Determination of reducing sugars. Detection of sugars and proteins in blood and urine. Solulbility tests for fats.Estimation of 
+vitamin C and thiamine. 
+Books Recommended: 
+An introduction to practical Biochemistry, by Davit T. Plummer.1995. Tata McGraw-Hill  
+         Publishing Company  Limited, New Delhi. 
+Biochemistry Laboratory Manual by  F. M. Strong  1965. WM.C. Brown Company  
+         Publishers, USA. 
+Biochemistry Laboratory Technioques, by Sterling Chaykin 1970. Wiley Eastern Private  
+         Limited, New Delhi. 
+Biochemical Calculations. How to Solve Mathematical Problem in General Biochemistry,  
+          by  Irwin H. Segel 1968.  John Wiley and Sons, Inc. New York. 
+Experimental Biochemistry. A Laboratory Manual, by Gerald Litwack 1960. John Liley  
+          and Sons. Inc, New York.        
+Association of Official Analytical Chemists (AOAC), Official Methods of Analysis. By  
+          Washington  D.C., 1990. 
+ Practical Clinical Biochemistry. Vol. 1, Varley, H; Gowelock, A.H. and Bell, M. 1980.  
+          William Heinemann Medical Books Ltd. London, U.K. 
+Department of Biochemistry 
+Level 1, Semester II 
+COURSE NO. : BCHEM 123
+COURSE NO. : BCHEM 123
+COURSE NO. : BCHEM 123
+COURSE NO. : BCHEM 123 
+Course Title : Metabolism of Biomolecules. 
+Credit hour : 3 
+Free energy, Entrophy and enthalpy. Exergonic and endergonic  reactions. ADP-ATP cycle.  
+Enzymes: Classification . Elements of kinetics. Mode of  action. Coenzymes. Inhibition and prosthetic groups. Clinical 
+importance of enzymes.  
+An overview of metabolism. 
+Stages in the breakdown of biomolecules. 
+Carbohydrate metabolism: Glycolysis, Krebs cycle, Entry of different substances in glycolytic pathway. Gluconeogenesis, 
+Alcoholic fermentation.  Cori cycle. Metabolic regulation of glycolysis and Krebs cycle. Shuttle systems. Electron transport 
+chain. 0xidative and substrate level phosphorylations. Pentose phosphate pathway. Lactose biosynthesis. 
+Protein metabolism: Blood amino acid pool. Nitrogen balance. Catabolism of amino acids. Transamination, Deamination, 
+decarboxylation, deamidation. Inborn error of amino acid metabolism. Detoxification of ammonia in liver and brain. 
+Lipid metabolism: Biological oxidation of fatty acids, Propionate catabolism in animals. Ketone body formation,  utilization 
+and physiological effects of ketosis. Biosynthesis of fatty acids. 
+Nucleic acid metabolism: Replication, transcription and translation. Recombinant DNA. 
+Vitamin and Mineral : Sources and biochemical functions. 
+ 
+Books Recommended:  
+Applied Human Nutrition, F. Ann Walker. 1990.. Ellis Horwood Limited, West Sussex, England. 
+Biochemistry. 2nd Edition,  Albert L. Lehminger. 1982.. Kalyani Publishers. Ludhiana, New Delhi.. 
+Biochemistry, Lubert Stryer. 1986. Publshed by S.K. Jain for CBS Publishers and Distributors, 485 Jain  Bhawan, Bhola Nath 
+Nagar, Delhi. 
+ 
+ 
+48
+Harper’s Review of Biochemistry.  Granner. 20th Edition. David W. Martin, Jr. Peter A. Mayes, Victor W. Rodwell & Davy’ 
+K. 1983. Lange Medical Publication. Drawer L. Los, Altos, California, USA.  
+Nutrition in Health and Disease,  Helen M. S.  1976.. J.B. Lippincott Company, Philadelphia. 
+0utlines of Biochemistry, Conn, E.E., Paul K. Stumpf, George Brueming and Roy, H. Doi. 1987. John Wiley and Sons. New 
+York.  
+Text Book of Biochemistry,  4th Edition. Edward S. West, Wilber R.Todd, Haward S. Mason & John T. Van Bruggan. 1966. 
+The MaCmillan  Company. Collier-MaCmillan Ltd. London. 
+ 
+Department of Biochemistry 
+Level 1, Semester II 
+COURSE NO. : BCHEM 124
+COURSE NO. : BCHEM 124
+COURSE NO. : BCHEM 124
+COURSE NO. : BCHEM 124 
+Course Title : Metabolism of Biomolecules. 
+Credit hour : 1 
+Separation of allbumins and globulins. 
+Determination of isoelectric pH. 
+Estimation of proteins by Kjeldahl and Biuret methods. 
+Determination of saponification value, iodine value and acid value. 
+Estimation of cholesterol. 
+Estimation of serum phosphorus. 
+Assay of SAP, SGPT and SGOT. 
+Books Recommended: 
+An introduction to practical Biochemistry, David T. Plummer 1995. Tata McGraw-Hill Publishing Company Limited,  New 
+Delhi. 
+Biochemical Calculations. How to Solve Mathematical Problem in General Biochemistry. Irwin H.Segel 1968. John  Wiley 
+and Sons, Inc. New York. 
+Biochemistry Laboratory Manual. F. M. Strong 1965. WM.C. Brown Company Publishers, USA. 
+Biochemistry Laboratory Technioques, Sterling Chaykin 1970.. Wiley Eastern Private Limited, New Delhi. 
+Experimental Biochemistry, Gerald Litwack 1960.. A Laboratory Manual. John Liley and Sons. Inc, New York.    
+Official Methods of Analysis. Association of Official Analytical Chemists (AOAC), Washington  D.C., 1990. 
+Practical Clinical Biochemistry. Verley, H.; Gowelock, A.H. and Bell, M. 1980. Vol. 1. William Heinemann Medical Books 
+Ltd. London, U.K. 
+ 
+Department of Agronomy
+Department of Agronomy
+Department of Agronomy
+Department of Agronomy 
+Level -2, Semester-1 
+COURSE NO. : AGRON 211
+COURSE NO. : AGRON 211
+COURSE NO. : AGRON 211
+COURSE NO. : AGRON 211 
+ Course title : Forage Agronomy 
+Credit hour : 2 
+Introduction to Agronomy: Definition and scope of Agronomy. Relationship of Agronomy with other branches of 
+Agriculture. 
+Climatology: Concept of weather and climate. Effect of temperature, day length and solar radiation on growth, development 
+and yield of crops. Cropping seasons of Bangladesh and their characteristics.  
+Crops and Cropping Systems: Agronomic classification of crops. Methods of cropping. Crop suitability in different 
+agroecological zones in Bangladesh. Distribution of crops in relation to season, soil and land topography. 
+Soil and Soil Management: Definition of soil. Physical and chemical properties of soil. Soil organic matter and soil 
+organisms. Soil fertility and productivity. 
+Tillage: Concept, objectives and types of tillage. Effect of tillage on soil characteristics and nutrient availability. 
+Characteristics of ideal tilth.  
+Plant Nutrition: Plant nutrient elements, their sources and forms of absorption. Functions and deficiency symptoms of 
+nutrient elements in crop plants. Concept of manures and fertilizers. 
+Intercultural Operations: Weeding, mulching and thinning, irrigation and drainage– their objectives, methods, advantages 
+and disadvantages.  
+Production Technology of Fodder Crops: Origin and distribution, botanical description, climate and soil requirements, 
+cultivation practices of the crops used as animal feed and fodder such as maize, sorghum, triticale, rice; cowpea, 
+soybean, barseem, alfalfa, sunnhemp, dhaincha, German grass:  napier, para, guinea and pangola grasses. 
+Pasture and Pasture Management: Concept and importance of pasture. Pasture establishment, management of pasture, and 
+pasture herbage utilization. Feasibility of pasturing in Bangladesh.  
+ 
+Department of Agronomy
+Department of Agronomy
+Department of Agronomy
+Department of Agronomy 
+ 
+ 
+49
+Level -2, Semester-1 
+COURSE NO. : AGRON 212
+COURSE NO. : AGRON 212
+COURSE NO. : AGRON 212
+COURSE NO. : AGRON 212 
+Course title : Forage Agronomy 
+Credit hour : 1 
+Identification and study of farm implements 
+Identification and study of crops 
+Identification and study of seeds 
+Identification and study of weeds 
+Identification and study of manures and fertilizers 
+Practising ploughing and determination of efficiency of plough. 
+Practising weeding, thinning and gap filling. 
+Practising mulching operations. 
+Preparation of compost. 
+Preservation of farm yard manures. 
+Practising different methods of application of manures and fertilizers. 
+Preparation of silage 
+Preparation of hay 
+Purity test of seed 
+Germination test of seed. 
+Study of the effect of plant nutrients/seed  rate/plant density on the performance of a fodder crop in students’ plot. 
+ 
+Books Recommended (Agron 211 &  212) 
+1. Fundamentals of Agronomy. by De, G. C. 1995. Oxford & IBH Publishing Co. Pvt. Ltd., New Delhi. 429p. 
+2. Production of Field Crops. By Kipps, M. S. 1978. Tata McGraw Hill Pub. Co. Ltd. New Delhi. 790p. 
+3. Pasture and Pasture Plants. by Langer, R. H. M. 1973. A. H. & A. W. Reed Ltd. Wellington, Sydney, London. 
+4. Introduction to Agro-meteorology. By Mavi, H. S. 1974. Oxford & IBH Publishing Co. Pvt. Ltd., New Delhi. 
+5. Crop Production and Management, by Morachan, Y. B. 1993. 2nd Edition (Reprint). Oxford & IBH Publishing Co. Pvt. Ltd. 
+New Delhi, Bombay, Calcutta. 294p. 
+6. Modern Techniques of Raising Field Crops, Singh, C. 1991. Oxford & IBH Publishing Co. Pvt. Ltd., New Delhi. 
+7. Principles and Practices of Agronomy, by Singh, S. S. 1996. 3rd Edition (Reprint). Kalyani Publishers, New Delhi.  
+Department of Computer Science & Mathematics 
+Level -1 , Semester -I 
+COURSE NO. : CSM. 112
+COURSE NO. : CSM. 112
+COURSE NO. : CSM. 112
+COURSE NO. : CSM. 112 
+Course Title : Computer Applications 
+Credit hour : 1 
+Computer science and computer fundamentals, hardware and software, data and information, information coding, number 
+systems and their internal representation, program and algorithm. 
+ 
+Computer operations in DOS and Windows environment; familiarity with the use of application software: text processing, 
+electronic sheet, data entry and management presentation materials preparation, statistical analysis, photoshop and illustration. 
+ 
+Books Recommended  
+Computer Science, France S, 5th Edition. 
+Office XP reference manual 
+Windows manual.  
+ 
